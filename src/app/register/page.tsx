@@ -10,6 +10,8 @@ export default function RegisterPage() {
   const [password, setPassword] = useState('')
   const [error, setError] = useState('')
   const [loading, setLoading] = useState(false)
+  const [focusedField, setFocusedField] = useState<string | null>(null)
+  const [btnHover, setBtnHover] = useState(false)
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
@@ -28,45 +30,116 @@ export default function RegisterPage() {
   }
 
   return (
-    <div style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', background: '#FBFBFD', fontFamily: '-apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif' }}>
-      <div style={{ width: '100%', maxWidth: 400, padding: '0 24px' }}>
-        <div style={{ textAlign: 'center', marginBottom: 36 }}>
-          <div style={{ fontSize: 32, marginBottom: 8 }}>📊</div>
-          <h1 style={{ fontSize: 28, fontWeight: 700, color: '#1D1D1F', letterSpacing: '-0.015em', margin: 0 }}>B2B Sales Job</h1>
-          <p style={{ color: '#6E6E73', marginTop: 6, fontSize: 15 }}>Create your account</p>
+    <>
+      <style>{`
+        @keyframes spin { to { transform: rotate(360deg); } }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+      `}</style>
+      <div style={{
+        minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center',
+        background: 'linear-gradient(135deg, #F5F5F7 0%, #FBFBFD 100%)',
+        fontFamily: '-apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif',
+        padding: '24px',
+      }}>
+        <div style={{
+          width: '100%', maxWidth: 400,
+          background: '#fff', borderRadius: 20,
+          padding: '44px 40px 40px',
+          boxShadow: '0 2px 8px rgba(0,0,0,0.06), 0 16px 48px rgba(0,0,0,0.08)',
+          animation: 'fadeIn 0.4s ease',
+        }}>
+          {/* Logo mark */}
+          <div style={{ textAlign: 'center', marginBottom: 32 }}>
+            <div style={{
+              display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+              width: 52, height: 52, borderRadius: 14,
+              background: 'linear-gradient(145deg, #0071E3, #0084FF)',
+              marginBottom: 16, boxShadow: '0 4px 12px rgba(0,113,227,0.3)',
+            }}>
+              <svg width="26" height="22" viewBox="0 0 26 22" fill="none">
+                <rect x="0" y="8" width="6" height="14" rx="2" fill="rgba(255,255,255,0.6)"/>
+                <rect x="10" y="4" width="6" height="18" rx="2" fill="rgba(255,255,255,0.85)"/>
+                <rect x="20" y="0" width="6" height="22" rx="2" fill="#fff"/>
+              </svg>
+            </div>
+            <h1 style={{ fontSize: 26, fontWeight: 700, color: '#1D1D1F', letterSpacing: '-0.02em', margin: '0 0 6px' }}>B2B Sales Job</h1>
+            <p style={{ color: '#6E6E73', fontSize: 14, margin: 0 }}>Create your account</p>
+          </div>
+
+          <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
+            <input
+              type="text" placeholder="Your name" value={name}
+              onChange={e => setName(e.target.value)}
+              onFocus={() => setFocusedField('name')} onBlur={() => setFocusedField(null)}
+              style={inputStyle(focusedField === 'name')}
+            />
+            <input
+              type="email" placeholder="Email address" value={email}
+              onChange={e => setEmail(e.target.value)} required
+              onFocus={() => setFocusedField('email')} onBlur={() => setFocusedField(null)}
+              style={inputStyle(focusedField === 'email')}
+            />
+            <input
+              type="password" placeholder="Password (min 6 characters)" value={password}
+              onChange={e => setPassword(e.target.value)} required
+              onFocus={() => setFocusedField('password')} onBlur={() => setFocusedField(null)}
+              style={inputStyle(focusedField === 'password')}
+            />
+
+            {error && (
+              <div style={{
+                background: '#FFF2F2', border: '1px solid #FFCDD2', borderRadius: 10,
+                padding: '10px 14px', color: '#D32F2F', fontSize: 13,
+              }}>
+                {error}
+              </div>
+            )}
+
+            <button
+              type="submit" disabled={loading}
+              onMouseEnter={() => setBtnHover(true)} onMouseLeave={() => setBtnHover(false)}
+              style={{
+                marginTop: 4, padding: '14px 16px', borderRadius: 980,
+                background: btnHover && !loading ? '#0062C4' : '#0071E3',
+                color: '#fff', border: 'none', fontSize: 15, fontWeight: 600,
+                fontFamily: 'inherit', cursor: loading ? 'not-allowed' : 'pointer',
+                opacity: loading ? 0.8 : 1,
+                transform: btnHover && !loading ? 'scale(0.99)' : 'scale(1)',
+                transition: 'background 0.15s, transform 0.1s, opacity 0.15s',
+                display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8,
+              }}
+            >
+              {loading && (
+                <span style={{
+                  width: 16, height: 16, border: '2px solid rgba(255,255,255,0.4)',
+                  borderTopColor: '#fff', borderRadius: '50%',
+                  animation: 'spin 0.7s linear infinite', display: 'inline-block',
+                }}/>
+              )}
+              {loading ? 'Creating account…' : 'Create Account'}
+            </button>
+          </form>
+
+          <p style={{ textAlign: 'center', marginTop: 24, fontSize: 14, color: '#6E6E73' }}>
+            Already have an account?{' '}
+            <Link href="/login" style={{ color: '#0071E3', textDecoration: 'none', fontWeight: 500 }}>
+              Sign In
+            </Link>
+          </p>
         </div>
-        <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
-          <input
-            type="text" placeholder="Your name" value={name} onChange={e => setName(e.target.value)}
-            style={inputStyle}
-          />
-          <input
-            type="email" placeholder="Email address" value={email} onChange={e => setEmail(e.target.value)} required
-            style={inputStyle}
-          />
-          <input
-            type="password" placeholder="Password (min 6 characters)" value={password} onChange={e => setPassword(e.target.value)} required
-            style={inputStyle}
-          />
-          {error && <p style={{ color: '#FF3B30', fontSize: 13, margin: 0 }}>{error}</p>}
-          <button type="submit" disabled={loading} style={btnStyle}>
-            {loading ? 'Creating account…' : 'Create Account'}
-          </button>
-        </form>
-        <p style={{ textAlign: 'center', marginTop: 20, fontSize: 14, color: '#6E6E73' }}>
-          Already have an account?{' '}
-          <Link href="/login" style={{ color: '#0071E3', textDecoration: 'none', fontWeight: 500 }}>Sign In</Link>
-        </p>
       </div>
-    </div>
+    </>
   )
 }
 
-const inputStyle: React.CSSProperties = {
-  padding: '13px 16px', borderRadius: 10, border: '1px solid #D2D2D7', fontSize: 15,
-  fontFamily: 'inherit', outline: 'none', background: '#fff', color: '#1D1D1F', width: '100%', boxSizing: 'border-box',
-}
-const btnStyle: React.CSSProperties = {
-  padding: '13px 16px', borderRadius: 980, background: '#0071E3', color: '#fff', border: 'none',
-  fontSize: 15, fontWeight: 500, fontFamily: 'inherit', cursor: 'pointer', marginTop: 4,
+function inputStyle(focused: boolean): React.CSSProperties {
+  return {
+    padding: '13px 16px', borderRadius: 10,
+    border: focused ? '1.5px solid #0071E3' : '1.5px solid #E5E5EA',
+    fontSize: 15, fontFamily: 'inherit', outline: 'none',
+    background: focused ? '#F5F9FF' : '#FAFAFA',
+    color: '#1D1D1F', width: '100%', boxSizing: 'border-box',
+    transition: 'border-color 0.15s, background 0.15s, box-shadow 0.15s',
+    boxShadow: focused ? '0 0 0 3px rgba(0,113,227,0.12)' : 'none',
+  }
 }
