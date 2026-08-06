@@ -127,12 +127,15 @@ function CompanyCard({ company, isFreq, status, onStatusChange }: {
         <div style={{ borderTop: '1px solid #E8E8ED' }}>
           {/* Tabs */}
           <div style={{ display: 'flex', borderBottom: '1px solid #E8E8ED', overflowX: 'auto', padding: '0 24px' }}>
-            {tabs.map(t => (
-              <button key={t} onClick={() => setTab(t.toLowerCase().replace(' & ', '-').replace(' ', '-'))}
-                style={{ padding: '12px 16px', border: 'none', background: 'transparent', fontSize: 14, fontWeight: 500, fontFamily: 'inherit', cursor: 'pointer', whiteSpace: 'nowrap', color: tab === t.toLowerCase().replace(' & ', '-').replace(' ', '-') ? BLUE : '#86868B', borderBottom: tab === t.toLowerCase().replace(' & ', '-').replace(' ', '-') ? `2px solid ${BLUE}` : '2px solid transparent' }}>
+            {tabs.map(t => {
+              const slug = t.toLowerCase().replace(/ & /g, '-&-').replace(/ /g, '-')
+              return (
+              <button key={t} onClick={() => setTab(slug)}
+                style={{ padding: '12px 16px', border: 'none', background: 'transparent', fontSize: 14, fontWeight: 500, fontFamily: 'inherit', cursor: 'pointer', whiteSpace: 'nowrap', color: tab === slug ? BLUE : '#86868B', borderBottom: tab === slug ? `2px solid ${BLUE}` : '2px solid transparent' }}>
                 {t}
               </button>
-            ))}
+              )
+            })}
           </div>
 
           <div style={{ padding: '20px 24px' }}>
