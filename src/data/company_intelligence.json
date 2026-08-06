@@ -7,11 +7,21 @@
     "funding": {
       "total_raised": "$82.2M+ across 3 rounds; ~$340M secondary transaction in 2020 led by Vitruvian Partners and Lead Edge Capital",
       "last_round": "Secondary/growth equity (2020)",
-      "investors": ["Vitruvian Partners", "Lead Edge Capital"],
+      "investors": [
+        "Vitruvian Partners",
+        "Lead Edge Capital"
+      ],
       "stage": "Growth / Pre-IPO"
     },
     "revenue_estimate": "$83.8M ARR (201-500 employees)",
-    "competitors": ["Oracle Java", "Red Hat OpenJDK", "Amazon Corretto", "JetBrains", "Heroku", "GraalVM (Oracle)"],
+    "competitors": [
+      "Oracle Java",
+      "Red Hat OpenJDK",
+      "Amazon Corretto",
+      "JetBrains",
+      "Heroku",
+      "GraalVM (Oracle)"
+    ],
     "recent_news": "July 2026: Moved NYSE listing from NYSE American to NYSE. Announced monthly critical security patch cadence for Java.",
     "verified": true
   },
@@ -23,11 +33,20 @@
     "funding": {
       "total_raised": "Undisclosed (3 investors)",
       "last_round": "Unknown",
-      "investors": ["Undisclosed"],
+      "investors": [
+        "Undisclosed"
+      ],
       "stage": "Seed/Early"
     },
     "revenue_estimate": "$13.7M ARR (66 employees)",
-    "competitors": ["Recharge (acquired Skio for $105M)", "Stay AI", "OrderGroove", "AppDirect", "Skio", "Smartrr"],
+    "competitors": [
+      "Recharge (acquired Skio for $105M)",
+      "Stay AI",
+      "OrderGroove",
+      "AppDirect",
+      "Skio",
+      "Smartrr"
+    ],
     "recent_news": "April 2026: Recharge acquired Skio for $105M, consolidating the Shopify subscriptions market. Loop maintains 4.9-star rating with 650+ reviews on Shopify App Store.",
     "verified": true
   },
@@ -39,11 +58,24 @@
     "funding": {
       "total_raised": "$40.1M across 4 rounds",
       "last_round": "Series B (September 2021)",
-      "investors": ["Bessemer Venture Partners", "Greycroft", "Liquid 2 Ventures", "XL2 Ventures"],
+      "investors": [
+        "Bessemer Venture Partners",
+        "Greycroft",
+        "Liquid 2 Ventures",
+        "XL2 Ventures"
+      ],
       "stage": "Series B"
     },
     "revenue_estimate": "Not publicly disclosed (201-500 employees)",
-    "competitors": ["Kore.ai", "Atomicwork", "Ema", "Moveworks", "ServiceNow HRSD", "Rezolve.ai", "Microsoft Copilot for M365"],
+    "competitors": [
+      "Kore.ai",
+      "Atomicwork",
+      "Ema",
+      "Moveworks",
+      "ServiceNow HRSD",
+      "Rezolve.ai",
+      "Microsoft Copilot for M365"
+    ],
     "recent_news": "October 2025: Launched AI Colleague Studio for enterprise agent customization. Atomicwork (competitor) raised funding in Sept 2025.",
     "verified": true
   },
@@ -55,11 +87,21 @@
     "funding": {
       "total_raised": "Undisclosed Seed round (August 2023)",
       "last_round": "Seed (August 2023)",
-      "investors": ["Undisclosed"],
+      "investors": [
+        "Undisclosed"
+      ],
       "stage": "Seed"
     },
     "revenue_estimate": "Not publicly disclosed (51-200 employees)",
-    "competitors": ["BrowserStack", "Tricentis", "SmartBear", "UiPath Agentic Automation", "Panaya", "Sauce Labs", "LambdaTest"],
+    "competitors": [
+      "BrowserStack",
+      "Tricentis",
+      "SmartBear",
+      "UiPath Agentic Automation",
+      "Panaya",
+      "Sauce Labs",
+      "LambdaTest"
+    ],
     "recent_news": "2025: Won Global Recognition Award. Launched CoTester (AI test generation). Ranked 6th among 58 active competitors in test automation space.",
     "verified": true
   },
@@ -71,11 +113,21 @@
     "funding": {
       "total_raised": "$19.7M across 3 rounds",
       "last_round": "$10M Series A (December 2025)",
-      "investors": ["Susquehanna Asia Venture Capital", "Elevation Capital"],
+      "investors": [
+        "Susquehanna Asia Venture Capital",
+        "Elevation Capital"
+      ],
       "stage": "Series A"
     },
     "revenue_estimate": "$850M+ annualized payment volume; 40,000+ businesses (revenue not disclosed)",
-    "competitors": ["PayPal", "Wise Business", "Payoneer", "Razorpay Opfin", "Infinity", "traditional Indian banks"],
+    "competitors": [
+      "PayPal",
+      "Wise Business",
+      "Payoneer",
+      "Razorpay Opfin",
+      "Infinity",
+      "traditional Indian banks"
+    ],
     "recent_news": "September 2025: Partnership with Veem to power seamless USD collections for Indian businesses. December 2025: Closed $10M Series A.",
     "verified": true
   },
@@ -87,11 +139,21 @@
     "funding": {
       "total_raised": "$2.2M across 2 rounds",
       "last_round": "Seed/Early (2020)",
-      "investors": ["Surge Ventures", "2 undisclosed"],
+      "investors": [
+        "Surge Ventures",
+        "2 undisclosed"
+      ],
       "stage": "Seed"
     },
     "revenue_estimate": "Not publicly disclosed (51-200 employees, 164 per ZoomInfo)",
-    "competitors": ["Vendasta", "Broadly", "SOCi", "Yext", "Birdeye", "AI marketing automation platforms"],
+    "competitors": [
+      "Vendasta",
+      "Broadly",
+      "SOCi",
+      "Yext",
+      "Birdeye",
+      "AI marketing automation platforms"
+    ],
     "recent_news": "2025: Expanded Bengaluru office; actively scaling SDR team in India for US market outreach.",
     "verified": true
   },
@@ -103,11 +165,22 @@
     "funding": {
       "total_raised": "Undisclosed (estimated <$10M based on 51-200 employees and $1-10M revenue range)",
       "last_round": "Unknown",
-      "investors": ["Undisclosed"],
+      "investors": [
+        "Undisclosed"
+      ],
       "stage": "Seed/Series A"
     },
     "revenue_estimate": "$1-10M range (per LeadIQ/SignalHire)",
-    "competitors": ["AiPrise", "Onfido", "Jumio", "Sumsub", "ComplyAdvantage", "CleverChain", "Salv", "Muinmos"],
+    "competitors": [
+      "AiPrise",
+      "Onfido",
+      "Jumio",
+      "Sumsub",
+      "ComplyAdvantage",
+      "CleverChain",
+      "Salv",
+      "Muinmos"
+    ],
     "recent_news": "Named in Top 10 KYC Solutions in RegTech for 2026 (Fintech Global). Won 'Best PEP and Sanctions Solution' by Regtech Insights USA.",
     "verified": true
   },
@@ -119,11 +192,23 @@
     "funding": {
       "total_raised": "$194M",
       "last_round": "Series C",
-      "investors": ["Tiger Global Management", "Peak XV Partners (formerly Sequoia India)", "Insight Partners"],
+      "investors": [
+        "Tiger Global Management",
+        "Peak XV Partners (formerly Sequoia India)",
+        "Insight Partners"
+      ],
       "stage": "Series C / Unicorn ($1.1B valuation)"
     },
     "revenue_estimate": "Not publicly disclosed (valuation $1.1B; 745 employees as of Aug 2025)",
-    "competitors": ["LinkedIn India", "foundit (Naukri)", "WorkIndia", "Vahan", "Gigforce", "MyKaam", "Glassdoor"],
+    "competitors": [
+      "LinkedIn India",
+      "foundit (Naukri)",
+      "WorkIndia",
+      "Vahan",
+      "Gigforce",
+      "MyKaam",
+      "Glassdoor"
+    ],
     "recent_news": "2025: Appointed Kartik Narayan as CEO of Jobs Marketplace vertical. Headcount at 745 (Aug 2025), down 6% YoY.",
     "verified": true
   },
@@ -135,11 +220,20 @@
     "funding": {
       "total_raised": "Public company (NYSE: CRM)",
       "last_round": "N/A",
-      "investors": ["Public"],
+      "investors": [
+        "Public"
+      ],
       "stage": "Public (>$200B market cap)"
     },
     "revenue_estimate": "$34B+ ARR (FY2025)",
-    "competitors": ["HubSpot", "Microsoft Dynamics 365", "SAP CRM", "Oracle CRM", "Zendesk", "Freshworks"],
+    "competitors": [
+      "HubSpot",
+      "Microsoft Dynamics 365",
+      "SAP CRM",
+      "Oracle CRM",
+      "Zendesk",
+      "Freshworks"
+    ],
     "recent_news": "2026: India Managing Director for Sales appointed (Mankiran Chowhan). Arundhati Bhattacharya leads South Asia. Agentforce AI agent platform driving enterprise AI adoption.",
     "verified": true
   },
@@ -151,11 +245,22 @@
     "funding": {
       "total_raised": "$59.2M across 3 rounds",
       "last_round": "$57M Series A led by WestBridge Capital",
-      "investors": ["WestBridge Capital"],
+      "investors": [
+        "WestBridge Capital"
+      ],
       "stage": "Series A"
     },
     "revenue_estimate": "$52.5M ARR (2025)",
-    "competitors": ["Darwinbox", "greytHR", "Zoho People", "PeopleStrong", "HRMantra", "Workday", "SumoPayroll", "Nitso HRMS"],
+    "competitors": [
+      "Darwinbox",
+      "greytHR",
+      "Zoho People",
+      "PeopleStrong",
+      "HRMantra",
+      "Workday",
+      "SumoPayroll",
+      "Nitso HRMS"
+    ],
     "recent_news": "2025: VP Sales Dheeraj Kumar Pandey cited in media. Expanding US market with dedicated SDR team from Bengaluru. 10,000+ businesses across 1,572 customers in India alone.",
     "verified": true
   },
@@ -167,11 +272,19 @@
     "funding": {
       "total_raised": "Acquired by Thomas H. Lee Partners (2022, ~$8.4B); previously public (NASDAQ: AVLR)",
       "last_round": "Acquired/Private",
-      "investors": ["Thomas H. Lee Partners"],
+      "investors": [
+        "Thomas H. Lee Partners"
+      ],
       "stage": "Private (post-acquisition)"
     },
     "revenue_estimate": "$800M+ (pre-acquisition estimate); $1,001-5,000 employees",
-    "competitors": ["Vertex", "TaxJar (Stripe)", "Thomson Reuters ONESOURCE", "SAP Indirect Tax", "Sovos"],
+    "competitors": [
+      "Vertex",
+      "TaxJar (Stripe)",
+      "Thomson Reuters ONESOURCE",
+      "SAP Indirect Tax",
+      "Sovos"
+    ],
     "recent_news": "July 2025: Named new CMO and CIO. 2026: APAC India office in Pune expanding with SDR roles. Positioning as 'agentic AI platform' for compliance.",
     "verified": true
   },
@@ -183,11 +296,22 @@
     "funding": {
       "total_raised": "$9.5M across 3 rounds",
       "last_round": "$1.8M seed led by Accel (for CRO Agents launch)",
-      "investors": ["Accel", "12 other investors"],
+      "investors": [
+        "Accel",
+        "12 other investors"
+      ],
       "stage": "Seed"
     },
     "revenue_estimate": "Not publicly disclosed (11-50 employees)",
-    "competitors": ["Optimizely", "VWO", "Adobe Target", "Webflow", "Unbounce", "Dynamic Yield (Mastercard)", "Ninetailed"],
+    "competitors": [
+      "Optimizely",
+      "VWO",
+      "Adobe Target",
+      "Webflow",
+      "Unbounce",
+      "Dynamic Yield (Mastercard)",
+      "Ninetailed"
+    ],
     "recent_news": "2025: Launched AI-Agents for CRO (Yahoo Finance / PRNewswire). Raised $1.8M from Accel for CRO Agents Workforce. Trusted by Fortune 50 banks.",
     "verified": true
   },
@@ -199,11 +323,24 @@
     "funding": {
       "total_raised": "$100M Series D (March 2026) + prior rounds (total ~$400M estimated)",
       "last_round": "$100M Series D (March 2026)",
-      "investors": ["Ningbo Ninghai Xingtaihe Fund", "Wonderland Capital", "Liangxi Science and Innovation Fund", "Strategic OEM investors"],
+      "investors": [
+        "Ningbo Ninghai Xingtaihe Fund",
+        "Wonderland Capital",
+        "Liangxi Science and Innovation Fund",
+        "Strategic OEM investors"
+      ],
       "stage": "Series D"
     },
     "revenue_estimate": "Not publicly disclosed (501-1000 employees; hardware+software B2B model)",
-    "competitors": ["Mobileye", "Waymo", "Pony.ai", "Cruise", "Innoviz", "Horizon Robotics", "Momenta"],
+    "competitors": [
+      "Mobileye",
+      "Waymo",
+      "Pony.ai",
+      "Cruise",
+      "Innoviz",
+      "Horizon Robotics",
+      "Momenta"
+    ],
     "recent_news": "January 2026: Launched next-gen 500+ TOPS autonomous driving solution, scaled NOA to 1M+ vehicles. March 2026: Closed $100M Series D. April 2026: CEO at Munich conference on Physical AI shift.",
     "verified": true
   },
@@ -219,7 +356,15 @@
       "stage": "Bootstrapped"
     },
     "revenue_estimate": "Not publicly disclosed (11-50 employees, 2023 founding)",
-    "competitors": ["Second Nature (raised $22M Oct 2025)", "Demodesk", "Brainshark", "SmartWinnr", "Mindtickle", "Quantified", "Seismic"],
+    "competitors": [
+      "Second Nature (raised $22M Oct 2025)",
+      "Demodesk",
+      "Brainshark",
+      "SmartWinnr",
+      "Mindtickle",
+      "Quantified",
+      "Seismic"
+    ],
     "recent_news": "2025: Listed on Microsoft AppSource. Press coverage on bringing AI sales training to India's enterprise market (CXOToday). Hiring enterprise sales SDRs in Mumbai.",
     "verified": true
   },
@@ -235,7 +380,16 @@
       "stage": "Bootstrapped / Profitable"
     },
     "revenue_estimate": "Rs. 38.1Cr ($4.5M) for Celoxis Technologies FY2025 (13% revenue CAGR)",
-    "competitors": ["TestRail", "Qase", "PractiTest", "Zephyr (SmartBear)", "TestCollab", "Atlassian JIRA", "SpiraTest", "Kualitee"],
+    "competitors": [
+      "TestRail",
+      "Qase",
+      "PractiTest",
+      "Zephyr (SmartBear)",
+      "TestCollab",
+      "Atlassian JIRA",
+      "SpiraTest",
+      "Kualitee"
+    ],
     "recent_news": "2025: Ranked as top test management tool for QA teams. Parent Celoxis reported Rs. 38.1Cr revenue with 187% EBITDA CAGR.",
     "verified": true
   },
@@ -251,7 +405,15 @@
       "stage": "Bootstrapped / Profitable"
     },
     "revenue_estimate": "$25M ARR (Appitsimple); CallHippo: $21.1M ARR",
-    "competitors": ["Aircall", "CloudTalk", "RingCentral", "Zendesk Talk", "Freshcaller", "JustCall", "Talkdesk"],
+    "competitors": [
+      "Aircall",
+      "CloudTalk",
+      "RingCentral",
+      "Zendesk Talk",
+      "Freshcaller",
+      "JustCall",
+      "Talkdesk"
+    ],
     "recent_news": "2025: Expanded AI agents and sales dialer capabilities. Founded in 2017, now 51-200 employees across Ahmedabad HQ and Bengaluru.",
     "verified": true
   },
@@ -263,11 +425,22 @@
     "funding": {
       "total_raised": "₹25 crore (~$2.76M) Series A",
       "last_round": "₹25 crore Series A led by Big Capital JSC (Vietnam); IvyCap Ventures; YourNest VC",
-      "investors": ["Big Capital JSC", "IvyCap Ventures", "YourNest Venture Capital"],
+      "investors": [
+        "Big Capital JSC",
+        "IvyCap Ventures",
+        "YourNest Venture Capital"
+      ],
       "stage": "Series A"
     },
     "revenue_estimate": "Rs. 5.57Cr ($670K) FY2025 (up from Rs. 3.09Cr FY2024)",
-    "competitors": ["AssetCues", "Fracttal", "FIT Global", "Infinite Uptime", "Proxgy", "Algo8"],
+    "competitors": [
+      "AssetCues",
+      "Fracttal",
+      "FIT Global",
+      "Infinite Uptime",
+      "Proxgy",
+      "Algo8"
+    ],
     "recent_news": "Raised ₹25Cr Series A from Big Capital JSC (Vietnam) and IvyCap. Revenue doubled YoY to Rs. 5.57Cr in FY2025. Hiring SDR in Bhubaneswar for enterprise expansion.",
     "verified": true
   },
@@ -279,11 +452,28 @@
     "funding": {
       "total_raised": "$149M across 13 rounds (some sources: $308M)",
       "last_round": "$15M Series B (most recent; May 2026 per search results — likely earlier round referenced incorrectly)",
-      "investors": ["Salesforce Ventures", "Sequoia India (Peak XV)", "Lightspeed India", "Endiya Partners", "3one4 Capital", "Tiger Global"],
+      "investors": [
+        "Salesforce Ventures",
+        "Sequoia India (Peak XV)",
+        "Lightspeed India",
+        "Endiya Partners",
+        "3one4 Capital",
+        "Tiger Global"
+      ],
       "stage": "Late Stage / Unicorn (~$1B valuation)"
     },
     "revenue_estimate": "$100M (2025)",
-    "competitors": ["Workday", "SAP SuccessFactors", "PeopleStrong", "Factorial", "Cornerstone OnDemand", "Keka HR", "greytHR", "Rippling", "Deel"],
+    "competitors": [
+      "Workday",
+      "SAP SuccessFactors",
+      "PeopleStrong",
+      "Factorial",
+      "Cornerstone OnDemand",
+      "Keka HR",
+      "greytHR",
+      "Rippling",
+      "Deel"
+    ],
     "recent_news": "July 2026: Appointed Akshay Murthy as VP & Country Head India (ex-Salesforce). April 2025: Named Sudi Bjornstad Korba as SVP North America Sales. Co-CEO model with Chaitanya Peddi and Jayant Paleti.",
     "verified": true
   },
@@ -299,7 +489,15 @@
       "stage": "Seed/Bootstrapped"
     },
     "revenue_estimate": "Not publicly disclosed",
-    "competitors": ["Twilio", "Sinch", "Telnyx", "Vonage (Ericsson)", "Bandwidth", "MessageBird", "Plivo"],
+    "competitors": [
+      "Twilio",
+      "Sinch",
+      "Telnyx",
+      "Vonage (Ericsson)",
+      "Bandwidth",
+      "MessageBird",
+      "Plivo"
+    ],
     "recent_news": "2025: Actively hiring GTM Engineer in India (remote) to build outbound sales motion. Expanding market presence beyond US through India office.",
     "verified": true
   },
@@ -311,12 +509,226 @@
     "funding": {
       "total_raised": "$13M across multiple rounds",
       "last_round": "$5M seed (February 2026) led by Prosus Ventures + Salica Oryx Fund",
-      "investors": ["Prosus Ventures", "Salica Oryx Fund", "Oraseya Capital", "PlusVC", "F6 Ventures", "BDev Ventures", "Sunny Side Venture Partners"],
+      "investors": [
+        "Prosus Ventures",
+        "Salica Oryx Fund",
+        "Oraseya Capital",
+        "PlusVC",
+        "F6 Ventures",
+        "BDev Ventures",
+        "Sunny Side Venture Partners"
+      ],
       "stage": "Seed"
     },
     "revenue_estimate": "Not publicly disclosed (11-50 employees)",
-    "competitors": ["LinkedIn Recruiter", "Greenhouse", "Lever", "Juicebox (raised $30M Series A from Sequoia Sept 2025)", "Manatal", "Workable"],
+    "competitors": [
+      "LinkedIn Recruiter",
+      "Greenhouse",
+      "Lever",
+      "Juicebox (raised $30M Series A from Sequoia Sept 2025)",
+      "Manatal",
+      "Workable"
+    ],
     "recent_news": "February 2026: Closed $5M seed from Prosus Ventures. Hiring across US, UK, India markets with active sales roles posted. Positioned as 'AI recruiting platform that finds talent beyond your reach.'",
+    "verified": true
+  },
+  {
+    "company_id": 24,
+    "company_name": "Kasparro AI",
+    "product_summary": "AI Visibility / GEO platform helping e-commerce brands monitor, control, and improve their eligibility in AI-driven discovery (ChatGPT, Gemini, Perplexity, Google AI Mode). Covers monitoring/intelligence, on-site technical fixes and content, off-site engagement, and authority/citation building.",
+    "icp": "E-commerce and growth teams worried about being excluded, misrepresented, or hallucinated by AI shopping assistants and answer engines.",
+    "funding": {
+      "total_raised": "Not publicly disclosed",
+      "last_round": "Unknown (backed by 'experienced founders, CMOs, and angels' per company site)",
+      "investors": [
+        "Undisclosed"
+      ],
+      "stage": "Pre-seed / Very early (founded 2026)"
+    },
+    "revenue_estimate": "Not publicly disclosed (2-10 employees)",
+    "competitors": [
+      "Profound",
+      "Athena (AI visibility)",
+      "Peec AI",
+      "traditional SEO/GEO tool vendors"
+    ],
+    "recent_news": "Company founded 2026; very early stage, minimal public information available.",
+    "verified": true
+  },
+  {
+    "company_id": 25,
+    "company_name": "Bizom",
+    "product_summary": "India's leading sales force automation and retail intelligence platform for the CPG/FMCG industry. Route-to-market (RTM) platform unifying sales force automation, distributor management, and retailer engagement with AI-driven analytics.",
+    "icp": "CPG/FMCG brands managing large distributed sales and distribution networks across geographies; enterprises needing retail execution visibility across millions of outlets.",
+    "funding": {
+      "total_raised": "$19.1M across 8 rounds",
+      "last_round": "Series B (Feb 17, 2023)",
+      "investors": [
+        "Ojas Venture Partners",
+        "3 additional Series B investors (undisclosed)"
+      ],
+      "stage": "Series B"
+    },
+    "revenue_estimate": "$10M-$25M (201-500 employees)",
+    "competitors": [
+      "RELEX",
+      "Wasoko",
+      "Cegid",
+      "SalesRabbit",
+      "Spring Global",
+      "UPWARD"
+    ],
+    "recent_news": "Continues expansion via Bizom Middle East and Bizom Africa showcase pages; positioning around 'agentic' RTM intelligence in 2026.",
+    "verified": true
+  },
+  {
+    "company_id": 26,
+    "company_name": "Cloudflare",
+    "product_summary": "Cloudflare, Inc. (NYSE: NET) is the leading connectivity cloud company — unified platform of cloud-native products and developer tools for network performance, security (CDN, WAF, zero trust, DDoS protection), and cost/complexity reduction.",
+    "icp": "Organizations of all sizes needing faster, more secure networks and applications — from large enterprises to startups, nonprofits, and governments.",
+    "funding": {
+      "total_raised": "Public company (NYSE: NET)",
+      "last_round": "IPO (2019)",
+      "investors": [
+        "Public markets"
+      ],
+      "stage": "Public / Enterprise"
+    },
+    "revenue_estimate": "Multi-billion dollar public company (1,001-5,000+ employees)",
+    "competitors": [
+      "Akamai",
+      "Fastly",
+      "AWS CloudFront",
+      "Zscaler",
+      "Palo Alto Networks",
+      "Imperva"
+    ],
+    "recent_news": "Continued APAC/India expansion of enterprise sales and BDR teams (SAARC-focused BDR manager role posted Aug 2026).",
+    "verified": true
+  },
+  {
+    "company_id": 27,
+    "company_name": "Kasplo",
+    "product_summary": "Cloud-based email delivery and marketing automation platform: transactional/marketing email at scale, drag-and-drop builder, segmentation, A/B testing, deliverability optimization, and e-commerce integrations (Shopify, BigCommerce, WooCommerce) with AMP email support.",
+    "icp": "E-commerce businesses and marketing teams (startups to large enterprises) needing affordable, high-deliverability email/marketing automation with e-commerce platform integrations.",
+    "funding": {
+      "total_raised": "Undisclosed (1 angel investor)",
+      "last_round": "Angel",
+      "investors": [
+        "Undisclosed angel investor"
+      ],
+      "stage": "Seed/Early"
+    },
+    "revenue_estimate": "Not publicly disclosed (32-51+ employees per LinkedIn/Crunchbase)",
+    "competitors": [
+      "Mailchimp",
+      "Klaviyo",
+      "SendGrid",
+      "Brevo",
+      "Zoho Campaigns"
+    ],
+    "recent_news": "Expanding e-commerce platform integrations and AMP email tooling through 2026.",
+    "verified": true
+  },
+  {
+    "company_id": 28,
+    "company_name": "Restroworks",
+    "product_summary": "Cloud-based enterprise restaurant management platform (rebranded from Posist in 2024) covering POS, inventory management, kitchen automation, self-ordering kiosks, and analytics for multi-format restaurant operations, built for emerging-market constraints (intermittent internet, mixed payment modes, complex multi-region tax rules).",
+    "icp": "Enterprise and multi-location restaurant chains (QSR, fine dining, cafes) in India, Middle East, Southeast Asia, US needing unified front-of-house/back-of-house tech stack; customers include Taco Bell India, Burger King India, Carl's Jr, Wow Momo.",
+    "funding": {
+      "total_raised": "~$508K disclosed across early rounds (figures vary by source)",
+      "last_round": "Early-stage (2011)",
+      "investors": [
+        "Undisclosed"
+      ],
+      "stage": "Growth (bootstrapped/profitable growth per public reporting)"
+    },
+    "revenue_estimate": "₹40.4 Cr (~$4.9M) FY2025 per one source; ~$18M (2024) per another source",
+    "competitors": [
+      "Toast",
+      "Square",
+      "Lightspeed Restaurant",
+      "Petpooja",
+      "SpotOn",
+      "Aloha Cloud"
+    ],
+    "recent_news": "Rebranded from Posist to Restroworks in 2024; continues global expansion into Middle East, Southeast Asia, and US markets.",
+    "verified": true
+  },
+  {
+    "company_id": 29,
+    "company_name": "eShipz",
+    "product_summary": "Logistics automation / shipping management platform for D2C, retail and enterprise brands — multi-carrier shipping integrations, real-time tracking, NDR management, automated labels, returns, and freight audit.",
+    "icp": "E-commerce and D2C brands needing multi-carrier shipping automation and post-purchase tracking; 350+ businesses including SNITCH use eShipz.",
+    "funding": {
+      "total_raised": "$767K across 3 rounds from 46 investors",
+      "last_round": "$700K led by Indian Angel Network (IAN)",
+      "investors": [
+        "Indian Angel Network",
+        "Axilor Ventures",
+        "Maruti Suzuki Mail powered by GHV Accelerator"
+      ],
+      "stage": "Seed"
+    },
+    "revenue_estimate": "~$5M revenue with 45-person team (2025, per Getlatka)",
+    "competitors": [
+      "Shiprocket",
+      "Shipway",
+      "ClickPost",
+      "EasyEcom",
+      "Shyplite"
+    ],
+    "recent_news": "Commercially launched January 2020; continued growth to ~$5M revenue as of 2025.",
+    "verified": true
+  },
+  {
+    "company_id": 30,
+    "company_name": "Sprinto",
+    "product_summary": "Autonomous Trust Platform for continuous security and compliance management — detects posture changes, determines risk, and automates compliance across SOC 2, ISO 27001, GDPR, HIPAA, PCI-DSS, and ISO 42001 (AI governance), across 300+ integrations.",
+    "icp": "SaaS and tech companies (startups to mid-market) needing to achieve/maintain security compliance certifications quickly without dedicated compliance headcount; 3,000+ customers across 75 countries.",
+    "funding": {
+      "total_raised": "$32.2M across 4 rounds",
+      "last_round": "$20M Series B (April 9, 2024)",
+      "investors": [
+        "Accel",
+        "Elevation Capital",
+        "Blume Ventures"
+      ],
+      "stage": "Series B"
+    },
+    "revenue_estimate": "Not publicly disclosed (201-500 employees)",
+    "competitors": [
+      "Vanta",
+      "Drata",
+      "Secureframe",
+      "Anecdotes",
+      "Scrut Automation"
+    ],
+    "recent_news": "$20M Series B led by Accel (April 2024); expanding US enterprise SDR motion from India in 2026.",
+    "verified": true
+  },
+  {
+    "company_id": 31,
+    "company_name": "Affluense",
+    "product_summary": "AI-powered relationship intelligence platform helping wealth management, luxury goods, real estate, and automotive businesses identify, understand, and connect with HNI/UHNI individuals via AI-driven insights, deal/investment signal tracking, and warm-introduction discovery.",
+    "icp": "Wealth managers, private bankers, and luxury/real estate/automotive businesses targeting high-net-worth and ultra-high-net-worth individuals.",
+    "funding": {
+      "total_raised": "₹3 crore (~$340K)",
+      "last_round": "Pre-seed (October 2025)",
+      "investors": [
+        "Zeropearl VC",
+        "Kunal Shah (CRED founder, angel)",
+        "Pravin Jadhav (angel)"
+      ],
+      "stage": "Pre-seed"
+    },
+    "revenue_estimate": "Not publicly disclosed (2-10 employees)",
+    "competitors": [
+      "Wealth-X",
+      "Similarweb (intent data)",
+      "traditional wealth-management CRM/prospecting tools"
+    ],
+    "recent_news": "Raised ₹3 crore pre-seed led by Zeropearl VC in October 2025, with CRED founder Kunal Shah participating as angel investor.",
     "verified": true
   }
 ]

@@ -582,5 +582,221 @@
         "verified": true
       }
     ]
+  },
+  {
+    "company_id": 24,
+    "company_name": "Kasparro AI",
+    "leaders": [
+      {
+        "name": null,
+        "title": "Founder/CEO not publicly disclosed",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Web search / LinkedIn — no named founder found",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "company_id": 25,
+    "company_name": "Bizom",
+    "leaders": [
+      {
+        "name": "Lalit Bhise",
+        "title": "Co-Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Tracxn / CanvasBusinessModel",
+        "verified": true
+      },
+      {
+        "name": "Shree Bhise",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Tracxn / CanvasBusinessModel",
+        "verified": true
+      },
+      {
+        "name": "Vasudeva Manjunath",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Tracxn / CanvasBusinessModel",
+        "verified": true
+      },
+      {
+        "name": "Krishna Kothari",
+        "title": "CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Tracxn",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 26,
+    "company_name": "Cloudflare",
+    "leaders": [
+      {
+        "name": "Matthew Prince",
+        "title": "Co-Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/mprince/",
+        "data_source": "LinkedIn / The Org",
+        "verified": true
+      },
+      {
+        "name": "Michelle Zatlyn",
+        "title": "Co-Founder & President, Co-Chair of the Board",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "The Org / Comparably",
+        "verified": true
+      },
+      {
+        "name": "Lee Holloway",
+        "title": "Co-Founder & Lead Engineer",
+        "role_category": "other",
+        "linkedin_url": null,
+        "data_source": "The Org / Comparably",
+        "verified": true
+      },
+      {
+        "name": "Mark Anderson",
+        "title": "President of Revenue",
+        "role_category": "vp_sales",
+        "linkedin_url": null,
+        "data_source": "Clay / Craft.co",
+        "verified": true
+      },
+      {
+        "name": "Abhishek Kankani",
+        "title": "Head of ETI (Enterprise Technology India)",
+        "role_category": "head_sales",
+        "linkedin_url": "https://in.linkedin.com/in/abhishekkankani",
+        "data_source": "LinkedIn",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 27,
+    "company_name": "Kasplo",
+    "leaders": [
+      {
+        "name": "Sujith S",
+        "title": "Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://in.linkedin.com/in/sujith-kasplo",
+        "data_source": "LinkedIn / YourStory",
+        "verified": true
+      },
+      {
+        "name": "Surendran Naik Sujith",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "YourStory",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 28,
+    "company_name": "Restroworks",
+    "leaders": [
+      {
+        "name": "Ashish Tulsian",
+        "title": "Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Wikipedia / The Org / CBInsights",
+        "verified": true
+      },
+      {
+        "name": "Sakshi Tulsian",
+        "title": "Co-Founder & CRO",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "The Org / CBInsights",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 29,
+    "company_name": "eShipz",
+    "leaders": [
+      {
+        "name": "Ajaykumar Rajakumar",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Inc42 / Entrepreneur India",
+        "verified": true
+      },
+      {
+        "name": "Shashi Shekhar Tripathi",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Inc42 / Entrepreneur India",
+        "verified": true
+      },
+      {
+        "name": "Shivadeep Mahadi",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Inc42 / Entrepreneur India",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 30,
+    "company_name": "Sprinto",
+    "leaders": [
+      {
+        "name": "Girish Redekar",
+        "title": "Co-Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "TechCrunch / Tracxn",
+        "verified": true
+      },
+      {
+        "name": "Raghuveer Kancherla",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "TechCrunch / Tracxn",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 31,
+    "company_name": "Affluense",
+    "leaders": [
+      {
+        "name": "Sumit Sahu",
+        "title": "Co-Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Hubbis / Indian Startup Times",
+        "verified": true
+      },
+      {
+        "name": "Rishi Kumar",
+        "title": "Co-Founder & CTO",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Hubbis / Indian Startup Times",
+        "verified": true
+      }
+    ]
   }
 ]

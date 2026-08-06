@@ -319,5 +319,132 @@
     "target_market": "US HR Directors and Talent Acquisition Managers at mid-market companies (50-1000 employees) with high-volume hiring needs",
     "hiring_urgency": "Medium",
     "verified": true
+  },
+  {
+    "company_id": 24,
+    "company_name": "Kasparro AI",
+    "gtm_motion": "Founder-led sales at pre-seed stage. First SDR hire signals attempt to build repeatable outbound before product-market fit is fully proven.",
+    "sales_motion": "Likely outbound to e-commerce/growth marketing leaders concerned about AI-mediated discovery; category-creation selling (educating market on 'AI eligibility' as a new problem).",
+    "hiring_signal": "First SDR hire at a 2-10 person, 2026-founded company — very early GTM experiment, not yet a scaled motion.",
+    "observable_gtm_gaps": [
+      "No named founder/leadership publicly visible — weak trust signals for outbound",
+      "Category is nascent (GEO/AI visibility) — buyers may not recognize the problem yet",
+      "No disclosed funding — runway and hiring capacity unclear"
+    ],
+    "outreach_angle": "Position as: 'Kasparro is defining a brand-new category — AI eligibility for e-commerce. You're one of their first SDR hires, which means you're also defining the outbound playbook. Lead with founder access and early-adopter case studies since the category itself needs educating.'",
+    "target_market": "E-commerce and growth teams optimizing for AI-mediated discovery (ChatGPT, Gemini, Perplexity shopping)",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 25,
+    "company_name": "Bizom",
+    "gtm_motion": "Enterprise/mid-market sales to CPG brands, sold on RTM ROI (inventory optimization, sales productivity). SDR supports pipeline generation for a Series B company with an established 750+ brand customer base.",
+    "sales_motion": "Outbound SDR + inbound from category leadership content. Long sales cycles typical of enterprise CPG software; multi-stakeholder buying (sales ops, supply chain, IT).",
+    "hiring_signal": "Hiring SDR in Bengaluru HQ. Signal: established Series B company (13 years old) continuing to invest in pipeline generation despite market maturity.",
+    "observable_gtm_gaps": [
+      "Facing well-funded global RTM competitors (RELEX, Wasoko)",
+      "Series B round from 2023 — needs efficient CAC as growth-stage pressure mounts",
+      "Agentic AI positioning is new (2026) — sales team may need enablement on new messaging"
+    ],
+    "outreach_angle": "Position as: 'Bizom just repositioned around agentic RTM intelligence — you're helping bring that new pitch to CPG brands still running on manual distributor management. Lead with the 750+ brand trust signal and the shift from automation to autonomous decision-making.'",
+    "target_market": "CPG/FMCG brands with large distributed sales and distribution networks, primarily in India/Middle East/Africa",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 26,
+    "company_name": "Cloudflare",
+    "gtm_motion": "Enterprise sales at global scale — managed by segment (SMB self-serve, mid-market, enterprise). SAARC-focused BDR manager role signals dedicated regional coverage for South Asia (India, Pakistan, Bangladesh, Sri Lanka, Nepal).",
+    "sales_motion": "Outbound BDR/SDR feeding AE pipeline, technical selling (security/performance ROI) to CTOs/CISOs, land-and-expand motion typical of usage-based cloud infrastructure.",
+    "hiring_signal": "Hiring a BDR Manager (not IC) for SAARC — signal of building/scaling a dedicated regional team rather than a single hire, indicating established and growing India/SAARC investment.",
+    "observable_gtm_gaps": [
+      "Highly competitive market (Akamai, Fastly, AWS) — differentiation on connectivity cloud breadth is key",
+      "Regional manager role suggests team is scaling — good entry point via team members rather than exec"
+    ],
+    "outreach_angle": "Position as: 'Cloudflare is scaling its SAARC BDR team under a new manager — a good moment to build relationships as the team structure is still forming. Lead with connectivity cloud + zero trust security ROI messaging for India enterprises modernizing security stacks.'",
+    "target_market": "Enterprises, mid-market, and developers across SAARC needing network performance and security",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 27,
+    "company_name": "Kasplo",
+    "gtm_motion": "SMB/mid-market PLG + outbound SDR overlay. Competing on affordability and e-commerce integrations vs. larger players like Mailchimp/Klaviyo.",
+    "sales_motion": "Outbound SDR targeting e-commerce businesses already on Shopify/BigCommerce/WooCommerce; price/feature-led displacement selling against incumbents.",
+    "hiring_signal": "Hiring SDR in Bengaluru HQ. Signal: bootstrapped/angel-funded company (est. 2015) scaling outbound to grow beyond current e-commerce integrations base.",
+    "observable_gtm_gaps": [
+      "Crowded email marketing category dominated by Mailchimp/Klaviyo with far larger marketing budgets",
+      "No disclosed institutional funding — CAC efficiency likely critical",
+      "Recently expanded into AMP email and e-commerce ecosystem — sales team may need enablement on newest features"
+    ],
+    "outreach_angle": "Position as: 'Kasplo is undercutting Klaviyo/Mailchimp on price while matching e-commerce integrations — you're building outbound to reach Shopify/BigCommerce merchants who feel priced out of the big platforms. Lead with total cost of ownership and deliverability data.'",
+    "target_market": "E-commerce businesses on Shopify/BigCommerce/WooCommerce seeking affordable email marketing automation",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 28,
+    "company_name": "Restroworks",
+    "gtm_motion": "Enterprise sales to multi-location restaurant chains, global expansion motion (US, Middle East, Southeast Asia) post 2024 rebrand from Posist.",
+    "sales_motion": "Outbound SDR + inbound from category comparison content (vs. Toast, Square). Demo-led, ROI-focused on operational consistency across markets with complex payment/tax environments.",
+    "hiring_signal": "Hiring SDR in Delhi. Signal: continued domestic India pipeline generation alongside international expansion push (US HQ relocation signals ambition beyond India).",
+    "observable_gtm_gaps": [
+      "Competing directly against well-funded Toast (US) and Square in international markets",
+      "Post-rebrand (2024) — brand awareness of 'Restroworks' vs. legacy 'Posist' name may still be building",
+      "Revenue estimates vary significantly by source — financial profile not fully transparent"
+    ],
+    "outreach_angle": "Position as: 'Restroworks just rebranded from Posist and is pushing into the US, Middle East, and Southeast Asia. Its edge over Toast is built for emerging-market complexity — intermittent internet, mixed cash/UPI/card payments, multi-region tax rules. Lead with enterprise chain case studies (Taco Bell India, Burger King India, Carl's Jr).'",
+    "target_market": "Enterprise multi-location restaurant chains (QSR, fine dining, cafes) in India, Middle East, Southeast Asia, US",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 29,
+    "company_name": "eShipz",
+    "gtm_motion": "Outbound SDR targeting D2C/e-commerce brands for logistics automation, competing in a crowded India shipping-aggregator space.",
+    "sales_motion": "Outbound + demo-led sales to ops/logistics leads at D2C brands; ROI pitch centered on multi-carrier flexibility and NDR (non-delivery report) reduction.",
+    "hiring_signal": "Hiring an experienced (2+ years) enterprise-focused SDR in Bengaluru — signal of moving up-market from SMB e-commerce toward larger enterprise accounts, consistent with reaching ~$5M revenue on a 45-person team.",
+    "observable_gtm_gaps": [
+      "Small disclosed funding ($767K) relative to well-funded competitors like Shiprocket — likely capital-efficient growth pressure",
+      "Crowded category with several India shipping-aggregator incumbents",
+      "Enterprise-focused SDR hire (vs. SMB) suggests a GTM shift in progress — may lack enterprise case studies yet"
+    ],
+    "outreach_angle": "Position as: 'eShipz is shifting upmarket — this SDR role explicitly targets enterprise accounts, a change from their SMB/D2C roots. You're helping build that enterprise motion from scratch. Lead with multi-carrier flexibility and NDR reduction data, since that's the technical differentiator vs. single-carrier aggregators.'",
+    "target_market": "D2C and enterprise e-commerce brands in India needing multi-carrier shipping automation",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 30,
+    "company_name": "Sprinto",
+    "gtm_motion": "Enterprise/mid-market PLG + Sales-assisted. Strong inbound from compliance urgency (SOC 2/ISO deadlines) supplemented by dedicated US-market enterprise SDR team based in India.",
+    "sales_motion": "Outbound + inbound (G2/content-led). US-focused enterprise SDR role from Bengaluru suggests coordinated India-cost-base, US-market-coverage GTM strategy. Technical/compliance buyer (CISO, Head of Security, VP Eng).",
+    "hiring_signal": "Hiring Enterprise SDR - US market from India office. Signal: well-funded ($32.2M, Series B led by Accel) company scaling its highest-value segment (enterprise, US) via cost-efficient India-based SDR team.",
+    "observable_gtm_gaps": [
+      "Crowded compliance automation space (Vanta, Drata are larger/better-funded in the US)",
+      "Enterprise segment requires longer sales cycles and more technical proof — SDR team may need heavy enablement",
+      "India-based SDR selling into US enterprise — timezone/cultural alignment consideration"
+    ],
+    "outreach_angle": "Position as: 'Sprinto just landed a $20M Series B from Accel and is building a dedicated US enterprise SDR motion from India — a deliberate cost-efficient scaling play against Vanta/Drata. Lead with the breadth story: SOC 2, ISO 27001, GDPR, HIPAA, PCI-DSS, and AI governance (ISO 42001) in one autonomous platform.'",
+    "target_market": "US and global mid-market to enterprise SaaS/tech companies needing security compliance automation",
+    "hiring_urgency": "High — well-funded, actively scaling enterprise motion",
+    "verified": true
+  },
+  {
+    "company_id": 31,
+    "company_name": "Affluense",
+    "gtm_motion": "Founder-led sales transitioning to first SDR hire at pre-seed stage. Full-cycle SDR role suggests a lean team where reps own the whole deal cycle, not just top-of-funnel.",
+    "sales_motion": "High-touch outbound to wealth managers and private bankers; relationship/credibility-driven selling in a trust-sensitive vertical (wealth management data).",
+    "hiring_signal": "Hiring first Full-Cycle SDR shortly after ₹3 crore pre-seed round (Oct 2025) with notable angel backing (Kunal Shah/CRED) — signal of using fresh capital to build initial sales capacity.",
+    "observable_gtm_gaps": [
+      "Very early stage (2-10 employees, pre-seed) — no enterprise logos or case studies likely available yet",
+      "'Full-cycle' SDR role (rather than split SDR/AE) suggests no dedicated closing function yet — GTM function still forming",
+      "Wealth management is a relationship-driven, trust-heavy vertical — cold outbound may face higher resistance"
+    ],
+    "outreach_angle": "Position as: 'Affluense just raised pre-seed with CRED founder Kunal Shah as an angel and is making its first sales hire. You'd be building the GTM playbook for a company defining HNI relationship intelligence as a category. Lead with credible investor backing to build trust with skeptical wealth management buyers.'",
+    "target_market": "Wealth managers, private bankers, and luxury/real estate/automotive businesses targeting HNI/UHNI individuals",
+    "hiring_urgency": "Medium",
+    "verified": true
   }
 ]
