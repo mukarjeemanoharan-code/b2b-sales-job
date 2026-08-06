@@ -1,0 +1,586 @@
+[
+  {
+    "company_id": 1,
+    "company_name": "Azul",
+    "leaders": [
+      {
+        "name": "Scott Sellers",
+        "title": "President & CEO, Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/ssellers",
+        "data_source": "LinkedIn / Web",
+        "verified": true
+      },
+      {
+        "name": "Gil Tene",
+        "title": "CTO, Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/giltene",
+        "data_source": "LinkedIn / Web",
+        "verified": true
+      },
+      {
+        "name": "Vikram Rana",
+        "title": "VP Sales, North America",
+        "role_category": "vp_sales",
+        "linkedin_url": "https://www.linkedin.com/in/vikram-rana-42445b",
+        "data_source": "LinkedIn",
+        "verified": true
+      },
+      {
+        "name": "Peter Maloney",
+        "title": "CFO & COO",
+        "role_category": "other",
+        "linkedin_url": "https://www.linkedin.com/in/pemaloney",
+        "data_source": "LinkedIn",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 2,
+    "company_name": "Loop Subscriptions",
+    "leaders": [
+      {
+        "name": "Piyush Jain",
+        "title": "Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/piyush-jain",
+        "data_source": "Forbes / Wellfound / Web",
+        "verified": true
+      },
+      {
+        "name": "Vivek Agarwal",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/vagarwal214",
+        "data_source": "Web / Tracxn",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 3,
+    "company_name": "Leena AI",
+    "leaders": [
+      {
+        "name": "Adit Jain",
+        "title": "Co-Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/adit-jain-leena-ai",
+        "data_source": "LinkedIn / Forbes / Crunchbase",
+        "verified": true
+      },
+      {
+        "name": "Anand Prajapati",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/anand-prajapati",
+        "data_source": "Tracxn / Web",
+        "verified": true
+      },
+      {
+        "name": "Mayank Goyal",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/mayankzuppit",
+        "data_source": "Tracxn / Web",
+        "verified": true
+      },
+      {
+        "name": "Shravan Shet",
+        "title": "Sr. Manager, Sales Development",
+        "role_category": "head_sales",
+        "linkedin_url": "https://www.linkedin.com/in/shravanshet",
+        "data_source": "LinkedIn",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 4,
+    "company_name": "TestGrid.io",
+    "leaders": [
+      {
+        "name": "Harry Rao",
+        "title": "CEO & Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/harryceotestgrid",
+        "data_source": "LinkedIn / Hypepotamus",
+        "verified": true
+      },
+      {
+        "name": "Yassine Sbiti",
+        "title": "CIO & Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/yassine-sbiti-866336",
+        "data_source": "Tracxn / Web",
+        "verified": true
+      },
+      {
+        "name": "Sachin R",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Tracxn / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 5,
+    "company_name": "Skydo",
+    "leaders": [
+      {
+        "name": "Srivatsan Sridhar",
+        "title": "CEO & Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/srivats80",
+        "data_source": "RocketReach / CBInsights",
+        "verified": true
+      },
+      {
+        "name": "Movin Jain",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/movinjain",
+        "data_source": "India Fintech Diaries / Tracxn",
+        "verified": true
+      },
+      {
+        "name": "Atul Mohan",
+        "title": "Head of Sales",
+        "role_category": "head_sales",
+        "linkedin_url": null,
+        "data_source": "RocketReach",
+        "verified": true
+      },
+      {
+        "name": "Abhilove Sharda",
+        "title": "Head of Finance",
+        "role_category": "other",
+        "linkedin_url": "https://www.linkedin.com/in/abhilove-sharda",
+        "data_source": "RocketReach",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 6,
+    "company_name": "Cube",
+    "leaders": [
+      {
+        "name": "Suhail Abidi",
+        "title": "Co-Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/suhailabidi",
+        "data_source": "RocketReach / Wellfound",
+        "verified": true
+      },
+      {
+        "name": "Ashish Ranjan",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/ashishiitkgp",
+        "data_source": "Wellfound / Tracxn",
+        "verified": true
+      },
+      {
+        "name": "Abhinav Gupta",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Wellfound / Tracxn",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 7,
+    "company_name": "KYC Hub",
+    "leaders": [
+      {
+        "name": "Farnoush Mirmoeini",
+        "title": "CEO & Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/farnoush",
+        "data_source": "StarterStory / Crunchbase",
+        "verified": true
+      },
+      {
+        "name": "Jay Rao",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/jayrao1",
+        "data_source": "Crunchbase / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 8,
+    "company_name": "apna",
+    "leaders": [
+      {
+        "name": "Nirmit Parikh",
+        "title": "Founder & Group CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/nirmit-parikh",
+        "data_source": "Crunchbase / DNA India / Mediabrief",
+        "verified": true
+      },
+      {
+        "name": "Kartik Narayan",
+        "title": "CEO - Jobs Marketplace",
+        "role_category": "head_sales",
+        "linkedin_url": "https://www.linkedin.com/in/kartik",
+        "data_source": "Mediabrief",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 9,
+    "company_name": "Salesforce",
+    "leaders": [
+      {
+        "name": "Marc Benioff",
+        "title": "CEO & Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/marcbenioff",
+        "data_source": "Public / Web",
+        "verified": true
+      },
+      {
+        "name": "Arundhati Bhattacharya",
+        "title": "President & CEO, Salesforce South Asia",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/arundhati-bhattacharya-salesforce",
+        "data_source": "Exchange4media / Web",
+        "verified": true
+      },
+      {
+        "name": "Mankiran Chowhan",
+        "title": "Managing Director, Sales & Distribution, India",
+        "role_category": "vp_sales",
+        "linkedin_url": "https://www.linkedin.com/in/mankiran-chowhan-877414",
+        "data_source": "Storyboard18 / afaqs / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 10,
+    "company_name": "Keka HR",
+    "leaders": [
+      {
+        "name": "Vijay Yalamanchili",
+        "title": "Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/yalamanchili",
+        "data_source": "LinkedIn / Crunchbase / Web",
+        "verified": true
+      },
+      {
+        "name": "Dheeraj Kumar Pandey",
+        "title": "VP Sales",
+        "role_category": "vp_sales",
+        "linkedin_url": "https://www.linkedin.com/in/dheerajkpandey",
+        "data_source": "IndiaInfoline",
+        "verified": true
+      },
+      {
+        "name": "Chad Nagwann Chitresh",
+        "title": "Head of Sales - Europe & GCC",
+        "role_category": "head_sales",
+        "linkedin_url": null,
+        "data_source": "Prospeo",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 11,
+    "company_name": "Avalara",
+    "leaders": [
+      {
+        "name": "Scott McFarlane",
+        "title": "Co-Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/mcfarlanescott",
+        "data_source": "Avalara newsroom / Web",
+        "verified": true
+      },
+      {
+        "name": "Sean Flynn",
+        "title": "SVP Global Sales",
+        "role_category": "vp_sales",
+        "linkedin_url": "https://www.linkedin.com/in/seanflynn94",
+        "data_source": "Avalara newsroom / bizwire",
+        "verified": true
+      },
+      {
+        "name": "Kimberly Deobald",
+        "title": "Chief Revenue Officer",
+        "role_category": "vp_sales",
+        "linkedin_url": "https://www.linkedin.com/in/kimberlydeobald",
+        "data_source": "Web / Comparably",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 12,
+    "company_name": "Fibr AI",
+    "leaders": [
+      {
+        "name": "Ankur Goyal",
+        "title": "CEO & Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/ankurgoyal22",
+        "data_source": "Forbes Technology Council / Wellfound",
+        "verified": true
+      },
+      {
+        "name": "Pritam Roy",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/pritamroy1",
+        "data_source": "Tracxn / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 13,
+    "company_name": "QCraft AI",
+    "leaders": [
+      {
+        "name": "Dr. James Yu (Yu Qian)",
+        "title": "CEO & Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/qian-yu-a644b94",
+        "data_source": "BusinessWire / Automotive World / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 14,
+    "company_name": "Trovex.ai",
+    "leaders": [
+      {
+        "name": "Amaresh Ojha",
+        "title": "Co-Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/amaresh-ojha",
+        "data_source": "LinkedIn / The Org / ZoomInfo",
+        "verified": true
+      },
+      {
+        "name": "Srinivas Dhruv Shindhe",
+        "title": "Co-Founder (AI Research)",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/dhruv-shindhe-4b90b11a5",
+        "data_source": "Web / CXOtoday",
+        "verified": true
+      },
+      {
+        "name": "Abhinav Sharma",
+        "title": "Lead - Business Development",
+        "role_category": "head_sales",
+        "linkedin_url": null,
+        "data_source": "RocketReach",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 15,
+    "company_name": "Tuskr",
+    "leaders": [
+      {
+        "name": "Ravindra Wankar",
+        "title": "Co-Founder (Celoxis & Tuskr)",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/ravindra-wankar-4a506b1",
+        "data_source": "RocketReach / Tracxn",
+        "verified": true
+      },
+      {
+        "name": "Nikhil Daddikar",
+        "title": "Co-Owner / Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/nikhildaddikar",
+        "data_source": "LinkedIn",
+        "verified": true
+      },
+      {
+        "name": "Mahua Das",
+        "title": "Head of Marketing",
+        "role_category": "other",
+        "linkedin_url": "https://www.linkedin.com/in/mahua-das-37b6448a",
+        "data_source": "Web / LeadIQ",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 16,
+    "company_name": "Appitsimple Infotek",
+    "leaders": [
+      {
+        "name": "Ankit Dudhwewala",
+        "title": "CEO & Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/ankitdudhwewala",
+        "data_source": "Crunchbase / Highperformr / Web",
+        "verified": true
+      },
+      {
+        "name": "Suhasini Dudhwewala",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/suhasini-dudhwewala-724729119",
+        "data_source": "CallHippo / Web",
+        "verified": true
+      },
+      {
+        "name": "Gaurang Pujara",
+        "title": "Head of Technology",
+        "role_category": "other",
+        "linkedin_url": "https://www.linkedin.com/in/gaurang-pujara-a0255a282",
+        "data_source": "Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 17,
+    "company_name": "DATOMS",
+    "leaders": [
+      {
+        "name": "Amiya Samantaray",
+        "title": "Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/amiyakumarsamantaray",
+        "data_source": "Marcamoney / Nasscom CoE IoT",
+        "verified": true
+      },
+      {
+        "name": "Akanksha Priyadarshini",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/akankshapriyadarshini",
+        "data_source": "Tracxn / Web",
+        "verified": true
+      },
+      {
+        "name": "Amrit Kumar Biswal",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/amritmx",
+        "data_source": "Tracxn / Web",
+        "verified": true
+      },
+      {
+        "name": "Asish Sahoo",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/asishsahoo",
+        "data_source": "Tracxn / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 18,
+    "company_name": "Darwinbox",
+    "leaders": [
+      {
+        "name": "Chaitanya Peddi",
+        "title": "Co-CEO & Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/chaitanyapeddi",
+        "data_source": "LinkedIn / People Matters / Web",
+        "verified": true
+      },
+      {
+        "name": "Jayant Paleti",
+        "title": "Co-CEO & Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/jayantpaleti",
+        "data_source": "People Matters / Web",
+        "verified": true
+      },
+      {
+        "name": "Rohit Chennamaneni",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/rohitchennamaneni",
+        "data_source": "Web / Tracxn",
+        "verified": true
+      },
+      {
+        "name": "Akshay Murthy",
+        "title": "VP & Country Head, India",
+        "role_category": "vp_sales",
+        "linkedin_url": "https://www.linkedin.com/in/akshaygmurthy",
+        "data_source": "HRToday / ANI News / Web (appointed July 2026)",
+        "verified": true
+      },
+      {
+        "name": "Sudi Bjornstad Korba",
+        "title": "SVP Sales, North America",
+        "role_category": "vp_sales",
+        "linkedin_url": "https://www.linkedin.com/in/sudibjornstad",
+        "data_source": "Markets Financial Content / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 19,
+    "company_name": "Signalmash",
+    "leaders": [
+      {
+        "name": "Noah Kamrat",
+        "title": "Co-Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/noahkamrat",
+        "data_source": "LinkedIn / The Org / ZoomInfo",
+        "verified": true
+      },
+      {
+        "name": "Eric Engbers",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/engbers",
+        "data_source": "Signalmash about page / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 20,
+    "company_name": "Qureos",
+    "leaders": [
+      {
+        "name": "Alexander Epure",
+        "title": "CEO & Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/alexanderepure",
+        "data_source": "Qureos about / FFnews / Web",
+        "verified": true
+      },
+      {
+        "name": "Usama Nini",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/usama-nini",
+        "data_source": "Qureos about / Web",
+        "verified": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "company_id": 1,
+    "company_name": "Azul",
+    "product_summary": "The only company exclusively focused on Java and the JVM. Provides certified, supported OpenJDK builds, high-performance JVM alternatives, and cloud intelligence services. Makes Java secure, efficient, and affordable for cloud enterprises. Offers Azul Platform Core (OpenJDK-compatible) and Azul Platform Prime (high-perf JVM).",
+    "icp": "Large enterprises running Java applications at scale on cloud infrastructure; companies with significant Java licensing costs (migrating from Oracle Java); financial services, telecom, and tech companies with JVM performance requirements.",
+    "funding": {
+      "total_raised": "$82.2M+ across 3 rounds; ~$340M secondary transaction in 2020 led by Vitruvian Partners and Lead Edge Capital",
+      "last_round": "Secondary/growth equity (2020)",
+      "investors": ["Vitruvian Partners", "Lead Edge Capital"],
+      "stage": "Growth / Pre-IPO"
+    },
+    "revenue_estimate": "$83.8M ARR (201-500 employees)",
+    "competitors": ["Oracle Java", "Red Hat OpenJDK", "Amazon Corretto", "JetBrains", "Heroku", "GraalVM (Oracle)"],
+    "recent_news": "July 2026: Moved NYSE listing from NYSE American to NYSE. Announced monthly critical security patch cadence for Java.",
+    "verified": true
+  },
+  {
+    "company_id": 2,
+    "company_name": "Loop Subscriptions",
+    "product_summary": "Next-gen Shopify subscription management platform for DTC brands. Enables auto-ship, gift, trial, bundle subscriptions; passwordless subscriber portal; AI-powered cancellation deflection and subscriber retention. Processes $4B+ in subscription revenue across 2,400+ brands.",
+    "icp": "Shopify DTC brands with subscription products (health, beauty, food, pet); high-growth ecommerce companies wanting to reduce churn and grow recurring revenue. Typical customer: $1M-$50M GMV Shopify stores.",
+    "funding": {
+      "total_raised": "Undisclosed (3 investors)",
+      "last_round": "Unknown",
+      "investors": ["Undisclosed"],
+      "stage": "Seed/Early"
+    },
+    "revenue_estimate": "$13.7M ARR (66 employees)",
+    "competitors": ["Recharge (acquired Skio for $105M)", "Stay AI", "OrderGroove", "AppDirect", "Skio", "Smartrr"],
+    "recent_news": "April 2026: Recharge acquired Skio for $105M, consolidating the Shopify subscriptions market. Loop maintains 4.9-star rating with 650+ reviews on Shopify App Store.",
+    "verified": true
+  },
+  {
+    "company_id": 3,
+    "company_name": "Leena AI",
+    "product_summary": "Agentic AI platform delivering AI Colleagues for enterprise back-office (HR, IT, Finance). Autonomous agents handle employee onboarding, service delivery, knowledge management, ITSM, and generative AI workflows. Launched 'AI Colleague Studio' for enterprise agent customization in Oct 2025.",
+    "icp": "Large enterprises (Fortune 500, 10,000+ employees) with complex HR/IT service delivery needs; companies wanting to automate repetitive back-office workflows; global enterprises with ITSM modernization mandates.",
+    "funding": {
+      "total_raised": "$40.1M across 4 rounds",
+      "last_round": "Series B (September 2021)",
+      "investors": ["Bessemer Venture Partners", "Greycroft", "Liquid 2 Ventures", "XL2 Ventures"],
+      "stage": "Series B"
+    },
+    "revenue_estimate": "Not publicly disclosed (201-500 employees)",
+    "competitors": ["Kore.ai", "Atomicwork", "Ema", "Moveworks", "ServiceNow HRSD", "Rezolve.ai", "Microsoft Copilot for M365"],
+    "recent_news": "October 2025: Launched AI Colleague Studio for enterprise agent customization. Atomicwork (competitor) raised funding in Sept 2025.",
+    "verified": true
+  },
+  {
+    "company_id": 4,
+    "company_name": "TestGrid.io",
+    "product_summary": "End-to-end cloud and on-premise test automation platform. Covers mobile app testing (iOS/Android), API automation, IoT testing, device cloud, and test case management. Offers AI-powered test generation (CoTester). Targets QA and engineering teams needing unified testing infrastructure.",
+    "icp": "QA and engineering teams at software product companies; mobile app developers needing device cloud testing; enterprises with IoT products requiring hardware/software testing; fintech and healthcare companies with compliance testing needs.",
+    "funding": {
+      "total_raised": "Undisclosed Seed round (August 2023)",
+      "last_round": "Seed (August 2023)",
+      "investors": ["Undisclosed"],
+      "stage": "Seed"
+    },
+    "revenue_estimate": "Not publicly disclosed (51-200 employees)",
+    "competitors": ["BrowserStack", "Tricentis", "SmartBear", "UiPath Agentic Automation", "Panaya", "Sauce Labs", "LambdaTest"],
+    "recent_news": "2025: Won Global Recognition Award. Launched CoTester (AI test generation). Ranked 6th among 58 active competitors in test automation space.",
+    "verified": true
+  },
+  {
+    "company_id": 5,
+    "company_name": "Skydo",
+    "product_summary": "Cross-border B2B payments platform for Indian exporters. Provides virtual foreign accounts in 10+ countries, accepts payments in 32+ currencies from 150+ countries, converts at live mid-market FX rate with zero markup and a flat transaction fee. 24-hour settlement to Indian bank accounts. No taxation or compliance burden on the exporter.",
+    "icp": "Indian exporters (SaaS companies, agencies, freelancers, manufacturers) receiving international B2B payments. Typical customer: SMB or startup exporter wanting to cut 50%+ in forex charges vs. traditional banks.",
+    "funding": {
+      "total_raised": "$19.7M across 3 rounds",
+      "last_round": "$10M Series A (December 2025)",
+      "investors": ["Susquehanna Asia Venture Capital", "Elevation Capital"],
+      "stage": "Series A"
+    },
+    "revenue_estimate": "$850M+ annualized payment volume; 40,000+ businesses (revenue not disclosed)",
+    "competitors": ["PayPal", "Wise Business", "Payoneer", "Razorpay Opfin", "Infinity", "traditional Indian banks"],
+    "recent_news": "September 2025: Partnership with Veem to power seamless USD collections for Indian businesses. December 2025: Closed $10M Series A.",
+    "verified": true
+  },
+  {
+    "company_id": 6,
+    "company_name": "Cube",
+    "product_summary": "AI-powered digital marketing platform for multi-location businesses. Automates SEO, paid ads (Google/Meta), social media, email marketing, and online review management from a single dashboard. Built by Stanford/Wharton/IIT alumni. AI agents run and optimize campaigns 24/7.",
+    "icp": "Multi-location brick-and-mortar businesses (restaurants, retail chains, healthcare clinics, real estate); local SMBs wanting AI-driven marketing without in-house expertise. US and India markets.",
+    "funding": {
+      "total_raised": "$2.2M across 2 rounds",
+      "last_round": "Seed/Early (2020)",
+      "investors": ["Surge Ventures", "2 undisclosed"],
+      "stage": "Seed"
+    },
+    "revenue_estimate": "Not publicly disclosed (51-200 employees, 164 per ZoomInfo)",
+    "competitors": ["Vendasta", "Broadly", "SOCi", "Yext", "Birdeye", "AI marketing automation platforms"],
+    "recent_news": "2025: Expanded Bengaluru office; actively scaling SDR team in India for US market outreach.",
+    "verified": true
+  },
+  {
+    "company_id": 7,
+    "company_name": "KYC Hub",
+    "product_summary": "Configurable, modular KYC/AML compliance platform. RPA-powered workflow engine for onboarding and due diligence; AI-enabled verifications; proprietary knowledge graph for individuals and entities; sanctions screening, PEP checks, IDV, KYB, address verification. Enables end-to-end risk ops infrastructure.",
+    "icp": "Financial institutions, fintechs, crypto/Web3 companies, and payment processors needing automated KYC/AML compliance. Regulated industries (banks, insurance, wealth management) with global compliance requirements.",
+    "funding": {
+      "total_raised": "Undisclosed (estimated <$10M based on 51-200 employees and $1-10M revenue range)",
+      "last_round": "Unknown",
+      "investors": ["Undisclosed"],
+      "stage": "Seed/Series A"
+    },
+    "revenue_estimate": "$1-10M range (per LeadIQ/SignalHire)",
+    "competitors": ["AiPrise", "Onfido", "Jumio", "Sumsub", "ComplyAdvantage", "CleverChain", "Salv", "Muinmos"],
+    "recent_news": "Named in Top 10 KYC Solutions in RegTech for 2026 (Fintech Global). Won 'Best PEP and Sanctions Solution' by Regtech Insights USA.",
+    "verified": true
+  },
+  {
+    "company_id": 8,
+    "company_name": "apna",
+    "product_summary": "India's largest early talent hiring and jobs platform. AI-powered marketplace connecting blue-collar, gray-collar, and entry-level job seekers to employers. Features automated candidate sourcing, AI matching, job posting, community networking, and skilling. 1,001-5,000 employees; unicorn status.",
+    "icp": "Indian companies hiring at scale for entry-level, frontline, and blue-collar roles; HR teams at manufacturing, retail, BFSI, and logistics companies; SMBs and enterprises with high-volume hiring needs in India.",
+    "funding": {
+      "total_raised": "$194M",
+      "last_round": "Series C",
+      "investors": ["Tiger Global Management", "Peak XV Partners (formerly Sequoia India)", "Insight Partners"],
+      "stage": "Series C / Unicorn ($1.1B valuation)"
+    },
+    "revenue_estimate": "Not publicly disclosed (valuation $1.1B; 745 employees as of Aug 2025)",
+    "competitors": ["LinkedIn India", "foundit (Naukri)", "WorkIndia", "Vahan", "Gigforce", "MyKaam", "Glassdoor"],
+    "recent_news": "2025: Appointed Kartik Narayan as CEO of Jobs Marketplace vertical. Headcount at 745 (Aug 2025), down 6% YoY.",
+    "verified": true
+  },
+  {
+    "company_id": 9,
+    "company_name": "Salesforce",
+    "product_summary": "World's #1 AI CRM platform. Customer 360 suite: Sales Cloud, Service Cloud, Marketing Cloud, Commerce Cloud, Slack, MuleSoft, Tableau, Agentforce. Powers human + AI agent collaboration across the customer lifecycle. 200,000+ customers globally.",
+    "icp": "Enterprises and mid-market companies globally needing CRM, sales automation, customer service, marketing automation, and data analytics. India focus: tech companies, BFSI, manufacturing, telecom.",
+    "funding": {
+      "total_raised": "Public company (NYSE: CRM)",
+      "last_round": "N/A",
+      "investors": ["Public"],
+      "stage": "Public (>$200B market cap)"
+    },
+    "revenue_estimate": "$34B+ ARR (FY2025)",
+    "competitors": ["HubSpot", "Microsoft Dynamics 365", "SAP CRM", "Oracle CRM", "Zendesk", "Freshworks"],
+    "recent_news": "2026: India Managing Director for Sales appointed (Mankiran Chowhan). Arundhati Bhattacharya leads South Asia. Agentforce AI agent platform driving enterprise AI adoption.",
+    "verified": true
+  },
+  {
+    "company_id": 10,
+    "company_name": "Keka HR",
+    "product_summary": "Modern HRMS and payroll platform built for Indian businesses. Covers payroll, attendance, leaves, performance management, recruitment (ATS), expense management, and employee engagement — all in one platform. Positioned as 'India's fastest-growing HRMS.' 10,000+ customers; bootstrapped for years before raising.",
+    "icp": "Indian SMBs and mid-market companies (100-2000 employees) replacing legacy HR tools (Spine, Greyt, Excel). IT companies, services firms, manufacturing, and retail chains across India and some Southeast Asia markets.",
+    "funding": {
+      "total_raised": "$59.2M across 3 rounds",
+      "last_round": "$57M Series A led by WestBridge Capital",
+      "investors": ["WestBridge Capital"],
+      "stage": "Series A"
+    },
+    "revenue_estimate": "$52.5M ARR (2025)",
+    "competitors": ["Darwinbox", "greytHR", "Zoho People", "PeopleStrong", "HRMantra", "Workday", "SumoPayroll", "Nitso HRMS"],
+    "recent_news": "2025: VP Sales Dheeraj Kumar Pandey cited in media. Expanding US market with dedicated SDR team from Bengaluru. 10,000+ businesses across 1,572 customers in India alone.",
+    "verified": true
+  },
+  {
+    "company_id": 11,
+    "company_name": "Avalara",
+    "product_summary": "Agentic AI platform for global tax and compliance. Automates sales tax calculations, return filings, exemption certificate management, e-invoicing, and cross-border compliance. Processes 54B+ transactions annually. Integrates with 1,200+ ERP, ecommerce, and accounting platforms. India: GST, e-way bills, e-invoicing.",
+    "icp": "Mid-market to enterprise ecommerce, SaaS, retail, and manufacturing companies with complex multi-jurisdiction tax compliance. India focus: large enterprises needing GST automation and e-invoicing compliance.",
+    "funding": {
+      "total_raised": "Acquired by Thomas H. Lee Partners (2022, ~$8.4B); previously public (NASDAQ: AVLR)",
+      "last_round": "Acquired/Private",
+      "investors": ["Thomas H. Lee Partners"],
+      "stage": "Private (post-acquisition)"
+    },
+    "revenue_estimate": "$800M+ (pre-acquisition estimate); $1,001-5,000 employees",
+    "competitors": ["Vertex", "TaxJar (Stripe)", "Thomson Reuters ONESOURCE", "SAP Indirect Tax", "Sovos"],
+    "recent_news": "July 2025: Named new CMO and CIO. 2026: APAC India office in Pune expanding with SDR roles. Positioning as 'agentic AI platform' for compliance.",
+    "verified": true
+  },
+  {
+    "company_id": 12,
+    "company_name": "Fibr AI",
+    "product_summary": "Agentic website optimization platform (CRO). Three AI agents — LIV (1:1 personalization), MAX (automated A/B testing), AYA (24/7 performance monitoring) — transform websites into revenue-driving adaptive experiences. Integrates with GA4, GTM, Salesforce, Adobe, Google Ads, Meta. SOC 2 + ISO 27001 certified.",
+    "icp": "Enterprise marketing teams at Fortune 50 banks, fintech, telecom, and healthcare companies needing personalization at scale without dev resources. CMOs and growth leaders with high website traffic who can't optimize fast enough manually.",
+    "funding": {
+      "total_raised": "$9.5M across 3 rounds",
+      "last_round": "$1.8M seed led by Accel (for CRO Agents launch)",
+      "investors": ["Accel", "12 other investors"],
+      "stage": "Seed"
+    },
+    "revenue_estimate": "Not publicly disclosed (11-50 employees)",
+    "competitors": ["Optimizely", "VWO", "Adobe Target", "Webflow", "Unbounce", "Dynamic Yield (Mastercard)", "Ninetailed"],
+    "recent_news": "2025: Launched AI-Agents for CRO (Yahoo Finance / PRNewswire). Raised $1.8M from Accel for CRO Agents Workforce. Trusted by Fortune 50 banks.",
+    "verified": true
+  },
+  {
+    "company_id": 13,
+    "company_name": "QCraft AI",
+    "product_summary": "Physical AI and autonomous driving platform. Develops AI algorithms for L2++ ADAS and L4 autonomous driving. Products include NOA (Navigate on Autopilot), 500+ TOPS autonomous driving solutions, and world model-based physical AI for vehicles. In 1M+ mass production units across 10 OEM partners.",
+    "icp": "Automotive OEMs and automotive electronics/Tier-1 suppliers needing autonomous driving AI; mobility companies wanting to deploy NOA features. Primary market: Chinese auto OEMs with global expansion.",
+    "funding": {
+      "total_raised": "$100M Series D (March 2026) + prior rounds (total ~$400M estimated)",
+      "last_round": "$100M Series D (March 2026)",
+      "investors": ["Ningbo Ninghai Xingtaihe Fund", "Wonderland Capital", "Liangxi Science and Innovation Fund", "Strategic OEM investors"],
+      "stage": "Series D"
+    },
+    "revenue_estimate": "Not publicly disclosed (501-1000 employees; hardware+software B2B model)",
+    "competitors": ["Mobileye", "Waymo", "Pony.ai", "Cruise", "Innoviz", "Horizon Robotics", "Momenta"],
+    "recent_news": "January 2026: Launched next-gen 500+ TOPS autonomous driving solution, scaled NOA to 1M+ vehicles. March 2026: Closed $100M Series D. April 2026: CEO at Munich conference on Physical AI shift.",
+    "verified": true
+  },
+  {
+    "company_id": 14,
+    "company_name": "Trovex.ai",
+    "product_summary": "AI-powered sales and support enablement platform. Offers immersive roleplay simulations for sales teams, post-call analytics, AI coaching, performance dashboards, and real-time agent assist. Targets enterprise sales readiness. Available on Microsoft AppSource. Founded by serial entrepreneur (Gympik founder) and IISc AI researcher.",
+    "icp": "Enterprise sales teams, customer-facing teams (sales, support, collections) needing structured training and coaching. BFSI, SaaS, and B2B companies with large field/inside sales teams in India.",
+    "funding": {
+      "total_raised": "Unfunded (bootstrapped)",
+      "last_round": null,
+      "investors": [],
+      "stage": "Bootstrapped"
+    },
+    "revenue_estimate": "Not publicly disclosed (11-50 employees, 2023 founding)",
+    "competitors": ["Second Nature (raised $22M Oct 2025)", "Demodesk", "Brainshark", "SmartWinnr", "Mindtickle", "Quantified", "Seismic"],
+    "recent_news": "2025: Listed on Microsoft AppSource. Press coverage on bringing AI sales training to India's enterprise market (CXOToday). Hiring enterprise sales SDRs in Mumbai.",
+    "verified": true
+  },
+  {
+    "company_id": 15,
+    "company_name": "Tuskr",
+    "product_summary": "Cloud-based test case management software by Celoxis Technologies. Power-packed with test case authoring, test run management, bug/time tracking integrations, and team collaboration. Described as 'power-packed with everything you want, and nothing that you don't.' Sister product to Celoxis project management.",
+    "icp": "QA teams and developers at software product and services companies needing structured test management without bloat. SMBs and mid-market engineering teams wanting an alternative to TestRail or Jira-based test management.",
+    "funding": {
+      "total_raised": "Bootstrapped (Celoxis Technologies parent — profitable, Rs. 38.1Cr revenue FY2025)",
+      "last_round": null,
+      "investors": [],
+      "stage": "Bootstrapped / Profitable"
+    },
+    "revenue_estimate": "Rs. 38.1Cr ($4.5M) for Celoxis Technologies FY2025 (13% revenue CAGR)",
+    "competitors": ["TestRail", "Qase", "PractiTest", "Zephyr (SmartBear)", "TestCollab", "Atlassian JIRA", "SpiraTest", "Kualitee"],
+    "recent_news": "2025: Ranked as top test management tool for QA teams. Parent Celoxis reported Rs. 38.1Cr revenue with 187% EBITDA CAGR.",
+    "verified": true
+  },
+  {
+    "company_id": 16,
+    "company_name": "Appitsimple Infotek",
+    "product_summary": "AI-first B2B SaaS company behind CallHippo: an AI-driven business communication platform with cloud telephony, AI calling agents, sales dialers, unified inbox, and 173-country number coverage. Also operates SoftwareSuggest (B2B software discovery). 5,000+ CallHippo customers globally.",
+    "icp": "SMB and mid-market sales and support teams globally (US, India, EU) needing virtual phone infrastructure and AI-powered call automation; companies scaling outbound sales with power dialers; remote-first companies needing cloud PBX.",
+    "funding": {
+      "total_raised": "Bootstrapped/Unfunded (profitable at $21-25M revenue)",
+      "last_round": null,
+      "investors": [],
+      "stage": "Bootstrapped / Profitable"
+    },
+    "revenue_estimate": "$25M ARR (Appitsimple); CallHippo: $21.1M ARR",
+    "competitors": ["Aircall", "CloudTalk", "RingCentral", "Zendesk Talk", "Freshcaller", "JustCall", "Talkdesk"],
+    "recent_news": "2025: Expanded AI agents and sales dialer capabilities. Founded in 2017, now 51-200 employees across Ahmedabad HQ and Bengaluru.",
+    "verified": true
+  },
+  {
+    "company_id": 17,
+    "company_name": "DATOMS",
+    "product_summary": "Industrial IoT SaaS platform enabling Equipment-as-a-Service (EaaS). Connects machines, tracks assets, and delivers operational intelligence for OEMs and system integrators. Features: device management, real-time monitoring, analytics, digital transformation layer for industrial equipment. Target market: $18B global connected machines market.",
+    "icp": "Industrial equipment OEMs and system integrators wanting to add IoT connectivity to their machines (construction, agriculture, energy, manufacturing equipment). Companies transitioning from product sales to equipment-as-a-service recurring revenue models.",
+    "funding": {
+      "total_raised": "₹25 crore (~$2.76M) Series A",
+      "last_round": "₹25 crore Series A led by Big Capital JSC (Vietnam); IvyCap Ventures; YourNest VC",
+      "investors": ["Big Capital JSC", "IvyCap Ventures", "YourNest Venture Capital"],
+      "stage": "Series A"
+    },
+    "revenue_estimate": "Rs. 5.57Cr ($670K) FY2025 (up from Rs. 3.09Cr FY2024)",
+    "competitors": ["AssetCues", "Fracttal", "FIT Global", "Infinite Uptime", "Proxgy", "Algo8"],
+    "recent_news": "Raised ₹25Cr Series A from Big Capital JSC (Vietnam) and IvyCap. Revenue doubled YoY to Rs. 5.57Cr in FY2025. Hiring SDR in Bhubaneswar for enterprise expansion.",
+    "verified": true
+  },
+  {
+    "company_id": 18,
+    "company_name": "Darwinbox",
+    "product_summary": "AI-powered HCM platform for enterprises and high-growth companies. Full-suite HRMS: payroll, attendance, leaves, performance, talent management, recruitment (ATS), onboarding, people analytics, HR voicebot, and travel/expense. Built for Asia-Pacific enterprises. Unicorn. Backed by Salesforce Ventures.",
+    "icp": "Mid-market to large enterprises (500+ employees) in India, Southeast Asia, and Middle East modernizing legacy HR systems. Companies in IT, BFSI, retail, and manufacturing. Global expansion into North America and Europe.",
+    "funding": {
+      "total_raised": "$149M across 13 rounds (some sources: $308M)",
+      "last_round": "$15M Series B (most recent; May 2026 per search results — likely earlier round referenced incorrectly)",
+      "investors": ["Salesforce Ventures", "Sequoia India (Peak XV)", "Lightspeed India", "Endiya Partners", "3one4 Capital", "Tiger Global"],
+      "stage": "Late Stage / Unicorn (~$1B valuation)"
+    },
+    "revenue_estimate": "$100M (2025)",
+    "competitors": ["Workday", "SAP SuccessFactors", "PeopleStrong", "Factorial", "Cornerstone OnDemand", "Keka HR", "greytHR", "Rippling", "Deel"],
+    "recent_news": "July 2026: Appointed Akshay Murthy as VP & Country Head India (ex-Salesforce). April 2025: Named Sudi Bjornstad Korba as SVP North America Sales. Co-CEO model with Chaitanya Peddi and Jayant Paleti.",
+    "verified": true
+  },
+  {
+    "company_id": 19,
+    "company_name": "Signalmash",
+    "product_summary": "Boutique CPaaS (Communications Platform as a Service). Provides SMS/MMS APIs, Voice APIs, Elastic SIP Trunking, Programmable Voice, Campaign Registry (10DLC), KYC, Contact Center infrastructure, and Hosted PBX — all in one platform. Differentiates on hands-on human support vs. commodity self-serve CPaaS.",
+    "icp": "SMBs and mid-market companies needing reliable programmatic voice and messaging with expert human support; businesses frustrated with Twilio's complexity; contact centers and BPO operations needing SIP trunking at scale.",
+    "funding": {
+      "total_raised": "Not disclosed (appears bootstrapped/small; 51-200 employees, 2020 founding)",
+      "last_round": null,
+      "investors": [],
+      "stage": "Seed/Bootstrapped"
+    },
+    "revenue_estimate": "Not publicly disclosed",
+    "competitors": ["Twilio", "Sinch", "Telnyx", "Vonage (Ericsson)", "Bandwidth", "MessageBird", "Plivo"],
+    "recent_news": "2025: Actively hiring GTM Engineer in India (remote) to build outbound sales motion. Expanding market presence beyond US through India office.",
+    "verified": true
+  },
+  {
+    "company_id": 20,
+    "company_name": "Qureos",
+    "product_summary": "AI recruiting platform automating candidate sourcing, screening, and job matching. Features AI-powered talent discovery, resume analysis, candidate outreach, and personalized job matching for job seekers. Targets MENA, US, UK, and India markets. Raised from Prosus Ventures.",
+    "icp": "Recruiters and HR teams at enterprises and staffing firms (MENA, US, UK, India) needing to automate high-volume sourcing and screening. Companies hiring for white-collar roles across tech, sales, finance, and operations.",
+    "funding": {
+      "total_raised": "$13M across multiple rounds",
+      "last_round": "$5M seed (February 2026) led by Prosus Ventures + Salica Oryx Fund",
+      "investors": ["Prosus Ventures", "Salica Oryx Fund", "Oraseya Capital", "PlusVC", "F6 Ventures", "BDev Ventures", "Sunny Side Venture Partners"],
+      "stage": "Seed"
+    },
+    "revenue_estimate": "Not publicly disclosed (11-50 employees)",
+    "competitors": ["LinkedIn Recruiter", "Greenhouse", "Lever", "Juicebox (raised $30M Series A from Sequoia Sept 2025)", "Manatal", "Workable"],
+    "recent_news": "February 2026: Closed $5M seed from Prosus Ventures. Hiring across US, UK, India markets with active sales roles posted. Positioned as 'AI recruiting platform that finds talent beyond your reach.'",
+    "verified": true
+  }
+]
