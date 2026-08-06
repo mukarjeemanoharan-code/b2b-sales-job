@@ -27,6 +27,14 @@ model ProspectStatus {
   @@unique([userId, companyId])
 }
 
+model PasswordReset {
+  id        String   @id @default(cuid())
+  email     String
+  token     String   @unique
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+}
+
 // confidence values used throughout: verified | likely | inference | unverified | not_found
 
 model Company {

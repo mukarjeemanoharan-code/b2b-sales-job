@@ -79,6 +79,12 @@ export default function LoginPage() {
               style={inputStyle(focusedField === 'password')}
             />
 
+            <div style={{ textAlign: 'right', marginTop: -4 }}>
+              <Link href="/forgot-password" style={{ color: '#0071E3', fontSize: 13, textDecoration: 'none' }}>
+                Forgot password?
+              </Link>
+            </div>
+
             {error && (
               <div style={{
                 background: '#FFF2F2', border: '1px solid #FFCDD2', borderRadius: 10,
