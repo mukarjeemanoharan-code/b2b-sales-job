@@ -446,5 +446,101 @@
     "target_market": "Wealth managers, private bankers, and luxury/real estate/automotive businesses targeting HNI/UHNI individuals",
     "hiring_urgency": "Medium",
     "verified": true
+  },
+  {
+    "company_id": 41,
+    "company_name": "TheHireHub.Ai",
+    "gtm_motion": "Founder-led sales to in-house TA teams, bootstrapped growth. First outbound SDR hire signals moving beyond founder-led sales into a repeatable motion.",
+    "sales_motion": "Outbound to HR/TA leaders at growing companies; content-led credibility via founder's published bylines (ET, Financial Express, HR.com) on AI in recruitment.",
+    "hiring_signal": "Hiring first SDR at a bootstrapped, 12-person, 2025-founded company — very early GTM buildout.",
+    "observable_gtm_gaps": [
+      "Bootstrapped with no institutional funding — CAC efficiency is critical",
+      "Crowded AI recruiting category (Eightfold, SeekOut) with much larger competitors",
+      "No established outbound playbook yet"
+    ],
+    "outreach_angle": "Position as: 'TheHireHub.AI is bootstrapped and building its first outbound motion — founded by 20-year executive search veterans who've published widely on AI recruiting. You'd be defining the SDR playbook from scratch, with direct founder access.'",
+    "target_market": "In-house talent acquisition and HR teams at growing companies",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 42,
+    "company_name": "Truein",
+    "gtm_motion": "Outbound + inbound (G2/comparison content) sales to ops/HR leaders managing distributed hourly workforces. Seed-funded, steady headcount growth.",
+    "sales_motion": "Demo-led outbound SDR targeting HR/ops managers at manufacturing, retail, and warehousing companies; ROI pitch centered on payroll accuracy and fraud/buddy-punching prevention.",
+    "hiring_signal": "Hiring SDR in Pune HQ — signal of continued pipeline investment 5+ years post-seed, steady 8% YoY headcount growth.",
+    "observable_gtm_gaps": [
+      "Competing against entrenched players (Kronos/UKG, greytHR) with far larger budgets",
+      "Only $2.5M raised across 5 rounds over 7+ years — capital-efficient but slow-growth profile",
+      "Category (attendance software) is viewed as commodity by many buyers"
+    ],
+    "outreach_angle": "Position as: 'Truein differentiates on AI TimeGuard anomaly detection for hourly/multi-site workforces — not just clock-in software. 500+ customers across 10,000+ locations is real proof. Lead with payroll accuracy and fraud prevention ROI.'",
+    "target_market": "Companies managing hourly, contractual, or multi-site distributed workforce",
+    "hiring_urgency": "Low-Medium",
+    "verified": true
+  },
+  {
+    "company_id": 43,
+    "company_name": "Aavtaar.ai",
+    "gtm_motion": "Early-stage outbound to enterprise buyers in BFSI/BPO/Healthcare/EdTech/E-commerce; part-time SDR hire suggests lean, capital-conscious team testing outbound before committing to full-time headcount.",
+    "sales_motion": "Outbound to ops/CX leaders wanting to automate outbound calling, support, and lead nurturing with voice/text AI agents; sold on latency (<250ms) and multilingual capability.",
+    "hiring_signal": "Hiring a part-time, US-shift SDR — a low-commitment way to test a US-hours outbound motion before scaling investment.",
+    "observable_gtm_gaps": [
+      "No confirmed funding or named leadership found — thin public profile makes enterprise trust-building harder",
+      "Crowded conversational AI space (Yellow.ai, Verloop, Haptik) with established India players",
+      "Part-time SDR role signals uncertain GTM investment level"
+    ],
+    "outreach_angle": "Position as: 'Aavtaar.ai is testing a US-hours outbound motion with a part-time hire — low risk, high visibility if it works. Lead with the <250ms emotion-aware voice differentiator and multi-industry breadth (BFSI to EdTech) since the company itself is still building its market story.'",
+    "target_market": "BFSI, BPO, Healthcare, EdTech, and E-commerce enterprises",
+    "hiring_urgency": "Low-Medium",
+    "verified": true
+  },
+  {
+    "company_id": 44,
+    "company_name": "SigNoz",
+    "gtm_motion": "Open-source PLG (GitHub adoption) + Founding SDR to convert self-serve/open-source users into paid enterprise customers. YC-backed with real funding runway.",
+    "sales_motion": "Founding SDR role — first dedicated outbound hire, working directly with founders to build the sales motion from open-source community + inbound interest into a repeatable enterprise pipeline.",
+    "hiring_signal": "Hiring a 'Founding SDR Lead' — a senior, build-the-playbook role, not a junior IC hire. Strong signal of a well-funded (post-$5.4M) company deliberately building its first commercial motion.",
+    "observable_gtm_gaps": [
+      "Open-source-to-paid conversion motion not yet proven at scale — this hire is meant to build it",
+      "Competing against Datadog/New Relic's massive sales and marketing budgets",
+      "24,000+ GitHub stars is a strong top-of-funnel but needs a real qualification/conversion process"
+    ],
+    "outreach_angle": "Position as: 'SigNoz is YC-backed with $6.5M raised and 24,000+ GitHub stars — this is a Founding SDR Lead role, meaning you help build the entire outbound function from scratch, working directly with the founders. Lead with the open-source-to-Datadog-alternative pitch to engineering leaders already using the OSS product.'",
+    "target_market": "Engineering teams at cloud-native companies wanting unified observability",
+    "hiring_urgency": "High — founding/leadership-level SDR hire post-funding",
+    "verified": true
+  },
+  {
+    "company_id": 45,
+    "company_name": "unmeshed, Inc.",
+    "gtm_motion": "Technical, credibility-led outbound leveraging founders' Netflix Conductor pedigree; Lead SDR role suggests building a senior-led outbound function early.",
+    "sales_motion": "Outbound to engineering leaders already familiar with (or frustrated by) Netflix Conductor, pitched as the modern, fully-managed alternative; open-source GitHub presence supports developer-led discovery.",
+    "hiring_signal": "Hiring a 'Lead' SDR remotely from India for a Seattle-HQ'd, 11-50 person company — signal of building an India-based outbound function early in the company's life (founded 2024).",
+    "observable_gtm_gaps": [
+      "No disclosed funding — bootstrapped or pre-seed, meaning limited marketing budget to build awareness",
+      "Competing against well-known incumbents (Temporal, Airflow, AWS Step Functions)",
+      "Technical buyer (engineering leaders) typically resistant to traditional SDR outreach — needs technical credibility"
+    ],
+    "outreach_angle": "Position as: 'unmeshed was founded by the original Netflix Conductor engineers — that pedigree is the outbound hook. Lead with \"built by the people who built Conductor\" to engineering leaders evaluating workflow orchestration, and back it with the up-to-90%-infra-cost-reduction claim.'",
+    "target_market": "Engineering teams building distributed systems, AI agent pipelines, or microservices architectures",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 46,
+    "company_name": "CloudHire",
+    "gtm_motion": "Marketplace PLG (1 lakh+ active users) + outbound SDR to convert self-serve signups into paying enterprise hiring accounts.",
+    "sales_motion": "Outbound SDR targeting companies/hiring teams already aware of or using talent marketplaces; sold on speed (48-hour time-to-hire) and verification quality (triple-verified candidates).",
+    "hiring_signal": "Hiring SDR remotely from Tamil Nadu for a 201-500 person, funded company — signal of a growth-stage company scaling its commercial team beyond the existing 1 lakh+ user base.",
+    "observable_gtm_gaps": [
+      "Funding amount undisclosed — harder to gauge real runway and growth aggressiveness",
+      "Crowded global talent marketplace category (Deel, Andela, Turing, Toptal) with much larger, better-funded competitors",
+      "22M+ candidate database is a claim that needs concrete proof points in outreach"
+    ],
+    "outreach_angle": "Position as: 'CloudHire has 1 lakh+ active users and a 22M+ candidate database — the SDR motion is about converting that existing marketplace traffic into paying enterprise accounts. Lead with the 48-hour time-to-hire and triple-verification differentiators against Deel/Toptal.'",
+    "target_market": "Companies and hiring teams wanting to hire and pay verified remote/global talent quickly",
+    "hiring_urgency": "Medium",
+    "verified": true
   }
 ]

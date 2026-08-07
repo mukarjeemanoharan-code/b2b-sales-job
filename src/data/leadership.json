@@ -798,5 +798,105 @@
         "verified": true
       }
     ]
+  },
+  {
+    "company_id": 41,
+    "company_name": "TheHireHub.Ai",
+    "leaders": [
+      {
+        "name": "Bhavishya Sharma",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Inc42 / company about page",
+        "verified": true
+      },
+      {
+        "name": "Sadhvi Sharma",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Inc42 / company about page",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 42,
+    "company_name": "Truein",
+    "leaders": [
+      {
+        "name": "Ankit Tanna",
+        "title": "Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Web search (Crunchbase/Tracxn)",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 43,
+    "company_name": "Aavtaar.ai",
+    "leaders": [
+      {
+        "name": null,
+        "title": "Founder/CEO not publicly disclosed",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Web search — no confident match found, distinct from similarly-named 'Avataar'/'Avtaar' companies",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "company_id": 44,
+    "company_name": "SigNoz",
+    "leaders": [
+      {
+        "name": "Pranay Prateek",
+        "title": "Co-Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Web search (SigNoz blog / YC)",
+        "verified": true
+      },
+      {
+        "name": "Ankit Nayan",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Web search (SigNoz blog / YC)",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 45,
+    "company_name": "unmeshed, Inc.",
+    "leaders": [
+      {
+        "name": "Boney Sekh",
+        "title": "Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "ZoomInfo / unmeshed.io about page",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 46,
+    "company_name": "CloudHire",
+    "leaders": [
+      {
+        "name": "Sufiyan Ishaq",
+        "title": "CEO & Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/sufiyan-ishaq/",
+        "data_source": "LinkedIn / cloudhire.ai founder page",
+        "verified": true
+      }
+    ]
   }
 ]

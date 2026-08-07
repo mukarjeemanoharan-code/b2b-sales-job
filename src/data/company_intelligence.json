@@ -730,5 +730,142 @@
     ],
     "recent_news": "Raised ₹3 crore pre-seed led by Zeropearl VC in October 2025, with CRED founder Kunal Shah participating as angel investor.",
     "verified": true
+  },
+  {
+    "company_id": 41,
+    "company_name": "TheHireHub.Ai",
+    "product_summary": "End-to-end autopilot platform for recruitment lifecycle management. AI automates sourcing, outreach, assessment, scheduling, and engagement — built on insights from 3,000+ real-world hiring projects by executive search veterans.",
+    "icp": "In-house talent acquisition and HR teams at growing companies wanting to automate recruitment sourcing and engagement without replacing recruiters.",
+    "funding": {
+      "total_raised": "Bootstrapped / unfunded",
+      "last_round": null,
+      "investors": [],
+      "stage": "Bootstrapped"
+    },
+    "revenue_estimate": "Not publicly disclosed (12 employees)",
+    "competitors": [
+      "HireVue",
+      "SeekOut",
+      "Eightfold AI",
+      "Findem"
+    ],
+    "recent_news": "Bootstrapped AI recruitment startup based in Gurugram, founded 2025 by executive search veterans.",
+    "verified": true
+  },
+  {
+    "company_id": 42,
+    "company_name": "Truein",
+    "product_summary": "AI-powered time & attendance solution for hourly and multi-site workforce. Face recognition + geofencing clock-ins, AI TimeGuard anomaly detection, payroll accuracy. Trusted by 500+ customers across 10,000+ locations.",
+    "icp": "Companies managing hourly, contractual, or multi-site distributed workforce (manufacturing, retail, warehousing, construction) needing accurate time tracking.",
+    "funding": {
+      "total_raised": "$2.5M across 5 rounds",
+      "last_round": "Seed (June 2023)",
+      "investors": [
+        "Undisclosed"
+      ],
+      "stage": "Seed"
+    },
+    "revenue_estimate": "Not publicly disclosed (27 employees per Crunchbase)",
+    "competitors": [
+      "Kronos/UKG",
+      "Zimyo",
+      "greytHR",
+      "Deputy",
+      "When I Work"
+    ],
+    "recent_news": "Continued growth in multi-site workforce attendance management space; 8% YoY headcount growth as of Aug 2025.",
+    "verified": true
+  },
+  {
+    "company_id": 43,
+    "company_name": "Aavtaar.ai",
+    "product_summary": "Voice & Text Generative AI Agents for business conversation automation — WhatsApp bots, multilingual LLMs, emotion-aware voices (<250ms latency), API + telephony integration. Targets BFSI, BPO, Healthcare, EdTech, E-commerce.",
+    "icp": "Enterprises in BFSI, BPO, Healthcare, EdTech, and E-commerce wanting to automate outbound calling, inbound query handling, lead nurturing, and customer retention with AI voice/text agents.",
+    "funding": {
+      "total_raised": "Not publicly disclosed",
+      "last_round": null,
+      "investors": [],
+      "stage": "Early stage"
+    },
+    "revenue_estimate": "Not publicly disclosed (11-50 employees)",
+    "competitors": [
+      "Yellow.ai",
+      "Verloop.io",
+      "Haptik",
+      "Gupshup"
+    ],
+    "recent_news": "Founded 2024; no major funding or news events publicly verifiable at time of research.",
+    "verified": true
+  },
+  {
+    "company_id": 44,
+    "company_name": "SigNoz",
+    "product_summary": "Open-source, OpenTelemetry-native observability platform unifying metrics, traces, and logs in a single application — an open-source alternative to Datadog/New Relic. 24,000+ GitHub stars.",
+    "icp": "Engineering teams at cloud-native companies wanting unified observability without vendor lock-in or Datadog-scale pricing.",
+    "funding": {
+      "total_raised": "$6.5M total",
+      "last_round": "$5.4M (led by SignalFire)",
+      "investors": [
+        "SignalFire",
+        "Y Combinator"
+      ],
+      "stage": "Seed"
+    },
+    "revenue_estimate": "Not publicly disclosed (11-50 employees)",
+    "competitors": [
+      "Datadog",
+      "New Relic",
+      "Grafana",
+      "Honeycomb",
+      "Elastic Observability"
+    ],
+    "recent_news": "Y Combinator W21 batch alum; raised $5.4M led by SignalFire on top of earlier $1.1M YC/angel round, for total $6.5M.",
+    "verified": true
+  },
+  {
+    "company_id": 45,
+    "company_name": "unmeshed, Inc.",
+    "product_summary": "Next-generation orchestration platform for microservices, workflows, APIs, and AI-driven systems — a 'Netflix Conductor Alternative' built by the original Conductor engineers, claiming up to 90% infrastructure cost reduction.",
+    "icp": "Engineering teams building distributed systems, AI agent pipelines, or microservices architectures needing reliable workflow orchestration without building it in-house.",
+    "funding": {
+      "total_raised": "Not publicly disclosed",
+      "last_round": null,
+      "investors": [],
+      "stage": "Early stage"
+    },
+    "revenue_estimate": "Not publicly disclosed (11-50 employees)",
+    "competitors": [
+      "Netflix Conductor (OSS)",
+      "Orkes",
+      "Temporal",
+      "Airflow",
+      "AWS Step Functions"
+    ],
+    "recent_news": "Founded 2024 by former Netflix/Robinhood/Orkes engineering leaders; open-source on GitHub.",
+    "verified": true
+  },
+  {
+    "company_id": 46,
+    "company_name": "CloudHire",
+    "product_summary": "AI-powered Global Talent Marketplace — triple-verified candidate data (behavioral screening, technical testing, identity verification), AI matching, payroll management. 22M+ candidates in database; cuts recruitment time to 48 hours.",
+    "icp": "Companies and hiring teams (global, remote-first) wanting to hire and pay verified remote/global talent quickly without building in-house sourcing infrastructure.",
+    "funding": {
+      "total_raised": "Funded (amount undisclosed)",
+      "last_round": "Undisclosed round",
+      "investors": [
+        "Undisclosed"
+      ],
+      "stage": "Growth"
+    },
+    "revenue_estimate": "Not publicly disclosed (201-500 employees)",
+    "competitors": [
+      "Deel",
+      "Andela",
+      "Turing",
+      "Toptal",
+      "Wellfound"
+    ],
+    "recent_news": "Positioned as 'India's fastest-growing AI-powered recruitment platform' with 1 lakh+ active users.",
+    "verified": true
   }
 ]

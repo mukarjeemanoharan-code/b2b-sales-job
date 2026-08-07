@@ -351,7 +351,8 @@
       "Sales Development Representative"
     ],
     "job_urls": [
-      "https://www.linkedin.com/jobs/view/4448852602/"
+      "https://www.linkedin.com/jobs/view/4448852602/",
+      "https://www.linkedin.com/jobs/view/4450089985/"
     ],
     "hiring_locations": [
       "Pune, Maharashtra, India"
@@ -360,7 +361,8 @@
       "Unknown"
     ],
     "posting_dates": [
-      "2026-08-04"
+      "2026-08-04",
+      "2026-08-07"
     ],
     "verified": true,
     "excluded": false,
@@ -947,10 +949,12 @@
     "specialties": "shipping, logistics, ecommerceshipping, automatedshipping, NDR management, saas, International shipping, order management software, multi-channel order management, shipping API",
     "company_stage": "High Growth Startup",
     "hiring_roles": [
-      "SDR - (WFO,Enterprise Sales,2+Years)"
+      "SDR - (WFO,Enterprise Sales,2+Years)",
+      "SDR - (WFO,Enterprise Sales,3+Years)"
     ],
     "job_urls": [
-      "https://www.linkedin.com/jobs/view/4448096267/"
+      "https://www.linkedin.com/jobs/view/4448096267/",
+      "https://www.linkedin.com/jobs/view/4450094721/"
     ],
     "hiring_locations": [
       "Bengaluru South, Karnataka, India"
@@ -959,6 +963,7 @@
       "Office"
     ],
     "posting_dates": [
+      "2026-08-07",
       "2026-08-07"
     ],
     "verified": true,
@@ -1148,15 +1153,19 @@
       "Sales Development Representative (Outbound Sales)"
     ],
     "job_urls": [
-      "https://www.linkedin.com/jobs/view/4449747240/"
+      "https://www.linkedin.com/jobs/view/4449747240/",
+      "https://www.linkedin.com/jobs/view/4450321692/"
     ],
     "hiring_locations": [
-      "Mohali district, India"
+      "Mohali district, India",
+      "Hyderabad, Telangana, India"
     ],
     "hiring_mode": [
-      "Office"
+      "Office",
+      "Hybrid"
     ],
     "posting_dates": [
+      "2026-08-07",
       "2026-08-07"
     ],
     "verified": true,
@@ -1214,7 +1223,8 @@
       "Sales Development Representative (Intern)"
     ],
     "job_urls": [
-      "https://www.linkedin.com/jobs/view/4449371605/"
+      "https://www.linkedin.com/jobs/view/4449371605/",
+      "https://www.linkedin.com/jobs/view/4450645225/"
     ],
     "hiring_locations": [
       "India (Remote)"
@@ -1223,6 +1233,7 @@
       "Remote (India)"
     ],
     "posting_dates": [
+      "2026-08-07",
       "2026-08-07"
     ],
     "verified": true,
@@ -1327,5 +1338,467 @@
     "verified": true,
     "excluded": true,
     "exclusion_reason": "Job title itself specifies 'US IT Services' — IT staffing/outsourcing company, not a SaaS product company."
+  },
+  {
+    "company_id": 41,
+    "company_name": "TheHireHub.Ai",
+    "linkedin_slug": "thehirehub-ai",
+    "linkedin_url": "https://www.linkedin.com/company/thehirehub-ai",
+    "website": "https://www.thehirehub.ai/",
+    "industry": "Technology, Information and Internet",
+    "saas_category": "HR Tech SaaS / AI Recruiting Automation Platform",
+    "employee_count": "11-50",
+    "hq": "Gurugram, India",
+    "founded": "2025",
+    "about": "Your Autopilot for Recruitment. End-to-end autopilot platform for recruitment lifecycle management — AI automates sourcing, outreach, assessment, scheduling, and engagement. Built on insights from 3,000+ real-world hiring projects.",
+    "specialties": "AI recruiting, AI recruiting software, recruitment automation, AI sourcing tool, AI screening, agentic AI recruiting, AI hiring platform, AI ATS, talent intelligence",
+    "company_stage": "Startup",
+    "hiring_roles": [
+      "Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4448775017/"
+    ],
+    "hiring_locations": [
+      "Gurugram, Haryana, India"
+    ],
+    "hiring_mode": [
+      "Office"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 42,
+    "company_name": "Truein",
+    "linkedin_slug": "truein",
+    "linkedin_url": "https://www.linkedin.com/company/truein",
+    "website": "https://truein.com/",
+    "industry": "Software Development",
+    "saas_category": "Workforce Management SaaS / AI Time & Attendance",
+    "employee_count": "51-200",
+    "hq": "Pune, Maharashtra",
+    "founded": "2018",
+    "about": "AI-powered time & attendance solution built for hourly and multi-site workforce, with face recognition, geofencing, and AI TimeGuard anomaly detection. Trusted by 500+ customers across 10,000+ locations.",
+    "specialties": "Face attendance system, Face recognition attendance system, Mobile based attendance, Contract worker attendance, attendance management, time tracking, Hourly Workforce Time Tracking, Ai time tracking",
+    "company_stage": "High Growth Startup",
+    "hiring_roles": [
+      "Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4450089683/"
+    ],
+    "hiring_locations": [
+      "Pune District, Maharashtra, India"
+    ],
+    "hiring_mode": [
+      "Office"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 43,
+    "company_name": "Aavtaar.ai",
+    "linkedin_slug": "aavtaar-ai",
+    "linkedin_url": "https://www.linkedin.com/company/aavtaar-ai",
+    "website": "https://www.aavtaar.ai/",
+    "industry": "Technology, Information and Internet",
+    "saas_category": "Conversational AI SaaS / Voice & Text Gen AI Agents",
+    "employee_count": "11-50",
+    "hq": null,
+    "founded": "2024",
+    "about": "Agentic AI | Voice & Text Gen AI | WhatsApp Bots | Multilingual LLMs | Emotion-Aware Voices <250ms | API + Telephony. Building Voice & Text Generative AI Agents that automate conversations for BFSI, BPO, Healthcare, EdTech, and E-commerce industries.",
+    "specialties": null,
+    "company_stage": "Startup",
+    "hiring_roles": [
+      "Part-Time Sales Development Representative (US Shift)"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4450086325/"
+    ],
+    "hiring_locations": [
+      "India (Remote)"
+    ],
+    "hiring_mode": [
+      "Remote (India)"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 44,
+    "company_name": "SigNoz",
+    "linkedin_slug": "signozio",
+    "linkedin_url": "https://www.linkedin.com/company/signozio",
+    "website": "https://signoz.io",
+    "industry": "Software Development",
+    "saas_category": "DevTools SaaS / Open-Source Observability",
+    "employee_count": "11-50",
+    "hq": "San Francisco, CA",
+    "founded": "2020",
+    "about": "Open Source Observability | OpenTelemetry Native. Simplifies observability for engineering teams — metrics, traces, and logs in a single open-source platform. 24,000+ GitHub stars, backed by Y Combinator.",
+    "specialties": "Observability, Application Monitoring, Log Management, DevOps",
+    "company_stage": "High Growth Startup",
+    "hiring_roles": [
+      "Founding Sales Development Representative (SDR) Lead"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4448752185/"
+    ],
+    "hiring_locations": [
+      "India (Remote)"
+    ],
+    "hiring_mode": [
+      "Remote (India)"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 45,
+    "company_name": "unmeshed, Inc.",
+    "linkedin_slug": "unmeshed-inc",
+    "linkedin_url": "https://www.linkedin.com/company/unmeshed-inc",
+    "website": "https://unmeshed.io/",
+    "industry": "Technology, Information and Internet",
+    "saas_category": "DevTools SaaS / Workflow & API Orchestration Platform",
+    "employee_count": "11-50",
+    "hq": "Seattle, WA",
+    "founded": "2024",
+    "about": "Orchestrate workflows that's fast to build at any scale and fully AI-driven with deep observability. Next-Generation Orchestration Platform for Microservices, Workflows, APIs, and AI-Driven Systems — a 'Netflix Conductor Alternative' built by the original Conductor engineers.",
+    "specialties": "Orchestration, Netflix Conductor Alternative, Runtime Engine for APIs, Durable Executions, API Orchestration, Microservices Orchestration, AI Orchestration, Event Driven Architecture",
+    "company_stage": "Startup",
+    "hiring_roles": [
+      "Lead - Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4450050876/"
+    ],
+    "hiring_locations": [
+      "India (Remote)"
+    ],
+    "hiring_mode": [
+      "Remote (India)"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 46,
+    "company_name": "CloudHire",
+    "linkedin_slug": "cloudhire1",
+    "linkedin_url": "https://www.linkedin.com/company/cloudhire1",
+    "website": "https://cloudhire.ai",
+    "industry": "Technology, Information and Internet",
+    "saas_category": "HR Tech SaaS / AI Talent Marketplace",
+    "employee_count": "201-500",
+    "hq": "New York, New York",
+    "founded": null,
+    "about": "Find, Hire, and Pay all on One Platform. AI-powered Global Talent Marketplace providing triple-verified candidate data to hiring teams, cutting recruitment time to 48 hours. 22M+ candidates in database.",
+    "specialties": "Hiring, Interviewing, Artificial Intelligence, Remote Developers, Sourcing, Remote Work, Recruitment Data, Payroll Services",
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4450016770/"
+    ],
+    "hiring_locations": [
+      "Tamil Nadu, India"
+    ],
+    "hiring_mode": [
+      "Remote (India)"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 47,
+    "company_name": "Uplers",
+    "linkedin_slug": "weareuplers",
+    "linkedin_url": "https://www.linkedin.com/company/weareuplers",
+    "website": "https://www.uplers.com/",
+    "industry": "Technology, Information and Internet",
+    "saas_category": "IT Staffing / Recruitment Agency",
+    "employee_count": "1,001-5,000",
+    "hq": "Remote",
+    "founded": "2021",
+    "about": "End-to-end AI-hiring platform for tech companies to hire top talent from India.",
+    "specialties": "IT staff augmentation, Recruitment services, HR recruiting, Hiring platform, Recruitment process outsource, IT staffing, IT consultation",
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "SDR / BDR (US Outbound)"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4450702997/"
+    ],
+    "hiring_locations": [
+      "Gurugram, Haryana, India"
+    ],
+    "hiring_mode": [
+      "Office"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": true,
+    "exclusion_reason": "IT staff augmentation / recruitment process outsourcing company per its own specialties list — a recruitment agency, not a SaaS product company, despite marketing itself as a 'hiring platform.'"
+  },
+  {
+    "company_id": 48,
+    "company_name": "Umanist NA",
+    "linkedin_slug": "umanistna",
+    "linkedin_url": "https://www.linkedin.com/company/umanistna",
+    "website": "https://umaniststaffing.com/careers/",
+    "industry": "IT Services and IT Consulting",
+    "saas_category": "IT Staffing / Consulting",
+    "employee_count": "2-10",
+    "hq": "New York",
+    "founded": "2022",
+    "about": "Creating human-centric solutions — strategic consulting, ITES solutions, and R&D.",
+    "specialties": "business analysis, it services, Business Consulting, RaaS, SaaS, PaaS, HCX, HCM, SOW, Data Management",
+    "company_stage": "Startup",
+    "hiring_roles": [
+      "Sales Development Representative (SDR)"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4450330081/"
+    ],
+    "hiring_locations": [
+      "Noida, Uttar Pradesh, India"
+    ],
+    "hiring_mode": [
+      "Office"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": true,
+    "exclusion_reason": "IT Services and IT Consulting industry; website domain is literally 'umaniststaffing.com' — a staffing/consulting firm, not a SaaS product company."
+  },
+  {
+    "company_id": 49,
+    "company_name": "LogFix SCM Solutions Pvt Ltd",
+    "linkedin_slug": "logfixscm-solutions",
+    "linkedin_url": "https://www.linkedin.com/company/logfixscm-solutions",
+    "website": "https://www.logfixscm.com",
+    "industry": "Human Resources Services",
+    "saas_category": "HR / Staffing / Recruitment Consulting",
+    "employee_count": "11-50",
+    "hq": "Chennai, Tamil Nadu",
+    "founded": "2018",
+    "about": "Trusted partner for businesses looking to simplify HR, Staffing, and Business Consulting needs — staffing solutions, payroll outsourcing, business/IT consulting, corporate training.",
+    "specialties": "consultant, recruitment consultant, placement services, Recruitment Process Outsourcing, HR, Hiring Services",
+    "company_stage": "Startup",
+    "hiring_roles": [
+      "Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4450099761/"
+    ],
+    "hiring_locations": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "hiring_mode": [
+      "Office"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": true,
+    "exclusion_reason": "Human Resources Services industry — a staffing, payroll, and recruitment consulting firm, not a SaaS product company."
+  },
+  {
+    "company_id": 50,
+    "company_name": "MathiVerse",
+    "linkedin_slug": "mathiverse-ai",
+    "linkedin_url": "https://www.linkedin.com/company/mathiverse-ai",
+    "website": "https://www.mathiverse.com/",
+    "industry": "Software Development",
+    "saas_category": "Digital Marketing Agency",
+    "employee_count": "11-50",
+    "hq": null,
+    "founded": null,
+    "about": "Full-suite agency GTMVerse is a human-powered digital agency focused on real growth for businesses, covering search, content, performance, and product marketing. Own 'intelligent technology layer' is described as launching soon.",
+    "specialties": null,
+    "company_stage": "Startup",
+    "hiring_roles": [
+      "Sales Development Representative -US Outbound"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4450307110/"
+    ],
+    "hiring_locations": [
+      "Chennai, Tamil Nadu, India"
+    ],
+    "hiring_mode": [
+      "Office"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": true,
+    "exclusion_reason": "Self-described as a 'human-powered digital agency' (GTMVerse) covering search/content/performance marketing for clients; its own SaaS product is not yet launched ('launching soon')."
+  },
+  {
+    "company_id": 51,
+    "company_name": "12th Wonder",
+    "linkedin_slug": "12thwonder",
+    "linkedin_url": "https://www.linkedin.com/company/12thwonder",
+    "website": "https://12thwonder.com/",
+    "industry": "Software Development",
+    "saas_category": "Custom Software Development / Consulting Services",
+    "employee_count": "51-200",
+    "hq": "Pleasanton, California",
+    "founded": "2012",
+    "about": "Designs and executes software solutions that empower workforces and drive digital transformation for clients, with a strong track record in the Automotive industry.",
+    "specialties": "Cloud native services, Test Lifecycle management, Mobile App Development, Full Stack Development, Cloud Computing and Consulting, DevOps, Custom Software Development, MVP Development",
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "Sales Development Representative -(Lead Generation )"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4448725860/"
+    ],
+    "hiring_locations": [
+      "Pune City, Maharashtra, India"
+    ],
+    "hiring_mode": [
+      "Office"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": true,
+    "exclusion_reason": "Custom software development / IT consulting company building products and services for clients (esp. automotive), not a SaaS product company itself."
+  },
+  {
+    "company_id": 52,
+    "company_name": "Smart Working",
+    "linkedin_slug": "smartworkingsolutions",
+    "linkedin_url": "https://www.linkedin.com/company/smartworkingsolutions",
+    "website": "https://smartworking.io/",
+    "industry": "IT Services and IT Consulting",
+    "saas_category": "Tech Talent Staffing / IT Services",
+    "employee_count": "51-200",
+    "hq": "London",
+    "founded": null,
+    "about": "Tech Talent as a Service — building high-performance global engineering teams without the friction, risk, or overhead of legacy hiring models. Fully-embedded remote engineering teams for 60+ clients in the UK and USA.",
+    "specialties": "Software Development, Custom Software Solutions, Product Engineering, Technology Consulting, Platform Engineering",
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "GTM Engineer (Remote, Full Time) [HR207]"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4450066525/"
+    ],
+    "hiring_locations": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "hiring_mode": [
+      "Remote (India)"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": true,
+    "exclusion_reason": "Self-described 'Tech Talent as a Service' — IT staff augmentation/outsourcing company embedding engineering teams into client organizations, not a SaaS product company."
+  },
+  {
+    "company_id": 53,
+    "company_name": "NetCom Learning",
+    "linkedin_slug": "netcom-learning",
+    "linkedin_url": "https://www.linkedin.com/company/netcom-learning",
+    "website": "http://www.netcomlearning.com",
+    "industry": "IT Services and IT Consulting",
+    "saas_category": "IT Training & Certification Services",
+    "employee_count": "1,001-5,000",
+    "hq": "New York",
+    "founded": null,
+    "about": "Trusted learning partner offering 4,000+ training courses, live masterclasses, and hands-on labs across AI, Data Science, Cloud, and Cybersecurity since 1998. Authorized training partner for Microsoft, Google Cloud, AWS, Cisco.",
+    "specialties": "IT Training & Certification, Microsoft, Cybersecurity, Cisco, Project Management, AWS Training, Business Training",
+    "company_stage": "Enterprise",
+    "hiring_roles": [
+      "Sales Development Representative (SDR)"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4450013414/"
+    ],
+    "hiring_locations": [
+      "Hyderabad, Telangana, India"
+    ],
+    "hiring_mode": [
+      "Office"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": true,
+    "exclusion_reason": "IT training and certification services company (corporate training courses), not a SaaS product company — falls under training/EdTech services exclusion."
+  },
+  {
+    "company_id": 54,
+    "company_name": "Delveio Consulting",
+    "linkedin_slug": "delveio",
+    "linkedin_url": "https://www.linkedin.com/company/delveio",
+    "website": null,
+    "industry": "Consulting",
+    "saas_category": "Consulting Services",
+    "employee_count": "Unknown",
+    "hq": "Goa, India",
+    "founded": null,
+    "about": "Consulting firm; company name explicitly identifies as 'Delveio Consulting.'",
+    "specialties": null,
+    "company_stage": "Startup",
+    "hiring_roles": [
+      "Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4450682933/"
+    ],
+    "hiring_locations": [
+      "Bardez, Goa, India"
+    ],
+    "hiring_mode": [
+      "Office"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": true,
+    "exclusion_reason": "Company name itself identifies as a consulting firm ('Delveio Consulting') — not a SaaS product company."
   }
 ]
