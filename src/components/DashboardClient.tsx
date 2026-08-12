@@ -453,7 +453,7 @@ export default function DashboardClient({ companies, frequentHirers, initialStat
         {/* Header */}
         <div style={{ padding: '40px 0 24px' }}>
           <h1 style={{ fontSize: 40, fontWeight: 700, letterSpacing: '-0.015em', color: '#1D1D1F', margin: 0 }}>Market Intelligence</h1>
-          <p style={{ fontSize: 17, color: '#6E6E73', marginTop: 6 }}>20 B2B SaaS companies hiring SDR/BDR in India — Updated Aug 5, 2026</p>
+          <p style={{ fontSize: 17, color: '#6E6E73', marginTop: 6 }}>{companies.length} B2B SaaS companies hiring SDR/BDR in India — Updated {(() => { const dates = companies.flatMap(c => c.posting_dates ?? []); if (!dates.length) return '—'; const latest = new Date(dates.sort().at(-1)!); return latest.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }); })()}</p>
         </div>
 
         {/* Search */}
