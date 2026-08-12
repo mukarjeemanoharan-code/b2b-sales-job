@@ -76,7 +76,7 @@
     "employee_count": "201-500",
     "hq": "San Francisco, California",
     "founded": "2018",
-    "about": "Accelerate your Agentic AI journey with AI Colleagues for the back-office — proactive, collaborative, and outcome-driven.",
+    "about": "Accelerate your Agentic AI journey with AI Colleagues for the back-office \u2014 proactive, collaborative, and outcome-driven.",
     "specialties": "Artificial intelligence, Knowledge Management, Enterprise Search, Agentic Architecture, Autonomous Agent, Co-pilot, Enterprise Generative AI Solutions, Virtual Assistants, Service Delivery, Onboarding, ITSM, Chatbots, AI Colleagues",
     "company_stage": "Scale-up",
     "hiring_roles": [
@@ -276,7 +276,7 @@
     "employee_count": "10001+",
     "hq": "San Francisco, California",
     "founded": null,
-    "about": "We're the #1 AI CRM—where humans with agents drive customer success together with AI, data, and Customer 360 apps on one platform.",
+    "about": "We're the #1 AI CRM\u2014where humans with agents drive customer success together with AI, data, and Customer 360 apps on one platform.",
     "specialties": "Enterprise Cloud Computing and Customer Relationship Management",
     "company_stage": "Enterprise",
     "hiring_roles": [
@@ -511,7 +511,7 @@
     "employee_count": "51-200",
     "hq": "Ahmedabad, Gujarat",
     "founded": null,
-    "about": "AI-first B2B SaaS company building intelligent products. CallHippo is an AI-driven business communication platform powering sales and support teams across 5,000+ customers with cloud telephony, AI agents, sales dialers, unified inbox — offering numbers in 173 countries.",
+    "about": "AI-first B2B SaaS company building intelligent products. CallHippo is an AI-driven business communication platform powering sales and support teams across 5,000+ customers with cloud telephony, AI agents, sales dialers, unified inbox \u2014 offering numbers in 173 countries.",
     "specialties": "Mobile Application Development, Web Development, SaaS, Software Recommendations, Software Review",
     "company_stage": "Scale-up",
     "hiring_roles": [
@@ -701,7 +701,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "Cybersecurity consulting/services firm — not a SaaS product company. Industry: Computer and Network Security. Core offering is services (consulting, pen testing, SOC operations), not a licensable software product."
+    "exclusion_reason": "Cybersecurity consulting/services firm \u2014 not a SaaS product company. Industry: Computer and Network Security. Core offering is services (consulting, pen testing, SOC operations), not a licensable software product."
   },
   {
     "company_id": 22,
@@ -718,7 +718,7 @@
     "specialties": "Data Science, Consulting, Business Process Re Engineering, Digital Transformation, Analytics, Business Intelligence, Product Strategy, Product Development, IOT, Mobile app Development, Web App Development, Product Engineering, AI Development, Generative AI Development, Artificial Intelligence Consultancy",
     "company_stage": "Startup",
     "hiring_roles": [
-      "GTM Engineer — Outbound Sales & AI-Powered Prospecting"
+      "GTM Engineer \u2014 Outbound Sales & AI-Powered Prospecting"
     ],
     "job_urls": [
       "https://www.linkedin.com/jobs/view/4448595873/"
@@ -734,7 +734,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "AI consultancy — specialties explicitly list Consulting, Business Process Re Engineering, Artificial Intelligence Consultancy. Not a B2B SaaS product company."
+    "exclusion_reason": "AI consultancy \u2014 specialties explicitly list Consulting, Business Process Re Engineering, Artificial Intelligence Consultancy. Not a B2B SaaS product company."
   },
   {
     "company_id": 23,
@@ -813,7 +813,7 @@
     "employee_count": "201-500",
     "hq": "Bangalore, Karnataka",
     "founded": "2013",
-    "about": "Retail Intelligence Platform enabling 360° supply chain visibility & digitised downstream distribution. Route-to-market (RTM) platform combining sales force automation, distributor management and retailer engagement for CPG brands. Trusted by 750+ brands across 35+ countries.",
+    "about": "Retail Intelligence Platform enabling 360\u00b0 supply chain visibility & digitised downstream distribution. Route-to-market (RTM) platform combining sales force automation, distributor management and retailer engagement for CPG brands. Trusted by 750+ brands across 35+ countries.",
     "specialties": "Sales Force Automation, Enterprise Mobility, Supply Chain Automation, Mobile Application Development, Retail E-commerce Application, CPG Sales Automation, Distribution Channel Automation, Retail Execution, Merchandising, Retailer Application, Supply chain management, Distributor Management System, Field Force Automation, Artificial Intelligence, Order Management System",
     "company_stage": "Scale-up",
     "hiring_roles": [
@@ -1067,7 +1067,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "0-1 employees, no verifiable SaaS product or customer base beyond a one-line tagline — too early stage / insufficient evidence of an established B2B SaaS company."
+    "exclusion_reason": "0-1 employees, no verifiable SaaS product or customer base beyond a one-line tagline \u2014 too early stage / insufficient evidence of an established B2B SaaS company."
   },
   {
     "company_id": 33,
@@ -1100,7 +1100,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "Custom software development / IT services agency — builds software and provides dedicated resource hiring / team augmentation for clients, not a SaaS product company."
+    "exclusion_reason": "Custom software development / IT services agency \u2014 builds software and provides dedicated resource hiring / team augmentation for clients, not a SaaS product company."
   },
   {
     "company_id": 34,
@@ -1133,7 +1133,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "IT Services and IT Consulting per LinkedIn industry field — offshore IT solutions / Build Operate Transfer / GCC consulting provider, not a SaaS product company."
+    "exclusion_reason": "IT Services and IT Consulting per LinkedIn industry field \u2014 offshore IT solutions / Build Operate Transfer / GCC consulting provider, not a SaaS product company."
   },
   {
     "company_id": 35,
@@ -1146,7 +1146,7 @@
     "employee_count": "51-200",
     "hq": "Mohali, Punjab",
     "founded": "2013",
-    "about": "'Your Strategic IT Partner' — a premium IT service provider offering web, mobile, and e-commerce application development services for clients across healthcare, retail, banking, and other industries.",
+    "about": "'Your Strategic IT Partner' \u2014 a premium IT service provider offering web, mobile, and e-commerce application development services for clients across healthcare, retail, banking, and other industries.",
     "specialties": "Web Development, App Development, E-Commerce Systems, Quality Assurance, AI Development, Digital Marketing Services",
     "company_stage": "Scale-up",
     "hiring_roles": [
@@ -1170,7 +1170,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "Self-described 'Premium IT Service Provider' — custom software development agency serving client industries, not a SaaS product company."
+    "exclusion_reason": "Self-described 'Premium IT Service Provider' \u2014 custom software development agency serving client industries, not a SaaS product company."
   },
   {
     "company_id": 36,
@@ -1187,7 +1187,7 @@
     "specialties": null,
     "company_stage": "Scale-up",
     "hiring_roles": [
-      "Sales Development Representative (Outbound / Demand Generation) — Global Markets, North America Focus"
+      "Sales Development Representative (Outbound / Demand Generation) \u2014 Global Markets, North America Focus"
     ],
     "job_urls": [
       "https://www.linkedin.com/jobs/view/4434488154/"
@@ -1203,7 +1203,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "Business Consulting and Services industry — explicitly describes itself as an 'AI, Business Intelligence, Cloud, and Data Solutions consulting partner,' not a SaaS product company."
+    "exclusion_reason": "Business Consulting and Services industry \u2014 explicitly describes itself as an 'AI, Business Intelligence, Cloud, and Data Solutions consulting partner,' not a SaaS product company."
   },
   {
     "company_id": 37,
@@ -1216,7 +1216,7 @@
     "employee_count": "Unknown",
     "hq": null,
     "founded": null,
-    "about": "Fully remote managed IT company serving businesses across North America and the UK — managed IT, cybersecurity, cloud solutions, infrastructure, AI automation, and web development under one team, one contract, and one monthly fee.",
+    "about": "Fully remote managed IT company serving businesses across North America and the UK \u2014 managed IT, cybersecurity, cloud solutions, infrastructure, AI automation, and web development under one team, one contract, and one monthly fee.",
     "specialties": null,
     "company_stage": "Startup",
     "hiring_roles": [
@@ -1238,7 +1238,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "Managed IT services provider (MSP) — sells outsourced IT/cybersecurity/cloud services, not a licensable SaaS product."
+    "exclusion_reason": "Managed IT services provider (MSP) \u2014 sells outsourced IT/cybersecurity/cloud services, not a licensable SaaS product."
   },
   {
     "company_id": 38,
@@ -1271,7 +1271,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "Digital marketing / B2B data services company (specialties list 'B2B Email List, B2B Database') — reads as a marketing services / data broker vendor rather than a licensable SaaS product; company website also flagged as suspicious by LinkedIn's redirect warning."
+    "exclusion_reason": "Digital marketing / B2B data services company (specialties list 'B2B Email List, B2B Database') \u2014 reads as a marketing services / data broker vendor rather than a licensable SaaS product; company website also flagged as suspicious by LinkedIn's redirect warning."
   },
   {
     "company_id": 39,
@@ -1288,7 +1288,7 @@
     "specialties": null,
     "company_stage": "Startup",
     "hiring_roles": [
-      "Sales Development Representative (SDR) Intern – SaaSNova"
+      "Sales Development Representative (SDR) Intern \u2013 SaaSNova"
     ],
     "job_urls": [
       "https://www.linkedin.com/jobs/view/4449311231/"
@@ -1304,7 +1304,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "IT Services and IT Consulting per LinkedIn — a GTM execution consultancy/agency that helps other SaaS companies scale revenue, not itself a SaaS product company."
+    "exclusion_reason": "IT Services and IT Consulting per LinkedIn \u2014 a GTM execution consultancy/agency that helps other SaaS companies scale revenue, not itself a SaaS product company."
   },
   {
     "company_id": 40,
@@ -1317,11 +1317,11 @@
     "employee_count": "Unknown",
     "hq": null,
     "founded": null,
-    "about": "US IT Services company; role explicitly titled 'Business Development Representative (BDR) – US IT Services.'",
+    "about": "US IT Services company; role explicitly titled 'Business Development Representative (BDR) \u2013 US IT Services.'",
     "specialties": null,
     "company_stage": "Startup",
     "hiring_roles": [
-      "Business Development Representative (BDR) – US IT Services"
+      "Business Development Representative (BDR) \u2013 US IT Services"
     ],
     "job_urls": [
       "https://www.linkedin.com/jobs/view/4447390361/"
@@ -1337,7 +1337,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "Job title itself specifies 'US IT Services' — IT staffing/outsourcing company, not a SaaS product company."
+    "exclusion_reason": "Job title itself specifies 'US IT Services' \u2014 IT staffing/outsourcing company, not a SaaS product company."
   },
   {
     "company_id": 41,
@@ -1350,7 +1350,7 @@
     "employee_count": "11-50",
     "hq": "Gurugram, India",
     "founded": "2025",
-    "about": "Your Autopilot for Recruitment. End-to-end autopilot platform for recruitment lifecycle management — AI automates sourcing, outreach, assessment, scheduling, and engagement. Built on insights from 3,000+ real-world hiring projects.",
+    "about": "Your Autopilot for Recruitment. End-to-end autopilot platform for recruitment lifecycle management \u2014 AI automates sourcing, outreach, assessment, scheduling, and engagement. Built on insights from 3,000+ real-world hiring projects.",
     "specialties": "AI recruiting, AI recruiting software, recruitment automation, AI sourcing tool, AI screening, agentic AI recruiting, AI hiring platform, AI ATS, talent intelligence",
     "company_stage": "Startup",
     "hiring_roles": [
@@ -1449,7 +1449,7 @@
     "employee_count": "11-50",
     "hq": "San Francisco, CA",
     "founded": "2020",
-    "about": "Open Source Observability | OpenTelemetry Native. Simplifies observability for engineering teams — metrics, traces, and logs in a single open-source platform. 24,000+ GitHub stars, backed by Y Combinator.",
+    "about": "Open Source Observability | OpenTelemetry Native. Simplifies observability for engineering teams \u2014 metrics, traces, and logs in a single open-source platform. 24,000+ GitHub stars, backed by Y Combinator.",
     "specialties": "Observability, Application Monitoring, Log Management, DevOps",
     "company_stage": "High Growth Startup",
     "hiring_roles": [
@@ -1482,7 +1482,7 @@
     "employee_count": "11-50",
     "hq": "Seattle, WA",
     "founded": "2024",
-    "about": "Orchestrate workflows that's fast to build at any scale and fully AI-driven with deep observability. Next-Generation Orchestration Platform for Microservices, Workflows, APIs, and AI-Driven Systems — a 'Netflix Conductor Alternative' built by the original Conductor engineers.",
+    "about": "Orchestrate workflows that's fast to build at any scale and fully AI-driven with deep observability. Next-Generation Orchestration Platform for Microservices, Workflows, APIs, and AI-Driven Systems \u2014 a 'Netflix Conductor Alternative' built by the original Conductor engineers.",
     "specialties": "Orchestration, Netflix Conductor Alternative, Runtime Engine for APIs, Durable Executions, API Orchestration, Microservices Orchestration, AI Orchestration, Event Driven Architecture",
     "company_stage": "Startup",
     "hiring_roles": [
@@ -1568,7 +1568,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "IT staff augmentation / recruitment process outsourcing company per its own specialties list — a recruitment agency, not a SaaS product company, despite marketing itself as a 'hiring platform.'"
+    "exclusion_reason": "IT staff augmentation / recruitment process outsourcing company per its own specialties list \u2014 a recruitment agency, not a SaaS product company, despite marketing itself as a 'hiring platform.'"
   },
   {
     "company_id": 48,
@@ -1581,7 +1581,7 @@
     "employee_count": "2-10",
     "hq": "New York",
     "founded": "2022",
-    "about": "Creating human-centric solutions — strategic consulting, ITES solutions, and R&D.",
+    "about": "Creating human-centric solutions \u2014 strategic consulting, ITES solutions, and R&D.",
     "specialties": "business analysis, it services, Business Consulting, RaaS, SaaS, PaaS, HCX, HCM, SOW, Data Management",
     "company_stage": "Startup",
     "hiring_roles": [
@@ -1601,7 +1601,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "IT Services and IT Consulting industry; website domain is literally 'umaniststaffing.com' — a staffing/consulting firm, not a SaaS product company."
+    "exclusion_reason": "IT Services and IT Consulting industry; website domain is literally 'umaniststaffing.com' \u2014 a staffing/consulting firm, not a SaaS product company."
   },
   {
     "company_id": 49,
@@ -1614,7 +1614,7 @@
     "employee_count": "11-50",
     "hq": "Chennai, Tamil Nadu",
     "founded": "2018",
-    "about": "Trusted partner for businesses looking to simplify HR, Staffing, and Business Consulting needs — staffing solutions, payroll outsourcing, business/IT consulting, corporate training.",
+    "about": "Trusted partner for businesses looking to simplify HR, Staffing, and Business Consulting needs \u2014 staffing solutions, payroll outsourcing, business/IT consulting, corporate training.",
     "specialties": "consultant, recruitment consultant, placement services, Recruitment Process Outsourcing, HR, Hiring Services",
     "company_stage": "Startup",
     "hiring_roles": [
@@ -1634,7 +1634,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "Human Resources Services industry — a staffing, payroll, and recruitment consulting firm, not a SaaS product company."
+    "exclusion_reason": "Human Resources Services industry \u2014 a staffing, payroll, and recruitment consulting firm, not a SaaS product company."
   },
   {
     "company_id": 50,
@@ -1713,7 +1713,7 @@
     "employee_count": "51-200",
     "hq": "London",
     "founded": null,
-    "about": "Tech Talent as a Service — building high-performance global engineering teams without the friction, risk, or overhead of legacy hiring models. Fully-embedded remote engineering teams for 60+ clients in the UK and USA.",
+    "about": "Tech Talent as a Service \u2014 building high-performance global engineering teams without the friction, risk, or overhead of legacy hiring models. Fully-embedded remote engineering teams for 60+ clients in the UK and USA.",
     "specialties": "Software Development, Custom Software Solutions, Product Engineering, Technology Consulting, Platform Engineering",
     "company_stage": "Scale-up",
     "hiring_roles": [
@@ -1733,7 +1733,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "Self-described 'Tech Talent as a Service' — IT staff augmentation/outsourcing company embedding engineering teams into client organizations, not a SaaS product company."
+    "exclusion_reason": "Self-described 'Tech Talent as a Service' \u2014 IT staff augmentation/outsourcing company embedding engineering teams into client organizations, not a SaaS product company."
   },
   {
     "company_id": 53,
@@ -1766,7 +1766,7 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "IT training and certification services company (corporate training courses), not a SaaS product company — falls under training/EdTech services exclusion."
+    "exclusion_reason": "IT training and certification services company (corporate training courses), not a SaaS product company \u2014 falls under training/EdTech services exclusion."
   },
   {
     "company_id": 54,
@@ -1799,6 +1799,572 @@
     ],
     "verified": true,
     "excluded": true,
-    "exclusion_reason": "Company name itself identifies as a consulting firm ('Delveio Consulting') — not a SaaS product company."
+    "exclusion_reason": "Company name itself identifies as a consulting firm ('Delveio Consulting') \u2014 not a SaaS product company."
+  },
+  {
+    "company_id": 55,
+    "company_name": "Adobe",
+    "linkedin_slug": "adobe",
+    "linkedin_url": "https://www.linkedin.com/company/adobe",
+    "website": "https://www.adobe.com",
+    "industry": "Software Development",
+    "saas_category": "Creative Software / Digital Experience Platform",
+    "employee_count": "10,001+ employees",
+    "hq": "San Jose, CA",
+    "founded": "1982",
+    "about": "Adobe empowers everyone, everywhere to imagine, create, and bring any digital experience to life.",
+    "specialties": "Software, Creative Cloud, Digital Marketing, Web Experience Management, Digital Media, Creative Suite, Digital Publishing, Photoshop, Online Analytics, Illustrator, Touch Apps, Acrobat, Mobile Apps, Social Marketing, Web Marketing, and Social Measurement",
+    "company_stage": "Well Established Company",
+    "hiring_roles": [
+      "Business Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4436234108/"
+    ],
+    "hiring_locations": [
+      "Bengaluru East, India"
+    ],
+    "hiring_mode": [
+      "On-site"
+    ],
+    "posting_dates": [
+      "2026-08-04"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 56,
+    "company_name": "Copado",
+    "linkedin_slug": "copadosolutions",
+    "linkedin_url": "https://www.linkedin.com/company/copadosolutions",
+    "website": "https://www.copado.com",
+    "industry": "Software Development",
+    "saas_category": "DevOps / Salesforce Release Management",
+    "employee_count": "501-1,000 employees",
+    "hq": "Chicago, Illinois",
+    "founded": "2013",
+    "about": "Copado is the leader in AI-powered DevOps for Salesforce and business applications. Backed by Insight Partners, SoftBank, IBM, Capgemini and Salesforce Ventures.",
+    "specialties": "Deployments, Change Management, Release Management, Continuous Integration, Branch Management, Compliance, DevOps, Salesforce, Robotic Testing, CICD, Test Automation",
+    "company_stage": "Well Established Company",
+    "hiring_roles": [
+      "Business Development Representative (BDR) \u2013 India"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4418259511/"
+    ],
+    "hiring_locations": [
+      "India"
+    ],
+    "hiring_mode": [
+      "Remote (India)"
+    ],
+    "posting_dates": [
+      "2026-08-04"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 57,
+    "company_name": "JumpCloud",
+    "linkedin_slug": "jumpcloud",
+    "linkedin_url": "https://www.linkedin.com/company/jumpcloud",
+    "website": "https://www.jumpcloud.com",
+    "industry": "Software Development",
+    "saas_category": "Identity & Access Management (IAM)",
+    "employee_count": "501-1,000 employees",
+    "hq": "Louisville, CO",
+    "founded": "2012",
+    "about": "JumpCloud is the AI-powered identity infrastructure that unifies lifecycle management for humans, devices, and autonomous agents.",
+    "specialties": "Device Management, Extend AD/LDAP to the cloud, SaaS, Cloud Identity Management, Single Sign-On, Cloud RADIUS, Multi-factor Authentication, User Management, Server Access & Management",
+    "company_stage": "Well Established Company",
+    "hiring_roles": [
+      "AI Native Marketing Development Representative - India"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4448718863/"
+    ],
+    "hiring_locations": [
+      "Bengaluru East, India"
+    ],
+    "hiring_mode": [
+      "Remote"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 58,
+    "company_name": "Coram AI",
+    "linkedin_slug": "coram-ai",
+    "linkedin_url": "https://www.linkedin.com/company/coram-ai",
+    "website": "https://www.coram.ai",
+    "industry": "Software Development",
+    "saas_category": "Physical Security / AI Video Analytics",
+    "employee_count": "51-200 employees",
+    "hq": "Sunnyvale, California",
+    "founded": "2022",
+    "about": "Coram AI is building the future of Physical AI, turning cameras, sensors, and access systems into AI Safety Agents that protect people and optimize operations. Backed by $30M from Battery Ventures and 8VC.",
+    "specialties": null,
+    "company_stage": "High Growth Startup",
+    "hiring_roles": [
+      "Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4447045843/"
+    ],
+    "hiring_locations": [
+      "Bengaluru, India"
+    ],
+    "hiring_mode": [
+      "On-site"
+    ],
+    "posting_dates": [
+      "2026-08-04"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 59,
+    "company_name": "Lucidity",
+    "linkedin_slug": "lucidity-cloud",
+    "linkedin_url": "https://www.linkedin.com/company/lucidity-cloud",
+    "website": "https://www.lucidity.cloud",
+    "industry": "Software Development",
+    "saas_category": "Cloud Storage Optimization",
+    "employee_count": "51-200 employees",
+    "hq": "New York, United States",
+    "founded": "2021",
+    "about": "Lucidity enables cloud storage to deliver the highest performance at the lowest possible cost with zero human effort. Raised $21M Series A led by WestBridge.",
+    "specialties": null,
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "Business Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4444520468/"
+    ],
+    "hiring_locations": [
+      "Bengaluru, India"
+    ],
+    "hiring_mode": [
+      "Hybrid"
+    ],
+    "posting_dates": [
+      "2026-08-04"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 60,
+    "company_name": "GoComet",
+    "linkedin_slug": "go-comet",
+    "linkedin_url": "https://www.linkedin.com/company/go-comet",
+    "website": "https://www.gocomet.com",
+    "industry": "Software Development",
+    "saas_category": "Logistics / Freight Management SaaS",
+    "employee_count": "201-500 employees",
+    "hq": "Singapore, Singapore",
+    "founded": "2017",
+    "about": "GoComet is an AI-powered transportation and freight management solution serving 500+ global brands including 7 Fortune 500 companies.",
+    "specialties": "freight forwarding, customs clearance, logistics, shippers, Digital supply chains, Supply Chain Management, TMS, sustainability, multimodal logistics",
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "Business Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4451124056/"
+    ],
+    "hiring_locations": [
+      "Bengaluru, India"
+    ],
+    "hiring_mode": [
+      "On-site"
+    ],
+    "posting_dates": [
+      "2026-08-10"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 61,
+    "company_name": "Gumlet",
+    "linkedin_slug": "gumlet",
+    "linkedin_url": "https://www.linkedin.com/company/gumlet",
+    "website": "https://www.gumlet.com",
+    "industry": "Software Development",
+    "saas_category": "Video Infrastructure / Media Delivery",
+    "employee_count": "11-50 employees",
+    "hq": "Singapore, Singapore",
+    "founded": "2020",
+    "about": "Gumlet delivers 1 billion+ optimized videos and images every day via its video and image API platform.",
+    "specialties": "User Experience, Image Optimisation, Video Streaming, Video Compression, Video Analytics, Video CMS, Video Hosting, CDN, SEO, Video Transcoding, SaaS, DevTools, Video API, Image API",
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "Senior Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4445914652/"
+    ],
+    "hiring_locations": [
+      "Greater Bengaluru Area, India"
+    ],
+    "hiring_mode": [
+      "Hybrid"
+    ],
+    "posting_dates": [
+      "2026-07-28"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 62,
+    "company_name": "Gravitee",
+    "linkedin_slug": "gravitee-io",
+    "linkedin_url": "https://www.linkedin.com/company/gravitee-io",
+    "website": "https://www.gravitee.io",
+    "industry": "Software Development",
+    "saas_category": "API Management / Event-Native Gateway",
+    "employee_count": "51-200 employees",
+    "hq": "Denver, Colorado",
+    "founded": "2016",
+    "about": "Gravitee is an end-to-end solution to securely manage Agentic AI, Events, and APIs, no matter the gateway, broker, or agent.",
+    "specialties": "API Management, API Design, APIM, Access Management, APIs, Kafka, Event Driven Architecture, EDA",
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "BDR APAC"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4443156414/"
+    ],
+    "hiring_locations": [
+      "Delhi, India"
+    ],
+    "hiring_mode": [
+      "Hybrid"
+    ],
+    "posting_dates": [
+      "2026-07-28"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 63,
+    "company_name": "Emsphere Technologies",
+    "linkedin_slug": "emspheretechnologies",
+    "linkedin_url": "https://www.linkedin.com/company/emspheretechnologies",
+    "website": "https://www.emsphere.com",
+    "industry": "Software Development",
+    "saas_category": "Workforce / Blue-collar Labour Management SaaS",
+    "employee_count": "51-200 employees",
+    "hq": "Pune, Maharashtra",
+    "founded": "2015",
+    "about": "emSphere transforms how enterprises manage blue-collar and contract labour with automation, compliance and visibility.",
+    "specialties": "Workforce Management, Visitor Management System, Head Count Management, Contract Labor Management, Payroll Processing, Emergency Response System, Parking Management System",
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4446201936/"
+    ],
+    "hiring_locations": [
+      "India (Remote)"
+    ],
+    "hiring_mode": [
+      "Remote (India)"
+    ],
+    "posting_dates": [
+      "2026-08-05"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 64,
+    "company_name": "Curately AI, Inc",
+    "linkedin_slug": "curatelyai",
+    "linkedin_url": "https://www.linkedin.com/company/curatelyai",
+    "website": "https://www.curately.ai",
+    "industry": "Software Development",
+    "saas_category": "Agentic AI Recruiting / Talent Relationship Management",
+    "employee_count": "11-50 employees",
+    "hq": "Alpharetta, Georgia",
+    "founded": "2021",
+    "about": "Curately is an agentic AI platform for everything recruiting, offering direct sourcing, candidate matching, and high-volume hiring automation.",
+    "specialties": null,
+    "company_stage": "Early-stage Startup",
+    "hiring_roles": [
+      "Sales/Business Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4448445349/"
+    ],
+    "hiring_locations": [
+      "India"
+    ],
+    "hiring_mode": [
+      "Remote (India)"
+    ],
+    "posting_dates": [
+      "2026-08-07"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 65,
+    "company_name": "Tario",
+    "linkedin_slug": "tarioai",
+    "linkedin_url": "https://www.linkedin.com/company/tarioai",
+    "website": "https://www.tario.ai",
+    "industry": "Software Development",
+    "saas_category": "Agentic AI Outbound Sales Automation",
+    "employee_count": "11-50 employees",
+    "hq": "Princeton, New Jersey",
+    "founded": null,
+    "about": "Tario is an agentic outbound platform for enterprise sales teams that automates the entire outbound motion from lead sourcing to booked meetings. Incubated inside Zycus Infotech.",
+    "specialties": null,
+    "company_stage": "Early-stage Startup",
+    "hiring_roles": [
+      "Business Development Representative (BDR)"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4439999009/"
+    ],
+    "hiring_locations": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "hiring_mode": [
+      "Hybrid"
+    ],
+    "posting_dates": [
+      "2026-07-22"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 66,
+    "company_name": "YNOS Venture Engine",
+    "linkedin_slug": "ynos-venture-engine",
+    "linkedin_url": "https://www.linkedin.com/company/ynos-venture-engine",
+    "website": "https://www.ynos.in",
+    "industry": "Information Services",
+    "saas_category": "Startup/VC Business Intelligence Platform",
+    "employee_count": "11-50 employees",
+    "hq": "Chennai, Tamil Nadu",
+    "founded": "2017",
+    "about": "YNOS Venture Engine is a technology platform providing business intelligence and fundraising analytics for India's startups, founders, incubators, angels, and VCs.",
+    "specialties": "Investor Intelligence, Competitor Analysis, Startup Landscape, Valuation Estimation, Angel Investment, Fund-Raising, Due-Diligence",
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4451674559/"
+    ],
+    "hiring_locations": [
+      "Chennai, Tamil Nadu, India"
+    ],
+    "hiring_mode": [
+      "Office"
+    ],
+    "posting_dates": [
+      "2026-08-12"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 67,
+    "company_name": "Scooter",
+    "linkedin_slug": "scooter-ai",
+    "linkedin_url": "https://www.linkedin.com/company/scooter-ai",
+    "website": "https://www.thescooter.ai",
+    "industry": "Technology, Information and Internet",
+    "saas_category": "Sales Hiring Assessment SaaS",
+    "employee_count": "2-10 employees",
+    "hq": "India, Maharashtra",
+    "founded": "2024",
+    "about": "Scooter transforms sales hiring by looking beyond resumes, giving candidates a chance to showcase real-world sales skills through self-perception insights, live sales challenges, and AI-driven assessment.",
+    "specialties": null,
+    "company_stage": "Early-stage Startup",
+    "hiring_roles": [
+      "Business Development Representative",
+      "Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4442717569/",
+      "https://www.linkedin.com/jobs/view/4445679038/"
+    ],
+    "hiring_locations": [
+      "Bengaluru, India",
+      "Bengaluru, India"
+    ],
+    "hiring_mode": [
+      "On-site",
+      "On-site"
+    ],
+    "posting_dates": [
+      "2026-07-21",
+      "2026-07-28"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
+  },
+  {
+    "company_id": 68,
+    "company_name": "GoML",
+    "linkedin_slug": "goml",
+    "linkedin_url": "https://www.linkedin.com/company/goml",
+    "website": "https://www.goml.io",
+    "industry": "Technology, Information and Internet",
+    "saas_category": "Custom Gen-AI Application Development (Services)",
+    "employee_count": "51-200 employees",
+    "hq": null,
+    "founded": "2023",
+    "about": "GoML designs, builds, and manages gen AI applications for enterprise clients, offering a POC in 2 weeks.",
+    "specialties": "Machine Learning, Data Science, Amazon Sagemaker, Azure Synapse, MLOps, gen AI, LLMs",
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4445919482/"
+    ],
+    "hiring_locations": [
+      "India"
+    ],
+    "hiring_mode": [
+      "Remote (India)"
+    ],
+    "posting_dates": [
+      "2026-07-28"
+    ],
+    "verified": true,
+    "excluded": true,
+    "exclusion_reason": "Custom gen-AI application development / consulting engagements (\"design, build, and manage... POC in 2 weeks\") delivered as bespoke client projects, not a licensed self-serve SaaS product \u2014 falls under Service Companies / IT Consulting exclusion."
+  },
+  {
+    "company_id": 69,
+    "company_name": "ProAnalyst",
+    "linkedin_slug": "proanalyst.net",
+    "linkedin_url": "https://www.linkedin.com/company/proanalyst.net",
+    "website": "https://proanalyst.net",
+    "industry": "Data Infrastructure and Analytics",
+    "saas_category": "Data/BI Consulting (Services)",
+    "employee_count": "2-10 employees",
+    "hq": "Bengaluru, Karnataka",
+    "founded": "2025",
+    "about": "ProAnalyst is a Business Intelligence & AI Solutions Provider offering niche Data & AI solutions for global clients across Data Analytics, Data Engineering, and Gen AI projects.",
+    "specialties": "Tableau, Google Data Studio, Google Analytics, Snowflake, SQL, Amazon Redshift, Google BigQuery",
+    "company_stage": "Early-stage Startup",
+    "hiring_roles": [
+      "Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4446993688/"
+    ],
+    "hiring_locations": [
+      "Bengaluru, India"
+    ],
+    "hiring_mode": [
+      "Hybrid"
+    ],
+    "posting_dates": [
+      "2026-08-04"
+    ],
+    "verified": true,
+    "excluded": true,
+    "exclusion_reason": "Client project delivery on BI/analytics tooling (Tableau, Snowflake, BigQuery) for global clients \u2014 a data consultancy, not a licensed SaaS product; 2-10 employees with no verifiable product of its own."
+  },
+  {
+    "company_id": 70,
+    "company_name": "Blufig",
+    "linkedin_slug": "blufigdigital",
+    "linkedin_url": "https://www.linkedin.com/company/blufigdigital",
+    "website": "https://blufig.digital",
+    "industry": "Advertising Services",
+    "saas_category": "B2B Content Marketing Agency (Services)",
+    "employee_count": "51-200 employees",
+    "hq": "Bangalore, Karnataka",
+    "founded": "2021",
+    "about": "Blufig is a full-service content marketing agency working exclusively with B2B Tech Brands to build websites, run digital campaigns, create videos, and implement marketing automation.",
+    "specialties": "Inbound Marketing, Creative Concepts, Video Marketing, Digital Marketing",
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "GTM & Outbound Growth Specialist"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4445869710/"
+    ],
+    "hiring_locations": [
+      "Bengaluru South, Karnataka, India"
+    ],
+    "hiring_mode": [
+      "Office"
+    ],
+    "posting_dates": [
+      "2026-08-05"
+    ],
+    "verified": true,
+    "excluded": true,
+    "exclusion_reason": "Full-service B2B content marketing/advertising agency (LinkedIn industry: Advertising Services) that executes marketing programs for client brands \u2014 not a SaaS product company."
+  },
+  {
+    "company_id": 71,
+    "company_name": "Buzzing Brands",
+    "linkedin_slug": "buzzing-brands",
+    "linkedin_url": "https://www.linkedin.com/company/buzzing-brands",
+    "website": "https://www.buzzingbrands.in",
+    "industry": "Marketing Services",
+    "saas_category": "Digital Marketing Agency (Services)",
+    "employee_count": "11-50 employees",
+    "hq": "Bangalore, Karnataka",
+    "founded": "2020",
+    "about": "Buzzing Brands is a branding, web design, and digital marketing agency serving startups and SMEs across real estate, ecommerce, healthcare, and education.",
+    "specialties": "Digital Marketing, Website, Branding, Social Media Marketing, PPC, Google Ads, Paid Marketing, Hosting, WordPress",
+    "company_stage": "Scale-up",
+    "hiring_roles": [
+      "Digital Sales Specialist/Manager"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4449249778/"
+    ],
+    "hiring_locations": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "hiring_mode": [
+      "Hybrid"
+    ],
+    "posting_dates": [
+      "2026-08-09"
+    ],
+    "verified": true,
+    "excluded": true,
+    "exclusion_reason": "Branding/web-design/digital marketing agency (LinkedIn industry: Marketing Services) serving client SMEs \u2014 not a SaaS product company."
   }
 ]

@@ -592,7 +592,7 @@
         "title": "Founder/CEO not publicly disclosed",
         "role_category": "founder_ceo",
         "linkedin_url": null,
-        "data_source": "Web search / LinkedIn — no named founder found",
+        "data_source": "Web search / LinkedIn \u2014 no named founder found",
         "verified": false
       }
     ]
@@ -844,7 +844,7 @@
         "title": "Founder/CEO not publicly disclosed",
         "role_category": "founder_ceo",
         "linkedin_url": null,
-        "data_source": "Web search — no confident match found, distinct from similarly-named 'Avataar'/'Avtaar' companies",
+        "data_source": "Web search \u2014 no confident match found, distinct from similarly-named 'Avataar'/'Avtaar' companies",
         "verified": false
       }
     ]
@@ -895,6 +895,204 @@
         "role_category": "founder_ceo",
         "linkedin_url": "https://www.linkedin.com/in/sufiyan-ishaq/",
         "data_source": "LinkedIn / cloudhire.ai founder page",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 55,
+    "company_name": "Adobe",
+    "leaders": [
+      {
+        "name": "Shantanu Narayen",
+        "title": "Chairman & CEO (transitioning to Chair; successor search underway as of March 2026)",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Web (targeted LinkedIn search run; only namesake profiles found, no confident match)",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "company_id": 56,
+    "company_name": "Copado",
+    "leaders": [
+      {
+        "name": "Ted Elliott",
+        "title": "Chief Executive Officer",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/tedelliott/",
+        "data_source": "LinkedIn / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 57,
+    "company_name": "JumpCloud",
+    "leaders": [
+      {
+        "name": "Rajat Bhargava",
+        "title": "Co-Founder, CEO & Board Chairman",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/rajat-bhargava-8190a723/",
+        "data_source": "LinkedIn / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 58,
+    "company_name": "Coram AI",
+    "leaders": [
+      {
+        "name": "Ashesh Jain",
+        "title": "Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/ashesh-jain-ba53164a/",
+        "data_source": "LinkedIn / Web",
+        "verified": true
+      },
+      {
+        "name": "Peter Ondruska",
+        "title": "Co-Founder & CTO",
+        "role_category": "other",
+        "linkedin_url": "https://uk.linkedin.com/in/pondruska",
+        "data_source": "LinkedIn / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 59,
+    "company_name": "Lucidity",
+    "leaders": [
+      {
+        "name": "Nitin Singh Bhadauria",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/nitinbhadauria/",
+        "data_source": "LinkedIn / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 60,
+    "company_name": "GoComet",
+    "leaders": [
+      {
+        "name": "Gautam Prem Jain",
+        "title": "Co-Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/gautampremjain/",
+        "data_source": "LinkedIn / Web",
+        "verified": true
+      },
+      {
+        "name": "Ayush Lodhi",
+        "title": "Co-Founder & CTO",
+        "role_category": "other",
+        "linkedin_url": "https://in.linkedin.com/in/ayush-lodhi-41153752",
+        "data_source": "LinkedIn / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 61,
+    "company_name": "Gumlet",
+    "leaders": [
+      {
+        "name": "Aditya Patadia",
+        "title": "Co-Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://in.linkedin.com/in/adityapatadia",
+        "data_source": "LinkedIn / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 62,
+    "company_name": "Gravitee",
+    "leaders": [
+      {
+        "name": "Rory Blundell",
+        "title": "Chief Executive Officer",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Web (targeted LinkedIn search run; no confident linkedin.com/in match surfaced)",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "company_id": 63,
+    "company_name": "Emsphere Technologies",
+    "leaders": [
+      {
+        "name": "Yogesh Ingale",
+        "title": "CEO, Founder & Director",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Web (targeted LinkedIn search run; no confident linkedin.com/in match surfaced)",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "company_id": 64,
+    "company_name": "Curately AI, Inc",
+    "leaders": [
+      {
+        "name": "Manish Karani",
+        "title": "Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/manishkarani/",
+        "data_source": "LinkedIn / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 65,
+    "company_name": "Tario",
+    "leaders": [
+      {
+        "name": "Samvit Dedhia",
+        "title": "Founder & CEO",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://www.linkedin.com/in/samvit-dedhia-11747b1b6",
+        "data_source": "LinkedIn / Web",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "company_id": 66,
+    "company_name": "YNOS Venture Engine",
+    "leaders": [
+      {
+        "name": "Karthik Natarajan",
+        "title": "Chief Executive Officer",
+        "role_category": "founder_ceo",
+        "linkedin_url": null,
+        "data_source": "Web (targeted LinkedIn search run; no confident linkedin.com/in match surfaced among several namesakes)",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "company_id": 67,
+    "company_name": "Scooter",
+    "leaders": [
+      {
+        "name": "Kartik Mandrekar",
+        "title": "Co-Founder",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://in.linkedin.com/in/kartik-mandrekar-3950865",
+        "data_source": "LinkedIn / Web",
         "verified": true
       }
     ]

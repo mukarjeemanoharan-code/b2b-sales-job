@@ -3,14 +3,14 @@
     "company_id": 1,
     "company_name": "Azul",
     "gtm_motion": "Product-Led + Enterprise Sales. Direct outbound targeting Java-heavy enterprises migrating from Oracle Java (cost reduction angle). India BDR focused on identifying Mumbai/Bangalore enterprise accounts with large Java infrastructure.",
-    "sales_motion": "Outbound + inbound (technical community). Long sales cycles (6-18 months) for enterprise Java platform migrations. Technical POC-driven. Sells to CTO/VP Engineering/IT leadership. India BDR role is remote — suggesting territory-based remote selling.",
+    "sales_motion": "Outbound + inbound (technical community). Long sales cycles (6-18 months) for enterprise Java platform migrations. Technical POC-driven. Sells to CTO/VP Engineering/IT leadership. India BDR role is remote \u2014 suggesting territory-based remote selling.",
     "hiring_signal": "Hiring BDR for India (remote, Mumbai/Bangalore territory). Signal: building regional pipeline coverage for APAC enterprise Java market. Well-established company (2002) adding India sales motion.",
     "observable_gtm_gaps": [
-      "India-based BDR is new hire — no established India outbound playbook yet",
+      "India-based BDR is new hire \u2014 no established India outbound playbook yet",
       "Product well-known in US/EU; brand awareness in India enterprise Java market may be low",
       "Remote BDR without local management suggests early India GTM experiment"
     ],
-    "outreach_angle": "Position as: 'We help enterprise Java shops in India cut Oracle licensing costs by 60%+ — and our India BDR is just starting to build pipeline here. Want to compare notes on how top [industry] companies are evaluating OpenJDK alternatives?' Highly technical buyer — lead with cost and performance data.",
+    "outreach_angle": "Position as: 'We help enterprise Java shops in India cut Oracle licensing costs by 60%+ \u2014 and our India BDR is just starting to build pipeline here. Want to compare notes on how top [industry] companies are evaluating OpenJDK alternatives?' Highly technical buyer \u2014 lead with cost and performance data.",
     "target_market": "Enterprise companies running Java at scale; Oracle Java license holders in India",
     "hiring_urgency": "Medium",
     "verified": true
@@ -19,16 +19,16 @@
     "company_id": 2,
     "company_name": "Loop Subscriptions",
     "gtm_motion": "Product-Led Growth (Shopify App Store) + Enterprise Sales Overlay. Self-serve adoption for smaller DTC brands; enterprise SDR for large DTC brands (500+ SKUs, $10M+ GMV) needing migrations from Recharge. US market focus from India office.",
-    "sales_motion": "Outbound + migration campaigns targeting Recharge customers (especially after Recharge acquired Skio). Enterprise SDR role in Gurugram Office — building US enterprise pipeline from India. Demo-led sales with subscription ROI proof points.",
-    "hiring_signal": "Hiring Enterprise SDR (US, SaaS) from Gurugram office. Signal: scaling outbound motion for US enterprise DTC brands. High growth startup investing in enterprise SDR before going to market — first SDR hire likely.",
+    "sales_motion": "Outbound + migration campaigns targeting Recharge customers (especially after Recharge acquired Skio). Enterprise SDR role in Gurugram Office \u2014 building US enterprise pipeline from India. Demo-led sales with subscription ROI proof points.",
+    "hiring_signal": "Hiring Enterprise SDR (US, SaaS) from Gurugram office. Signal: scaling outbound motion for US enterprise DTC brands. High growth startup investing in enterprise SDR before going to market \u2014 first SDR hire likely.",
     "observable_gtm_gaps": [
-      "Shopify merchant discovery is PLG but enterprise deals need active outbound — gap between self-serve and enterprise motion",
+      "Shopify merchant discovery is PLG but enterprise deals need active outbound \u2014 gap between self-serve and enterprise motion",
       "Competitive moat vs. Recharge weakened after Recharge-Skio merger; need sharper 'why Loop' narrative",
-      "India-based SDR selling into US DTC market — timezone and cultural alignment challenges"
+      "India-based SDR selling into US DTC market \u2014 timezone and cultural alignment challenges"
     ],
-    "outreach_angle": "Position as: 'Loop is doubling down on enterprise DTC — you're one of the first SDRs building the US enterprise pipeline from India. Your ICP is US DTC brand operators on Shopify. The Recharge-Skio merger created perfect timing for migration conversations.' Arm with migration success stories and churn reduction data.",
+    "outreach_angle": "Position as: 'Loop is doubling down on enterprise DTC \u2014 you're one of the first SDRs building the US enterprise pipeline from India. Your ICP is US DTC brand operators on Shopify. The Recharge-Skio merger created perfect timing for migration conversations.' Arm with migration success stories and churn reduction data.",
     "target_market": "US Shopify DTC brands (health, beauty, food, pet subscriptions) with $1M+ GMV",
-    "hiring_urgency": "High — actively hiring, posted 2026-08-05",
+    "hiring_urgency": "High \u2014 actively hiring, posted 2026-08-05",
     "verified": true
   },
   {
@@ -38,20 +38,20 @@
     "sales_motion": "Outbound (BDR-led) + inbound (event/content marketing). Complex, multi-stakeholder enterprise deals (CHRO + CIO + IT). Long 6-18 month cycles. Proof of value via pilot engagements. Two BDRs hired simultaneously for EU + US suggest coordinated scaling push.",
     "hiring_signal": "Hiring 2 BDRs simultaneously (Europe + NAMER) from Bengaluru office. Signal: Series B company scaling international revenue aggressively. Separate geographic BDRs suggest they have enough inbound to justify territorial specialization.",
     "observable_gtm_gaps": [
-      "Series B funded in 2021 (5 years ago) — burn rate pressure likely driving current hiring push",
-      "Agentic AI market is heating up — window to capture enterprise before Microsoft Copilot dominates",
+      "Series B funded in 2021 (5 years ago) \u2014 burn rate pressure likely driving current hiring push",
+      "Agentic AI market is heating up \u2014 window to capture enterprise before Microsoft Copilot dominates",
       "Simultaneous EU + NAMER BDR hires from India suggests resource optimization over local presence"
     ],
-    "outreach_angle": "Position as: 'Leena AI is hiring BDRs for both Europe and NAMER simultaneously — this is a coordinated GTM push. Your target buyer is CHRO/CIO at 5,000+ employee enterprises. The AI Colleague framing is differentiated from Copilot because it's back-office specific. Lead with ROI stories from Fortune 500 deployments.'",
+    "outreach_angle": "Position as: 'Leena AI is hiring BDRs for both Europe and NAMER simultaneously \u2014 this is a coordinated GTM push. Your target buyer is CHRO/CIO at 5,000+ employee enterprises. The AI Colleague framing is differentiated from Copilot because it's back-office specific. Lead with ROI stories from Fortune 500 deployments.'",
     "target_market": "Fortune 500 enterprises (5,000+ employees) in US and Europe; CHRO and CIO buyers",
-    "hiring_urgency": "High — 2 roles posted 2026-08-05",
+    "hiring_urgency": "High \u2014 2 roles posted 2026-08-05",
     "verified": true
   },
   {
     "company_id": 4,
     "company_name": "TestGrid.io",
     "product_gtm_fit": "Product-Led + Inside Sales. QA and engineering teams discover via G2/Capterra/Shopify App search. SDR supports mid-market and enterprise expansion beyond free/trial tier.",
-    "gtm_motion": "Inside sales + freemium/trial conversion. SDR role in Hyderabad (unknown mode — likely office or hybrid). Targeting QA leads and engineering managers at software product companies.",
+    "gtm_motion": "Inside sales + freemium/trial conversion. SDR role in Hyderabad (unknown mode \u2014 likely office or hybrid). Targeting QA leads and engineering managers at software product companies.",
     "sales_motion": "Inbound-heavy (G2 reviews, comparison pages) + outbound SDR for enterprise upsell. Demo-driven. Technical buyer (QA Engineer, SDET, QA Manager, VP Engineering). Competed on device coverage, AI test generation, and price.",
     "hiring_signal": "Hiring SDR in Hyderabad. Signal: bootstrapped startup scaling outbound. Winning 2025 Global Recognition Award created credibility moment to capitalize with outbound push.",
     "observable_gtm_gaps": [
@@ -59,7 +59,7 @@
       "Hyderabad-based SDR pool is smaller than Bengaluru/Mumbai for SaaS sales talent",
       "Unclear if company has enterprise AE capacity to work qualified leads from SDR"
     ],
-    "outreach_angle": "Position as: 'TestGrid won the 2025 Global Recognition Award and is building its first outbound motion. Your ICP is QA leads and engineering managers at software companies. Lead with the end-to-end platform story vs. BrowserStack's device-only play — TestGrid does device cloud + AI test generation + test management in one.'",
+    "outreach_angle": "Position as: 'TestGrid won the 2025 Global Recognition Award and is building its first outbound motion. Your ICP is QA leads and engineering managers at software companies. Lead with the end-to-end platform story vs. BrowserStack's device-only play \u2014 TestGrid does device cloud + AI test generation + test management in one.'",
     "target_market": "QA teams and engineering managers at software product companies; mobile app developers",
     "hiring_urgency": "Medium",
     "verified": true
@@ -69,15 +69,15 @@
     "company_name": "Skydo",
     "gtm_motion": "Bottom-up PLG + BDR Outbound. Self-serve signup (5-minute account creation) for individual exporters and SMBs. BDR for mid-market Indian exporters (agencies, SaaS companies) with $100K+ monthly international receipts.",
     "sales_motion": "BDR-led outbound targeting finance heads, founders, and CFOs of Indian SMBs receiving US/EU payments. Selling against: 'We're cheaper than PayPal, faster than traditional banks, simpler than Payoneer.' High-velocity, transactional sales with clear ROI (50%+ forex cost reduction).",
-    "hiring_signal": "Hiring BDR in Bengaluru office. Signal: Series A funded ($10M, Dec 2025) — investing in outbound to accelerate growth beyond 40,000 self-serve users. BDR role likely targeting mid-market accounts ($1M+ annual export volume).",
+    "hiring_signal": "Hiring BDR in Bengaluru office. Signal: Series A funded ($10M, Dec 2025) \u2014 investing in outbound to accelerate growth beyond 40,000 self-serve users. BDR role likely targeting mid-market accounts ($1M+ annual export volume).",
     "observable_gtm_gaps": [
       "40,000 businesses is strong base but conversion from SMB to mid-market requires different motion",
-      "Cross-border payments is crowded — Wise, PayPal, Payoneer all have larger budgets",
-      "Partnership with Veem (Sept 2025) suggests channel as secondary GTM lever — not yet scaled"
+      "Cross-border payments is crowded \u2014 Wise, PayPal, Payoneer all have larger budgets",
+      "Partnership with Veem (Sept 2025) suggests channel as secondary GTM lever \u2014 not yet scaled"
     ],
     "outreach_angle": "Position as: 'Skydo just closed a $10M Series A to accelerate its BDR motion. Your ICP is Indian exporters (SaaS, agencies, freelancers) doing $100K+ international business. The message writes itself: zero forex markup + virtual foreign accounts + 24-hour settlement. Lead with the cost savings calculator.'",
     "target_market": "Indian SMBs and growth-stage companies (SaaS, agencies, exporters) receiving international B2B payments",
-    "hiring_urgency": "High — posted 2026-08-05",
+    "hiring_urgency": "High \u2014 posted 2026-08-05",
     "verified": true
   },
   {
@@ -85,13 +85,13 @@
     "company_name": "Cube",
     "gtm_motion": "Outbound Sales + Marketplaces. SDR-led outbound from Bengaluru targeting US multi-location businesses. Selling AI marketing automation to local businesses and chains. India team sells into US market.",
     "sales_motion": "Outbound cold outreach to US multi-location businesses (restaurants, retail, healthcare clinics). SDR in Bengaluru office. Demo-driven selling. Monthly recurring revenue model. Position: cheaper than a marketing agency with better ROI from AI.",
-    "hiring_signal": "Hiring SDR in Bengaluru office (posted 2026-08-04). Signal: early-stage startup ($2.2M funding, 2020 founding) scaling outbound team. India SDR selling into US is cost-efficient GTM bet. Founders from Stanford/Wharton/IITs — investor-friendly pitch.",
+    "hiring_signal": "Hiring SDR in Bengaluru office (posted 2026-08-04). Signal: early-stage startup ($2.2M funding, 2020 founding) scaling outbound team. India SDR selling into US is cost-efficient GTM bet. Founders from Stanford/Wharton/IITs \u2014 investor-friendly pitch.",
     "observable_gtm_gaps": [
-      "Digital marketing is extremely crowded — differentiation vs. Yext, Vendasta, SOCi must be crystal clear",
+      "Digital marketing is extremely crowded \u2014 differentiation vs. Yext, Vendasta, SOCi must be crystal clear",
       "Multi-location business outreach from India requires strong data sourcing and US time zone coverage",
-      "SDR role may be among first outbound hires — no established playbook yet"
+      "SDR role may be among first outbound hires \u2014 no established playbook yet"
     ],
-    "outreach_angle": "Position as: 'Cube is an AI-first digital marketing platform for multi-location businesses, built by Stanford/IIT founders. Your ICP is US multi-location business owners (restaurants, clinics, retail) who are paying agencies too much. The SDR motion is new — help establish the outbound playbook early and grow with the company.'",
+    "outreach_angle": "Position as: 'Cube is an AI-first digital marketing platform for multi-location businesses, built by Stanford/IIT founders. Your ICP is US multi-location business owners (restaurants, clinics, retail) who are paying agencies too much. The SDR motion is new \u2014 help establish the outbound playbook early and grow with the company.'",
     "target_market": "US multi-location business owners (restaurants, retail chains, healthcare clinics, real estate)",
     "hiring_urgency": "Medium",
     "verified": true
@@ -101,15 +101,15 @@
     "company_name": "KYC Hub",
     "gtm_motion": "Enterprise Sales (Outbound + Compliance Events). SDR targets compliance officers and heads of financial crime at banks, fintechs, and crypto platforms. Remote India SDR suggests cost-efficient outbound to UK/EU/APAC markets.",
     "sales_motion": "Outbound SDR + compliance conference presence. Technical, complex sale (60-180 day cycles). Decision maker: Chief Compliance Officer, Head of AML, Chief Risk Officer. Proof via demo + sandbox environment. Multi-stakeholder (compliance + IT + legal).",
-    "hiring_signal": "Hiring SDR remotely in India (posted 2026-08-05). Signal: London HQ expanding APAC pipeline coverage through India-based remote SDR — cost-efficient model. High Growth Startup stage with recognized awards gives credibility to lead with.",
+    "hiring_signal": "Hiring SDR remotely in India (posted 2026-08-05). Signal: London HQ expanding APAC pipeline coverage through India-based remote SDR \u2014 cost-efficient model. High Growth Startup stage with recognized awards gives credibility to lead with.",
     "observable_gtm_gaps": [
       "India SDR covering APAC + potentially UK/EU must navigate complex regulatory differences per market",
-      "Buyer (Chief Compliance Officer) is highly risk-averse — needs strong proof and reference customers",
+      "Buyer (Chief Compliance Officer) is highly risk-averse \u2014 needs strong proof and reference customers",
       "Competing vs. Jumio, Onfido (backed by Entrust) requires clear differentiation on configurability"
     ],
-    "outreach_angle": "Position as: 'KYC Hub is a RegTech100 award winner expanding APAC coverage with a remote India SDR. Your buyer is Chief Compliance Officer / Head of AML at banks and fintechs. Lead with the 'configurable + modular' story vs. monolithic KYC platforms — buyers are tired of locked-in vendors. Case studies from UK RegTech awards are your credibility anchor.'",
+    "outreach_angle": "Position as: 'KYC Hub is a RegTech100 award winner expanding APAC coverage with a remote India SDR. Your buyer is Chief Compliance Officer / Head of AML at banks and fintechs. Lead with the 'configurable + modular' story vs. monolithic KYC platforms \u2014 buyers are tired of locked-in vendors. Case studies from UK RegTech awards are your credibility anchor.'",
     "target_market": "Financial institutions, fintechs, crypto platforms needing automated KYC/AML. UK, EU, APAC focus.",
-    "hiring_urgency": "High — posted 2026-08-05",
+    "hiring_urgency": "High \u2014 posted 2026-08-05",
     "verified": true
   },
   {
@@ -117,57 +117,57 @@
     "company_name": "apna",
     "gtm_motion": "Inside Sales + Platform Self-Serve. Employers self-serve to post jobs; B2B SDR/sales team sells enterprise job posting packages and employer branding solutions to large companies. Expanding into SaaS HR tool territory (ATS, assessment).",
     "sales_motion": "Lead SDR (senior role) managing outbound to HR leaders and talent acquisition heads at large Indian enterprises. Selling job posting credits, employer branding packages, and enterprise hiring solutions. Multi-product pitch (jobs + skilling + community).",
-    "hiring_signal": "Hiring 'Lead SDR' in Bengaluru (posted 2026-08-05). 'Lead' title suggests they're hiring a senior SDR to mentor/lead a team — signal of scaling sales org. Scale-up stage (1,001-5,000 employees) investing in enterprise B2B sales.",
+    "hiring_signal": "Hiring 'Lead SDR' in Bengaluru (posted 2026-08-05). 'Lead' title suggests they're hiring a senior SDR to mentor/lead a team \u2014 signal of scaling sales org. Scale-up stage (1,001-5,000 employees) investing in enterprise B2B sales.",
     "observable_gtm_gaps": [
       "Apna's brand is strong for blue-collar hiring but enterprise white-collar HR decision-makers may perceive it as 'mass market'",
-      "Unicorn with declining headcount (-6% YoY) may signal internal restructuring — could affect SDR enablement",
-      "Platform is a marketplace — B2B monetization is complex when supply side (job seekers) is free"
+      "Unicorn with declining headcount (-6% YoY) may signal internal restructuring \u2014 could affect SDR enablement",
+      "Platform is a marketplace \u2014 B2B monetization is complex when supply side (job seekers) is free"
     ],
-    "outreach_angle": "Position as: 'apna is India's largest early talent platform, a unicorn hiring a Lead SDR to scale enterprise sales. Your ICP is TA Head / HR Director at companies with 100+ entry-level hires per month. The story is India's fastest-growing workforce discovery platform vs. legacy job boards like Naukri. This is a senior role — you'll be building the SDR motion, not just executing it.'",
+    "outreach_angle": "Position as: 'apna is India's largest early talent platform, a unicorn hiring a Lead SDR to scale enterprise sales. Your ICP is TA Head / HR Director at companies with 100+ entry-level hires per month. The story is India's fastest-growing workforce discovery platform vs. legacy job boards like Naukri. This is a senior role \u2014 you'll be building the SDR motion, not just executing it.'",
     "target_market": "HR Directors and TA Heads at Indian enterprises hiring 100+ entry-level or blue-collar workers per month",
-    "hiring_urgency": "High — posted 2026-08-05",
+    "hiring_urgency": "High \u2014 posted 2026-08-05",
     "verified": true
   },
   {
     "company_id": 9,
     "company_name": "Salesforce",
-    "gtm_motion": "Full-funnel Enterprise Sales. Global machine: Marketing (events, content, Trailhead) → SDR/BDR → AE → Solutions Engineering → CSM. India SDR team focused on building pipeline for India and APAC enterprise accounts across Salesforce product suite (CRM, Service Cloud, Agentforce).",
+    "gtm_motion": "Full-funnel Enterprise Sales. Global machine: Marketing (events, content, Trailhead) \u2192 SDR/BDR \u2192 AE \u2192 Solutions Engineering \u2192 CSM. India SDR team focused on building pipeline for India and APAC enterprise accounts across Salesforce product suite (CRM, Service Cloud, Agentforce).",
     "sales_motion": "Structured SDR-AE model with territories. SDR generates qualified meetings; AE closes complex multi-product enterprise deals (6-18 months). Bengaluru SDR team targets India enterprise accounts. Strong inbound (brand) + outbound (SDR-led). Agentforce AI push is current narrative.",
-    "hiring_signal": "Hiring SDR in Bengaluru office (posted 2026-08-04). Enterprise company expanding India SDR capacity. Signal: Agentforce launch creating new pipeline opportunities in India enterprise market — need SDRs to capitalize on AI demand.",
+    "hiring_signal": "Hiring SDR in Bengaluru office (posted 2026-08-04). Enterprise company expanding India SDR capacity. Signal: Agentforce launch creating new pipeline opportunities in India enterprise market \u2014 need SDRs to capitalize on AI demand.",
     "observable_gtm_gaps": [
       "Salesforce's scale means SDR roles are well-defined but pipeline targets can be aggressive in India market",
-      "Agentforce is the current GTM priority — SDRs must retool messaging from 'CRM' to 'AI agents'",
+      "Agentforce is the current GTM priority \u2014 SDRs must retool messaging from 'CRM' to 'AI agents'",
       "Competition from Microsoft Dynamics + Copilot is strongest in India enterprise market"
     ],
-    "outreach_angle": "Position as: 'Salesforce India is hiring SDRs as Agentforce changes the enterprise AI conversation. Your ICP is VP Sales, CIO, or Digital Transformation Lead at Indian enterprises. The SDR pitch is now AI agents + CRM — not just CRM. Established brand means strong inbound but targets require consistent outbound too.'",
+    "outreach_angle": "Position as: 'Salesforce India is hiring SDRs as Agentforce changes the enterprise AI conversation. Your ICP is VP Sales, CIO, or Digital Transformation Lead at Indian enterprises. The SDR pitch is now AI agents + CRM \u2014 not just CRM. Established brand means strong inbound but targets require consistent outbound too.'",
     "target_market": "Indian enterprise companies (CIO, VP Sales, Chief Digital Officer) across BFSI, tech, manufacturing, retail",
-    "hiring_urgency": "Medium — enterprise standard hiring",
+    "hiring_urgency": "Medium \u2014 enterprise standard hiring",
     "verified": true
   },
   {
     "company_id": 10,
     "company_name": "Keka HR",
     "gtm_motion": "Product-Led Growth + SDR-led Outbound. Freemium/trial for SMBs; outbound SDR for mid-market and US market. India SDR selling both India mid-market AND US market simultaneously (two roles). Strong Glassdoor/G2 reputation drives inbound; SDR converts and pushes enterprise accounts.",
-    "sales_motion": "High-velocity inside sales + structured outbound. SDR generates demos with HR Directors, COOs, and Founders at 200-2000 employee companies. India SDR + US Market SDR hired simultaneously — dual-market strategy. Short sales cycles (30-90 days) for India SMBs; longer for US mid-market.",
+    "sales_motion": "High-velocity inside sales + structured outbound. SDR generates demos with HR Directors, COOs, and Founders at 200-2000 employee companies. India SDR + US Market SDR hired simultaneously \u2014 dual-market strategy. Short sales cycles (30-90 days) for India SMBs; longer for US mid-market.",
     "hiring_signal": "Hiring 2 SDRs simultaneously: India market + US market (both Bengaluru office, posted 2026-08-04). Signal: $52.5M revenue scale-up accelerating US expansion. Proven India playbook being replicated for US market.",
     "observable_gtm_gaps": [
-      "US market entry from Bengaluru office creates timezone gap (approx 10.5 hours behind EST) — call windows are narrow",
+      "US market entry from Bengaluru office creates timezone gap (approx 10.5 hours behind EST) \u2014 call windows are narrow",
       "US market needs different positioning than India (Keka is unknown in US vs. well-known in India)",
-      "Two different markets, one office — SDR training and coaching must be bifurcated"
+      "Two different markets, one office \u2014 SDR training and coaching must be bifurcated"
     ],
-    "outreach_angle": "Position as: 'Keka HR is India's fastest-growing HRMS ($52.5M ARR) scaling the US market from Bengaluru. You'll be one of the first SDRs targeting US companies — similar ICP (SMB to mid-market HR leaders) but different culture and tools. The US pitch: affordable Workday alternative with strong UX and India support quality.' Lead VP Sales Dheeraj Pandey and Chad Chitresh (EU/GCC head) as sales leaders to align with.",
+    "outreach_angle": "Position as: 'Keka HR is India's fastest-growing HRMS ($52.5M ARR) scaling the US market from Bengaluru. You'll be one of the first SDRs targeting US companies \u2014 similar ICP (SMB to mid-market HR leaders) but different culture and tools. The US pitch: affordable Workday alternative with strong UX and India support quality.' Lead VP Sales Dheeraj Pandey and Chad Chitresh (EU/GCC head) as sales leaders to align with.",
     "target_market": "India: SMB/mid-market companies (100-2000 employees) replacing legacy HRMS. US: SMBs looking for Gusto/Rippling alternatives.",
-    "hiring_urgency": "High — 2 roles posted 2026-08-04",
+    "hiring_urgency": "High \u2014 2 roles posted 2026-08-04",
     "verified": true
   },
   {
     "company_id": 11,
     "company_name": "Avalara",
-    "gtm_motion": "Enterprise Sales + Partner Channel. Direct SDR → AE motion for direct enterprise accounts. Heavy partner/reseller channel through ERP and ecommerce platform integrations (1,200+ connectors). India SDR likely supporting both direct outbound and partner-sourced leads.",
-    "sales_motion": "Structured enterprise SDR → AE model. SDR in Pune targeting India enterprise accounts with complex tax compliance needs (GST, e-invoicing). Long sales cycles (90-180 days). Decision maker: CFO, Tax Director, IT Director. Compliance mandate creates urgency (regulatory driver).",
-    "hiring_signal": "Hiring SDR in Pune (posted 2026-08-04). Enterprise (1,001-5000 employees) expanding India sales capacity. India's GST e-invoicing mandate created compliance urgency — Avalara capturing this wave.",
+    "gtm_motion": "Enterprise Sales + Partner Channel. Direct SDR \u2192 AE motion for direct enterprise accounts. Heavy partner/reseller channel through ERP and ecommerce platform integrations (1,200+ connectors). India SDR likely supporting both direct outbound and partner-sourced leads.",
+    "sales_motion": "Structured enterprise SDR \u2192 AE model. SDR in Pune targeting India enterprise accounts with complex tax compliance needs (GST, e-invoicing). Long sales cycles (90-180 days). Decision maker: CFO, Tax Director, IT Director. Compliance mandate creates urgency (regulatory driver).",
+    "hiring_signal": "Hiring SDR in Pune (posted 2026-08-04). Enterprise (1,001-5000 employees) expanding India sales capacity. India's GST e-invoicing mandate created compliance urgency \u2014 Avalara capturing this wave.",
     "observable_gtm_gaps": [
-      "Avalara went private (2022) — reduced public profile may make outbound harder without the public company credibility",
+      "Avalara went private (2022) \u2014 reduced public profile may make outbound harder without the public company credibility",
       "India GST e-invoicing mandate is strong regulatory tailwind but creates crowded competitive moment",
       "Pune-based SDR in India (not Bengaluru) suggests smaller talent pool for SaaS sales"
     ],
@@ -180,16 +180,16 @@
     "company_id": 12,
     "company_name": "Fibr AI",
     "gtm_motion": "Outbound Enterprise Sales. SDR-led outbound targeting enterprise marketing teams. Bengaluru India SDR selling into Fortune 500 US/EU enterprises (banking, fintech, telecom, healthcare). Early-stage product ($9.5M raised) investing in outbound as primary acquisition channel.",
-    "sales_motion": "Outbound SDR → marketing/growth leader AE. Complex, multi-stakeholder sale (CMO, VP Marketing, Head of Digital, CDO). 60-180 day cycles for enterprise. POC-heavy with website traffic data as proof. Selling 'replace your agency + your Optimizely + your personalization team with one platform'.",
-    "hiring_signal": "Hiring SDR in Bengaluru office (posted 2026-08-04). Seed/early stage startup with $9.5M raised — investing in outbound as primary demand gen. Signal: Accel-backed, team has Stanford/IIT pedigree, targeting Fortune 50 enterprise segment.",
+    "sales_motion": "Outbound SDR \u2192 marketing/growth leader AE. Complex, multi-stakeholder sale (CMO, VP Marketing, Head of Digital, CDO). 60-180 day cycles for enterprise. POC-heavy with website traffic data as proof. Selling 'replace your agency + your Optimizely + your personalization team with one platform'.",
+    "hiring_signal": "Hiring SDR in Bengaluru office (posted 2026-08-04). Seed/early stage startup with $9.5M raised \u2014 investing in outbound as primary demand gen. Signal: Accel-backed, team has Stanford/IIT pedigree, targeting Fortune 50 enterprise segment.",
     "observable_gtm_gaps": [
-      "Seed stage company selling to Fortune 50 — credibility and proof gap in early outbound conversations",
-      "Enterprise marketing buyers are inundated with AI CRO tools — SDR message must cut through noise",
+      "Seed stage company selling to Fortune 50 \u2014 credibility and proof gap in early outbound conversations",
+      "Enterprise marketing buyers are inundated with AI CRO tools \u2014 SDR message must cut through noise",
       "SOC 2 + ISO 27001 certifications help with security questionnaires but procurement cycles remain long"
     ],
-    "outreach_angle": "Position as: 'Fibr AI is an Accel-backed startup trusted by Fortune 50 banks for AI website personalization — 1:1 pages for every visitor, automated A/B testing, 24/7 monitoring, no dev required. The SDR role is selling to enterprise CMOs and VP Marketing — SOC2/HIPAA compliance is your security card with regulated industries. Lead with case studies and speed-to-value.'",
+    "outreach_angle": "Position as: 'Fibr AI is an Accel-backed startup trusted by Fortune 50 banks for AI website personalization \u2014 1:1 pages for every visitor, automated A/B testing, 24/7 monitoring, no dev required. The SDR role is selling to enterprise CMOs and VP Marketing \u2014 SOC2/HIPAA compliance is your security card with regulated industries. Lead with case studies and speed-to-value.'",
     "target_market": "Enterprise CMOs and VP Marketing at banks, fintech, telecom, healthcare with 1M+ website visitors/month",
-    "hiring_urgency": "High — posted 2026-08-04",
+    "hiring_urgency": "High \u2014 posted 2026-08-04",
     "verified": true
   },
   {
@@ -197,13 +197,13 @@
     "company_name": "QCraft AI",
     "gtm_motion": "B2B Enterprise Sales (Automotive). Selling AI/ADAS technology to automotive OEM engineering teams and Tier-1 suppliers. India BDR likely targeting Indian auto OEMs (Tata Motors, Mahindra, Maruti/Suzuki) or Indian tech teams of global OEMs (Bosch India, Continental India, etc.).",
     "sales_motion": "Complex enterprise B2B sales to automotive R&D/engineering decision makers (VP Autonomous Driving, CTO, Head of ADAS). Very long cycles (12-36 months). Proof via pilot programs. India footprint growing post-Series D ($100M raised March 2026).",
-    "hiring_signal": "Hiring Senior BDR in Bengaluru (posted 2026-08-04). Signal: $100M Series D in March 2026 — investing in India sales expansion. China-founded autonomous driving company looking to diversify revenue to India market post-funding.",
+    "hiring_signal": "Hiring Senior BDR in Bengaluru (posted 2026-08-04). Signal: $100M Series D in March 2026 \u2014 investing in India sales expansion. China-founded autonomous driving company looking to diversify revenue to India market post-funding.",
     "observable_gtm_gaps": [
-      "China-founded company (QCraft) selling autonomous driving to Indian OEMs — requires trust-building in a geopolitically sensitive space",
+      "China-founded company (QCraft) selling autonomous driving to Indian OEMs \u2014 requires trust-building in a geopolitically sensitive space",
       "Automotive deal cycles (12-36 months) make SDR/BDR ROI very delayed",
-      "India autonomous driving market is earlier stage than China/US — OEM budgets may be limited"
+      "India autonomous driving market is earlier stage than China/US \u2014 OEM budgets may be limited"
     ],
-    "outreach_angle": "Position as: 'QCraft AI raised $100M in Series D (March 2026) and is building India sales. 1M+ mass-produced vehicles already running their technology. India BDR targets automotive OEM tech teams and Tier-1 supplier engineering leads. Long-cycle, relationship-driven enterprise selling — this is a BizDev role as much as sales.'",
+    "outreach_angle": "Position as: 'QCraft AI raised $100M in Series D (March 2026) and is building India sales. 1M+ mass-produced vehicles already running their technology. India BDR targets automotive OEM tech teams and Tier-1 supplier engineering leads. Long-cycle, relationship-driven enterprise selling \u2014 this is a BizDev role as much as sales.'",
     "target_market": "Indian automotive OEMs and Tier-1 automotive electronics/software suppliers; Indian R&D centers of global OEMs",
     "hiring_urgency": "Medium",
     "verified": true
@@ -215,11 +215,11 @@
     "sales_motion": "Outbound SDR targeting Head of Sales, VP Sales, Chief Revenue Officer at enterprises with large sales teams (50+ reps). Demo-driven with AI roleplay simulation as the hook. Short-to-medium sales cycles (30-90 days) at smaller deal sizes initially, scaling to enterprise contracts.",
     "hiring_signal": "Hiring SDR for Enterprise Sales in Mumbai office (posted 2026-08-04). Signal: bootstrapped 2023 startup investing in enterprise sales motion. Mumbai base suggests targeting BFSI enterprises (banks, insurance, NBFC) as primary ICP.",
     "observable_gtm_gaps": [
-      "Bootstrapped with no institutional funding — buyers may ask about company viability/longevity",
+      "Bootstrapped with no institutional funding \u2014 buyers may ask about company viability/longevity",
       "Competing vs. well-funded Second Nature, Mindtickle, Seismic with much larger GTM budgets",
-      "Mumbai SDR focused on BFSI — sales training is different per vertical (bank vs. SaaS vs. pharma)"
+      "Mumbai SDR focused on BFSI \u2014 sales training is different per vertical (bank vs. SaaS vs. pharma)"
     ],
-    "outreach_angle": "Position as: 'Trovex.ai is the only AI sales training platform built specifically for Indian enterprises — immersive roleplay simulations for bank branch sales, insurance agents, and B2B SaaS reps. Bootstrapped and profitable. Enterprise SDR in Mumbai targeting BFSI VP Sales and L&D leaders. The competitive edge: IISc AI research + real-time coaching feedback.'",
+    "outreach_angle": "Position as: 'Trovex.ai is the only AI sales training platform built specifically for Indian enterprises \u2014 immersive roleplay simulations for bank branch sales, insurance agents, and B2B SaaS reps. Bootstrapped and profitable. Enterprise SDR in Mumbai targeting BFSI VP Sales and L&D leaders. The competitive edge: IISc AI research + real-time coaching feedback.'",
     "target_market": "Enterprise sales leaders (VP Sales, Head of L&D) at BFSI, SaaS companies with 50+ customer-facing reps in India",
     "hiring_urgency": "Medium",
     "verified": true
@@ -231,11 +231,11 @@
     "sales_motion": "Outbound SDR targeting QA managers and VP Engineering at software companies. Short sales cycles (14-30 days), self-serve-first approach. Price competitive vs. TestRail. SDR in Pune Office.",
     "hiring_signal": "Hiring SDR in Pune office (posted 2026-08-04). Signal: bootstrapped profitable company ($4.5M revenue) adding outbound sales motion to supplement PLG. Celoxis parent has cash flow to invest in sales without pressure from investors.",
     "observable_gtm_gaps": [
-      "Tuskr is not as well-known as TestRail or Qase — outbound SDR needs to overcome low brand awareness",
-      "SDR is selling test management to QA teams — technical buyer who prefers self-serve over sales calls",
+      "Tuskr is not as well-known as TestRail or Qase \u2014 outbound SDR needs to overcome low brand awareness",
+      "SDR is selling test management to QA teams \u2014 technical buyer who prefers self-serve over sales calls",
       "Pune SDR pool for SaaS sales is smaller than Bengaluru or Mumbai"
     ],
-    "outreach_angle": "Position as: 'Tuskr by Celoxis is the top-ranked test management software for 2025 — bootstrapped, profitable, trusted by QA teams globally. The SDR role in Pune targets QA managers and Dev leads at software companies. Sell on simplicity vs. complex alternatives like TestRail. Celoxis (project management) customers are warm cross-sell leads.'",
+    "outreach_angle": "Position as: 'Tuskr by Celoxis is the top-ranked test management software for 2025 \u2014 bootstrapped, profitable, trusted by QA teams globally. The SDR role in Pune targets QA managers and Dev leads at software companies. Sell on simplicity vs. complex alternatives like TestRail. Celoxis (project management) customers are warm cross-sell leads.'",
     "target_market": "QA managers, Dev leads, and VP Engineering at software product companies (50-500 employees)",
     "hiring_urgency": "Low-Medium",
     "verified": true
@@ -244,14 +244,14 @@
     "company_id": 16,
     "company_name": "Appitsimple Infotek",
     "gtm_motion": "Inbound-Led + SDR Outbound. CallHippo acquires most customers via G2/Capterra reviews and Google Ads (inbound SaaS). SDR role likely handles both inbound lead qualification (IQ) and outbound to targeted verticals. Ahmedabad-based company with global (US, EU, India) customer base.",
-    "sales_motion": "High-velocity inside sales targeting sales/support managers at SMBs and mid-market companies globally. Short sales cycles (7-30 days). Demo + free trial → paid conversion. SDR in Ahmedabad Office — likely selling to India and some US SMB accounts.",
+    "sales_motion": "High-velocity inside sales targeting sales/support managers at SMBs and mid-market companies globally. Short sales cycles (7-30 days). Demo + free trial \u2192 paid conversion. SDR in Ahmedabad Office \u2014 likely selling to India and some US SMB accounts.",
     "hiring_signal": "Hiring SDR in Ahmedabad office (posted 2026-08-04). Signal: profitable $25M ARR business investing in structured outbound to accelerate growth beyond inbound. Scale-up hiring additional SDRs to expand market coverage.",
     "observable_gtm_gaps": [
       "Ahmedabad talent market for SaaS sales is smaller and less competitive than Bengaluru/Mumbai/Hyderabad",
-      "CallHippo competes vs. Aircall, JustCall (both India-funded, strong outbound teams) — need sharper SDR messaging",
+      "CallHippo competes vs. Aircall, JustCall (both India-funded, strong outbound teams) \u2014 need sharper SDR messaging",
       "AI calling agents feature is strong differentiator but needs to be central to SDR pitch"
     ],
-    "outreach_angle": "Position as: 'CallHippo is a profitable $25M ARR AI-first business communication platform used by 5,000+ companies in 173 countries. SDR in Ahmedabad sells to sales managers and founders at SMBs globally. Lead with AI agents + power dialer — that's the competitive edge vs. Aircall and JustCall. Sell the ROI: your AI agent works 24/7 at the cost of one SDR.'",
+    "outreach_angle": "Position as: 'CallHippo is a profitable $25M ARR AI-first business communication platform used by 5,000+ companies in 173 countries. SDR in Ahmedabad sells to sales managers and founders at SMBs globally. Lead with AI agents + power dialer \u2014 that's the competitive edge vs. Aircall and JustCall. Sell the ROI: your AI agent works 24/7 at the cost of one SDR.'",
     "target_market": "Sales managers and founders at SMBs and mid-market companies (10-500 employees) globally needing cloud calling",
     "hiring_urgency": "Medium",
     "verified": true
@@ -260,14 +260,14 @@
     "company_id": 17,
     "company_name": "DATOMS",
     "gtm_motion": "Enterprise B2B Sales (OEM-focused). SDR targeting OEM business development and digital transformation leads. Selling connected machine platform to industrial equipment manufacturers. Bhubaneswar-based company with Bengaluru tech presence.",
-    "sales_motion": "Outbound SDR targeting VP Engineering, VP Digital, or CEO/Founder at OEM companies (manufacturing, construction, agriculture equipment). Complex B2B sale (60-180 days). Selling EaaS transformation — requires change management. SDR in Bhubaneswar Office.",
-    "hiring_signal": "Hiring SDR in Bhubaneswar office (posted 2026-08-04). Signal: Series A funded (₹25Cr) using fresh capital to build sales motion. Pre-existing relationships from Bhubaneswar/Odisha industrial belt likely seeded initial customers.",
+    "sales_motion": "Outbound SDR targeting VP Engineering, VP Digital, or CEO/Founder at OEM companies (manufacturing, construction, agriculture equipment). Complex B2B sale (60-180 days). Selling EaaS transformation \u2014 requires change management. SDR in Bhubaneswar Office.",
+    "hiring_signal": "Hiring SDR in Bhubaneswar office (posted 2026-08-04). Signal: Series A funded (\u20b925Cr) using fresh capital to build sales motion. Pre-existing relationships from Bhubaneswar/Odisha industrial belt likely seeded initial customers.",
     "observable_gtm_gaps": [
       "Bhubaneswar SDR will have limited access to OEM decision-makers who are in manufacturing hubs (Pune, Chennai, Hyderabad)",
-      "IoT SaaS is complex to sell — requires OEM to commit to hardware + software integration",
-      "Revenue is still small (Rs. 5.57Cr) — most SDRs will be qualifying and nurturing, not closing"
+      "IoT SaaS is complex to sell \u2014 requires OEM to commit to hardware + software integration",
+      "Revenue is still small (Rs. 5.57Cr) \u2014 most SDRs will be qualifying and nurturing, not closing"
     ],
-    "outreach_angle": "Position as: 'DATOMS is a Series A IoT SaaS startup turning industrial equipment companies into Equipment-as-a-Service businesses. SDR in Bhubaneswar targeting VP Digital and business development leads at OEMs. This is an early-stage outbound motion — you'll be building the playbook. Lead with ROI: OEM customers generate recurring IoT revenue instead of one-time hardware sales.'",
+    "outreach_angle": "Position as: 'DATOMS is a Series A IoT SaaS startup turning industrial equipment companies into Equipment-as-a-Service businesses. SDR in Bhubaneswar targeting VP Digital and business development leads at OEMs. This is an early-stage outbound motion \u2014 you'll be building the playbook. Lead with ROI: OEM customers generate recurring IoT revenue instead of one-time hardware sales.'",
     "target_market": "Industrial equipment OEMs (construction, agriculture, energy) in India wanting to add IoT and enable Equipment-as-a-Service",
     "hiring_urgency": "Low-Medium",
     "verified": true
@@ -275,33 +275,33 @@
   {
     "company_id": 18,
     "company_name": "Darwinbox",
-    "gtm_motion": "Enterprise Sales + GTM Engineering. Complex enterprise HCM sale supported by marketing, events, and strategic partnerships. GTM Engineer role signals investment in RevOps/automated outbound infrastructure — Darwinbox building technical GTM stack for scale.",
-    "sales_motion": "Darwinbox's India motion: Darwinbox AE + SDR → enterprise CHRO/CHRO + CIO. GTM Engineer role (Hyderabad, Office) is a RevOps/Growth Engineer role — building automated prospecting, data enrichment, and outbound tooling at scale. Supports $100M revenue enterprise sales org.",
+    "gtm_motion": "Enterprise Sales + GTM Engineering. Complex enterprise HCM sale supported by marketing, events, and strategic partnerships. GTM Engineer role signals investment in RevOps/automated outbound infrastructure \u2014 Darwinbox building technical GTM stack for scale.",
+    "sales_motion": "Darwinbox's India motion: Darwinbox AE + SDR \u2192 enterprise CHRO/CHRO + CIO. GTM Engineer role (Hyderabad, Office) is a RevOps/Growth Engineer role \u2014 building automated prospecting, data enrichment, and outbound tooling at scale. Supports $100M revenue enterprise sales org.",
     "hiring_signal": "Hiring GTM Engineer in Hyderabad (posted 2026-08-05). Signal: at $100M revenue with new India Country Head (Akshay Murthy, ex-Salesforce), Darwinbox is professionalizing and scaling GTM infrastructure. GTM Engineer = Revenue Operations meets Sales Engineering.",
     "observable_gtm_gaps": [
-      "New India Country Head (July 2026) means GTM strategy may be in flux — incoming leader reshaping motion",
-      "GTM Engineer role is technical — finding this skill set in Hyderabad vs. Bengaluru is harder",
+      "New India Country Head (July 2026) means GTM strategy may be in flux \u2014 incoming leader reshaping motion",
+      "GTM Engineer role is technical \u2014 finding this skill set in Hyderabad vs. Bengaluru is harder",
       "Rippling/Deel expansion into India creates unexpected competitive pressure from global HCM newcomers"
     ],
-    "outreach_angle": "Position as: 'Darwinbox is a $100M revenue HCM unicorn with a new India Country Head (ex-Salesforce, July 2026) and hiring a GTM Engineer to scale the tech stack. This is a RevOps + automation role: prospecting systems, data enrichment, outbound tooling, and GTM analytics. High autonomy in a scale-up environment — early mover advantage as the India GTM rebuilds under new leadership.'",
+    "outreach_angle": "Position as: 'Darwinbox is a $100M revenue HCM unicorn with a new India Country Head (ex-Salesforce, July 2026) and hiring a GTM Engineer to scale the tech stack. This is a RevOps + automation role: prospecting systems, data enrichment, outbound tooling, and GTM analytics. High autonomy in a scale-up environment \u2014 early mover advantage as the India GTM rebuilds under new leadership.'",
     "target_market": "The GTM Engineer role supports the Darwinbox sales org targeting CHROs and CIOs at enterprises with 1,000+ employees in India and APAC",
-    "hiring_urgency": "High — posted 2026-08-05, new Country Head needs GTM support",
+    "hiring_urgency": "High \u2014 posted 2026-08-05, new Country Head needs GTM support",
     "verified": true
   },
   {
     "company_id": 19,
     "company_name": "Signalmash",
-    "gtm_motion": "Outbound Sales + Partner/Channel. GTM Engineer in India (remote) — building automated outbound prospecting infrastructure. CPaaS is a highly competitive market dominated by Twilio; Signalmash differentiates on hands-on support and boutique positioning.",
-    "sales_motion": "GTM Engineer role (remote India, posted 2026-08-03) is a technical sales/RevOps hybrid — automating lead generation, prospecting, and outreach for a US-headquartered CPaaS company entering India market. Signal: tiny team (2-10 founders) hiring GTM infrastructure before sales team.",
-    "hiring_signal": "Hiring GTM Engineer (India Remote) — earliest signal of India expansion for this Oregon-based CPaaS company. GTM Engineer is often the founding GTM hire for early-stage companies building automated outbound.",
+    "gtm_motion": "Outbound Sales + Partner/Channel. GTM Engineer in India (remote) \u2014 building automated outbound prospecting infrastructure. CPaaS is a highly competitive market dominated by Twilio; Signalmash differentiates on hands-on support and boutique positioning.",
+    "sales_motion": "GTM Engineer role (remote India, posted 2026-08-03) is a technical sales/RevOps hybrid \u2014 automating lead generation, prospecting, and outreach for a US-headquartered CPaaS company entering India market. Signal: tiny team (2-10 founders) hiring GTM infrastructure before sales team.",
+    "hiring_signal": "Hiring GTM Engineer (India Remote) \u2014 earliest signal of India expansion for this Oregon-based CPaaS company. GTM Engineer is often the founding GTM hire for early-stage companies building automated outbound.",
     "observable_gtm_gaps": [
-      "Signalmash is tiny (51-200 employees per LinkedIn — likely inflated; may be closer to 10-30 actual team)",
+      "Signalmash is tiny (51-200 employees per LinkedIn \u2014 likely inflated; may be closer to 10-30 actual team)",
       "India CPaaS market has local competitors (Kaleyra, Exotel, Tanla) with deep relationships",
       "Boutique positioning doesn't scale well in a commoditizing CPaaS market without clear ICP"
     ],
-    "outreach_angle": "Position as: 'Signalmash is building its India GTM from scratch — this GTM Engineer is essentially the founding GTM hire for India. Remote, high autonomy, direct access to founders. The opportunity is to architect the India outbound motion for a US CPaaS that differentiates on hands-on support vs. Twilio's complexity. Strong technical sales skill set required.'",
+    "outreach_angle": "Position as: 'Signalmash is building its India GTM from scratch \u2014 this GTM Engineer is essentially the founding GTM hire for India. Remote, high autonomy, direct access to founders. The opportunity is to architect the India outbound motion for a US CPaaS that differentiates on hands-on support vs. Twilio's complexity. Strong technical sales skill set required.'",
     "target_market": "India and global: contact centers, BPOs, SaaS companies needing programmatic voice/messaging APIs with human support",
-    "hiring_urgency": "High — first India GTM hire",
+    "hiring_urgency": "High \u2014 first India GTM hire",
     "verified": true
   },
   {
@@ -311,11 +311,11 @@
     "sales_motion": "Inside Sales Rep selling US market accounts from Bengaluru office. Target buyer: HR Director, Talent Acquisition Manager, Head of Recruiting. Demo-driven. Short-to-medium cycles (14-45 days). Selling annual subscription to AI recruiting platform.",
     "hiring_signal": "Hiring Inside Sales Representative (US Market) in Bengaluru office (posted 2026-08-04). Signal: Seed-funded ($13M total, $5M Prosus-backed Feb 2026) expanding US market through India-based inside sales team. Efficiency play: India ISR selling into US at lower cost.",
     "observable_gtm_gaps": [
-      "US recruiting market is competitive and sophisticated — buyers will compare to LinkedIn Recruiter, Greenhouse, Lever extensively",
-      "Qureos is MENA-origin with limited US brand recognition — ISR must overcome 'who are you?' objection",
+      "US recruiting market is competitive and sophisticated \u2014 buyers will compare to LinkedIn Recruiter, Greenhouse, Lever extensively",
+      "Qureos is MENA-origin with limited US brand recognition \u2014 ISR must overcome 'who are you?' objection",
       "India-based ISR calling US HR teams faces timezone challenges and cultural selling differences"
     ],
-    "outreach_angle": "Position as: 'Qureos is a Prosus-backed AI recruiting platform expanding US market through India ISR team. The ISR role targets US HR Directors and TA Managers selling AI-powered automated sourcing and screening. Differentiator: AI finds candidates beyond your existing database — proactive outreach vs. passive job posting. Backed by $13M, team scaling fast.'",
+    "outreach_angle": "Position as: 'Qureos is a Prosus-backed AI recruiting platform expanding US market through India ISR team. The ISR role targets US HR Directors and TA Managers selling AI-powered automated sourcing and screening. Differentiator: AI finds candidates beyond your existing database \u2014 proactive outreach vs. passive job posting. Backed by $13M, team scaling fast.'",
     "target_market": "US HR Directors and Talent Acquisition Managers at mid-market companies (50-1000 employees) with high-volume hiring needs",
     "hiring_urgency": "Medium",
     "verified": true
@@ -325,13 +325,13 @@
     "company_name": "Kasparro AI",
     "gtm_motion": "Founder-led sales at pre-seed stage. First SDR hire signals attempt to build repeatable outbound before product-market fit is fully proven.",
     "sales_motion": "Likely outbound to e-commerce/growth marketing leaders concerned about AI-mediated discovery; category-creation selling (educating market on 'AI eligibility' as a new problem).",
-    "hiring_signal": "First SDR hire at a 2-10 person, 2026-founded company — very early GTM experiment, not yet a scaled motion.",
+    "hiring_signal": "First SDR hire at a 2-10 person, 2026-founded company \u2014 very early GTM experiment, not yet a scaled motion.",
     "observable_gtm_gaps": [
-      "No named founder/leadership publicly visible — weak trust signals for outbound",
-      "Category is nascent (GEO/AI visibility) — buyers may not recognize the problem yet",
-      "No disclosed funding — runway and hiring capacity unclear"
+      "No named founder/leadership publicly visible \u2014 weak trust signals for outbound",
+      "Category is nascent (GEO/AI visibility) \u2014 buyers may not recognize the problem yet",
+      "No disclosed funding \u2014 runway and hiring capacity unclear"
     ],
-    "outreach_angle": "Position as: 'Kasparro is defining a brand-new category — AI eligibility for e-commerce. You're one of their first SDR hires, which means you're also defining the outbound playbook. Lead with founder access and early-adopter case studies since the category itself needs educating.'",
+    "outreach_angle": "Position as: 'Kasparro is defining a brand-new category \u2014 AI eligibility for e-commerce. You're one of their first SDR hires, which means you're also defining the outbound playbook. Lead with founder access and early-adopter case studies since the category itself needs educating.'",
     "target_market": "E-commerce and growth teams optimizing for AI-mediated discovery (ChatGPT, Gemini, Perplexity shopping)",
     "hiring_urgency": "Medium",
     "verified": true
@@ -344,10 +344,10 @@
     "hiring_signal": "Hiring SDR in Bengaluru HQ. Signal: established Series B company (13 years old) continuing to invest in pipeline generation despite market maturity.",
     "observable_gtm_gaps": [
       "Facing well-funded global RTM competitors (RELEX, Wasoko)",
-      "Series B round from 2023 — needs efficient CAC as growth-stage pressure mounts",
-      "Agentic AI positioning is new (2026) — sales team may need enablement on new messaging"
+      "Series B round from 2023 \u2014 needs efficient CAC as growth-stage pressure mounts",
+      "Agentic AI positioning is new (2026) \u2014 sales team may need enablement on new messaging"
     ],
-    "outreach_angle": "Position as: 'Bizom just repositioned around agentic RTM intelligence — you're helping bring that new pitch to CPG brands still running on manual distributor management. Lead with the 750+ brand trust signal and the shift from automation to autonomous decision-making.'",
+    "outreach_angle": "Position as: 'Bizom just repositioned around agentic RTM intelligence \u2014 you're helping bring that new pitch to CPG brands still running on manual distributor management. Lead with the 750+ brand trust signal and the shift from automation to autonomous decision-making.'",
     "target_market": "CPG/FMCG brands with large distributed sales and distribution networks, primarily in India/Middle East/Africa",
     "hiring_urgency": "Medium",
     "verified": true
@@ -355,14 +355,14 @@
   {
     "company_id": 26,
     "company_name": "Cloudflare",
-    "gtm_motion": "Enterprise sales at global scale — managed by segment (SMB self-serve, mid-market, enterprise). SAARC-focused BDR manager role signals dedicated regional coverage for South Asia (India, Pakistan, Bangladesh, Sri Lanka, Nepal).",
+    "gtm_motion": "Enterprise sales at global scale \u2014 managed by segment (SMB self-serve, mid-market, enterprise). SAARC-focused BDR manager role signals dedicated regional coverage for South Asia (India, Pakistan, Bangladesh, Sri Lanka, Nepal).",
     "sales_motion": "Outbound BDR/SDR feeding AE pipeline, technical selling (security/performance ROI) to CTOs/CISOs, land-and-expand motion typical of usage-based cloud infrastructure.",
-    "hiring_signal": "Hiring a BDR Manager (not IC) for SAARC — signal of building/scaling a dedicated regional team rather than a single hire, indicating established and growing India/SAARC investment.",
+    "hiring_signal": "Hiring a BDR Manager (not IC) for SAARC \u2014 signal of building/scaling a dedicated regional team rather than a single hire, indicating established and growing India/SAARC investment.",
     "observable_gtm_gaps": [
-      "Highly competitive market (Akamai, Fastly, AWS) — differentiation on connectivity cloud breadth is key",
-      "Regional manager role suggests team is scaling — good entry point via team members rather than exec"
+      "Highly competitive market (Akamai, Fastly, AWS) \u2014 differentiation on connectivity cloud breadth is key",
+      "Regional manager role suggests team is scaling \u2014 good entry point via team members rather than exec"
     ],
-    "outreach_angle": "Position as: 'Cloudflare is scaling its SAARC BDR team under a new manager — a good moment to build relationships as the team structure is still forming. Lead with connectivity cloud + zero trust security ROI messaging for India enterprises modernizing security stacks.'",
+    "outreach_angle": "Position as: 'Cloudflare is scaling its SAARC BDR team under a new manager \u2014 a good moment to build relationships as the team structure is still forming. Lead with connectivity cloud + zero trust security ROI messaging for India enterprises modernizing security stacks.'",
     "target_market": "Enterprises, mid-market, and developers across SAARC needing network performance and security",
     "hiring_urgency": "Medium",
     "verified": true
@@ -375,10 +375,10 @@
     "hiring_signal": "Hiring SDR in Bengaluru HQ. Signal: bootstrapped/angel-funded company (est. 2015) scaling outbound to grow beyond current e-commerce integrations base.",
     "observable_gtm_gaps": [
       "Crowded email marketing category dominated by Mailchimp/Klaviyo with far larger marketing budgets",
-      "No disclosed institutional funding — CAC efficiency likely critical",
-      "Recently expanded into AMP email and e-commerce ecosystem — sales team may need enablement on newest features"
+      "No disclosed institutional funding \u2014 CAC efficiency likely critical",
+      "Recently expanded into AMP email and e-commerce ecosystem \u2014 sales team may need enablement on newest features"
     ],
-    "outreach_angle": "Position as: 'Kasplo is undercutting Klaviyo/Mailchimp on price while matching e-commerce integrations — you're building outbound to reach Shopify/BigCommerce merchants who feel priced out of the big platforms. Lead with total cost of ownership and deliverability data.'",
+    "outreach_angle": "Position as: 'Kasplo is undercutting Klaviyo/Mailchimp on price while matching e-commerce integrations \u2014 you're building outbound to reach Shopify/BigCommerce merchants who feel priced out of the big platforms. Lead with total cost of ownership and deliverability data.'",
     "target_market": "E-commerce businesses on Shopify/BigCommerce/WooCommerce seeking affordable email marketing automation",
     "hiring_urgency": "Medium",
     "verified": true
@@ -391,10 +391,10 @@
     "hiring_signal": "Hiring SDR in Delhi. Signal: continued domestic India pipeline generation alongside international expansion push (US HQ relocation signals ambition beyond India).",
     "observable_gtm_gaps": [
       "Competing directly against well-funded Toast (US) and Square in international markets",
-      "Post-rebrand (2024) — brand awareness of 'Restroworks' vs. legacy 'Posist' name may still be building",
-      "Revenue estimates vary significantly by source — financial profile not fully transparent"
+      "Post-rebrand (2024) \u2014 brand awareness of 'Restroworks' vs. legacy 'Posist' name may still be building",
+      "Revenue estimates vary significantly by source \u2014 financial profile not fully transparent"
     ],
-    "outreach_angle": "Position as: 'Restroworks just rebranded from Posist and is pushing into the US, Middle East, and Southeast Asia. Its edge over Toast is built for emerging-market complexity — intermittent internet, mixed cash/UPI/card payments, multi-region tax rules. Lead with enterprise chain case studies (Taco Bell India, Burger King India, Carl's Jr).'",
+    "outreach_angle": "Position as: 'Restroworks just rebranded from Posist and is pushing into the US, Middle East, and Southeast Asia. Its edge over Toast is built for emerging-market complexity \u2014 intermittent internet, mixed cash/UPI/card payments, multi-region tax rules. Lead with enterprise chain case studies (Taco Bell India, Burger King India, Carl's Jr).'",
     "target_market": "Enterprise multi-location restaurant chains (QSR, fine dining, cafes) in India, Middle East, Southeast Asia, US",
     "hiring_urgency": "Medium",
     "verified": true
@@ -404,13 +404,13 @@
     "company_name": "eShipz",
     "gtm_motion": "Outbound SDR targeting D2C/e-commerce brands for logistics automation, competing in a crowded India shipping-aggregator space.",
     "sales_motion": "Outbound + demo-led sales to ops/logistics leads at D2C brands; ROI pitch centered on multi-carrier flexibility and NDR (non-delivery report) reduction.",
-    "hiring_signal": "Hiring an experienced (2+ years) enterprise-focused SDR in Bengaluru — signal of moving up-market from SMB e-commerce toward larger enterprise accounts, consistent with reaching ~$5M revenue on a 45-person team.",
+    "hiring_signal": "Hiring an experienced (2+ years) enterprise-focused SDR in Bengaluru \u2014 signal of moving up-market from SMB e-commerce toward larger enterprise accounts, consistent with reaching ~$5M revenue on a 45-person team.",
     "observable_gtm_gaps": [
-      "Small disclosed funding ($767K) relative to well-funded competitors like Shiprocket — likely capital-efficient growth pressure",
+      "Small disclosed funding ($767K) relative to well-funded competitors like Shiprocket \u2014 likely capital-efficient growth pressure",
       "Crowded category with several India shipping-aggregator incumbents",
-      "Enterprise-focused SDR hire (vs. SMB) suggests a GTM shift in progress — may lack enterprise case studies yet"
+      "Enterprise-focused SDR hire (vs. SMB) suggests a GTM shift in progress \u2014 may lack enterprise case studies yet"
     ],
-    "outreach_angle": "Position as: 'eShipz is shifting upmarket — this SDR role explicitly targets enterprise accounts, a change from their SMB/D2C roots. You're helping build that enterprise motion from scratch. Lead with multi-carrier flexibility and NDR reduction data, since that's the technical differentiator vs. single-carrier aggregators.'",
+    "outreach_angle": "Position as: 'eShipz is shifting upmarket \u2014 this SDR role explicitly targets enterprise accounts, a change from their SMB/D2C roots. You're helping build that enterprise motion from scratch. Lead with multi-carrier flexibility and NDR reduction data, since that's the technical differentiator vs. single-carrier aggregators.'",
     "target_market": "D2C and enterprise e-commerce brands in India needing multi-carrier shipping automation",
     "hiring_urgency": "Medium",
     "verified": true
@@ -423,12 +423,12 @@
     "hiring_signal": "Hiring Enterprise SDR - US market from India office. Signal: well-funded ($32.2M, Series B led by Accel) company scaling its highest-value segment (enterprise, US) via cost-efficient India-based SDR team.",
     "observable_gtm_gaps": [
       "Crowded compliance automation space (Vanta, Drata are larger/better-funded in the US)",
-      "Enterprise segment requires longer sales cycles and more technical proof — SDR team may need heavy enablement",
-      "India-based SDR selling into US enterprise — timezone/cultural alignment consideration"
+      "Enterprise segment requires longer sales cycles and more technical proof \u2014 SDR team may need heavy enablement",
+      "India-based SDR selling into US enterprise \u2014 timezone/cultural alignment consideration"
     ],
-    "outreach_angle": "Position as: 'Sprinto just landed a $20M Series B from Accel and is building a dedicated US enterprise SDR motion from India — a deliberate cost-efficient scaling play against Vanta/Drata. Lead with the breadth story: SOC 2, ISO 27001, GDPR, HIPAA, PCI-DSS, and AI governance (ISO 42001) in one autonomous platform.'",
+    "outreach_angle": "Position as: 'Sprinto just landed a $20M Series B from Accel and is building a dedicated US enterprise SDR motion from India \u2014 a deliberate cost-efficient scaling play against Vanta/Drata. Lead with the breadth story: SOC 2, ISO 27001, GDPR, HIPAA, PCI-DSS, and AI governance (ISO 42001) in one autonomous platform.'",
     "target_market": "US and global mid-market to enterprise SaaS/tech companies needing security compliance automation",
-    "hiring_urgency": "High — well-funded, actively scaling enterprise motion",
+    "hiring_urgency": "High \u2014 well-funded, actively scaling enterprise motion",
     "verified": true
   },
   {
@@ -436,11 +436,11 @@
     "company_name": "Affluense",
     "gtm_motion": "Founder-led sales transitioning to first SDR hire at pre-seed stage. Full-cycle SDR role suggests a lean team where reps own the whole deal cycle, not just top-of-funnel.",
     "sales_motion": "High-touch outbound to wealth managers and private bankers; relationship/credibility-driven selling in a trust-sensitive vertical (wealth management data).",
-    "hiring_signal": "Hiring first Full-Cycle SDR shortly after ₹3 crore pre-seed round (Oct 2025) with notable angel backing (Kunal Shah/CRED) — signal of using fresh capital to build initial sales capacity.",
+    "hiring_signal": "Hiring first Full-Cycle SDR shortly after \u20b93 crore pre-seed round (Oct 2025) with notable angel backing (Kunal Shah/CRED) \u2014 signal of using fresh capital to build initial sales capacity.",
     "observable_gtm_gaps": [
-      "Very early stage (2-10 employees, pre-seed) — no enterprise logos or case studies likely available yet",
-      "'Full-cycle' SDR role (rather than split SDR/AE) suggests no dedicated closing function yet — GTM function still forming",
-      "Wealth management is a relationship-driven, trust-heavy vertical — cold outbound may face higher resistance"
+      "Very early stage (2-10 employees, pre-seed) \u2014 no enterprise logos or case studies likely available yet",
+      "'Full-cycle' SDR role (rather than split SDR/AE) suggests no dedicated closing function yet \u2014 GTM function still forming",
+      "Wealth management is a relationship-driven, trust-heavy vertical \u2014 cold outbound may face higher resistance"
     ],
     "outreach_angle": "Position as: 'Affluense just raised pre-seed with CRED founder Kunal Shah as an angel and is making its first sales hire. You'd be building the GTM playbook for a company defining HNI relationship intelligence as a category. Lead with credible investor backing to build trust with skeptical wealth management buyers.'",
     "target_market": "Wealth managers, private bankers, and luxury/real estate/automotive businesses targeting HNI/UHNI individuals",
@@ -452,13 +452,13 @@
     "company_name": "TheHireHub.Ai",
     "gtm_motion": "Founder-led sales to in-house TA teams, bootstrapped growth. First outbound SDR hire signals moving beyond founder-led sales into a repeatable motion.",
     "sales_motion": "Outbound to HR/TA leaders at growing companies; content-led credibility via founder's published bylines (ET, Financial Express, HR.com) on AI in recruitment.",
-    "hiring_signal": "Hiring first SDR at a bootstrapped, 12-person, 2025-founded company — very early GTM buildout.",
+    "hiring_signal": "Hiring first SDR at a bootstrapped, 12-person, 2025-founded company \u2014 very early GTM buildout.",
     "observable_gtm_gaps": [
-      "Bootstrapped with no institutional funding — CAC efficiency is critical",
+      "Bootstrapped with no institutional funding \u2014 CAC efficiency is critical",
       "Crowded AI recruiting category (Eightfold, SeekOut) with much larger competitors",
       "No established outbound playbook yet"
     ],
-    "outreach_angle": "Position as: 'TheHireHub.AI is bootstrapped and building its first outbound motion — founded by 20-year executive search veterans who've published widely on AI recruiting. You'd be defining the SDR playbook from scratch, with direct founder access.'",
+    "outreach_angle": "Position as: 'TheHireHub.AI is bootstrapped and building its first outbound motion \u2014 founded by 20-year executive search veterans who've published widely on AI recruiting. You'd be defining the SDR playbook from scratch, with direct founder access.'",
     "target_market": "In-house talent acquisition and HR teams at growing companies",
     "hiring_urgency": "Medium",
     "verified": true
@@ -468,13 +468,13 @@
     "company_name": "Truein",
     "gtm_motion": "Outbound + inbound (G2/comparison content) sales to ops/HR leaders managing distributed hourly workforces. Seed-funded, steady headcount growth.",
     "sales_motion": "Demo-led outbound SDR targeting HR/ops managers at manufacturing, retail, and warehousing companies; ROI pitch centered on payroll accuracy and fraud/buddy-punching prevention.",
-    "hiring_signal": "Hiring SDR in Pune HQ — signal of continued pipeline investment 5+ years post-seed, steady 8% YoY headcount growth.",
+    "hiring_signal": "Hiring SDR in Pune HQ \u2014 signal of continued pipeline investment 5+ years post-seed, steady 8% YoY headcount growth.",
     "observable_gtm_gaps": [
       "Competing against entrenched players (Kronos/UKG, greytHR) with far larger budgets",
-      "Only $2.5M raised across 5 rounds over 7+ years — capital-efficient but slow-growth profile",
+      "Only $2.5M raised across 5 rounds over 7+ years \u2014 capital-efficient but slow-growth profile",
       "Category (attendance software) is viewed as commodity by many buyers"
     ],
-    "outreach_angle": "Position as: 'Truein differentiates on AI TimeGuard anomaly detection for hourly/multi-site workforces — not just clock-in software. 500+ customers across 10,000+ locations is real proof. Lead with payroll accuracy and fraud prevention ROI.'",
+    "outreach_angle": "Position as: 'Truein differentiates on AI TimeGuard anomaly detection for hourly/multi-site workforces \u2014 not just clock-in software. 500+ customers across 10,000+ locations is real proof. Lead with payroll accuracy and fraud prevention ROI.'",
     "target_market": "Companies managing hourly, contractual, or multi-site distributed workforce",
     "hiring_urgency": "Low-Medium",
     "verified": true
@@ -484,13 +484,13 @@
     "company_name": "Aavtaar.ai",
     "gtm_motion": "Early-stage outbound to enterprise buyers in BFSI/BPO/Healthcare/EdTech/E-commerce; part-time SDR hire suggests lean, capital-conscious team testing outbound before committing to full-time headcount.",
     "sales_motion": "Outbound to ops/CX leaders wanting to automate outbound calling, support, and lead nurturing with voice/text AI agents; sold on latency (<250ms) and multilingual capability.",
-    "hiring_signal": "Hiring a part-time, US-shift SDR — a low-commitment way to test a US-hours outbound motion before scaling investment.",
+    "hiring_signal": "Hiring a part-time, US-shift SDR \u2014 a low-commitment way to test a US-hours outbound motion before scaling investment.",
     "observable_gtm_gaps": [
-      "No confirmed funding or named leadership found — thin public profile makes enterprise trust-building harder",
+      "No confirmed funding or named leadership found \u2014 thin public profile makes enterprise trust-building harder",
       "Crowded conversational AI space (Yellow.ai, Verloop, Haptik) with established India players",
       "Part-time SDR role signals uncertain GTM investment level"
     ],
-    "outreach_angle": "Position as: 'Aavtaar.ai is testing a US-hours outbound motion with a part-time hire — low risk, high visibility if it works. Lead with the <250ms emotion-aware voice differentiator and multi-industry breadth (BFSI to EdTech) since the company itself is still building its market story.'",
+    "outreach_angle": "Position as: 'Aavtaar.ai is testing a US-hours outbound motion with a part-time hire \u2014 low risk, high visibility if it works. Lead with the <250ms emotion-aware voice differentiator and multi-industry breadth (BFSI to EdTech) since the company itself is still building its market story.'",
     "target_market": "BFSI, BPO, Healthcare, EdTech, and E-commerce enterprises",
     "hiring_urgency": "Low-Medium",
     "verified": true
@@ -499,16 +499,16 @@
     "company_id": 44,
     "company_name": "SigNoz",
     "gtm_motion": "Open-source PLG (GitHub adoption) + Founding SDR to convert self-serve/open-source users into paid enterprise customers. YC-backed with real funding runway.",
-    "sales_motion": "Founding SDR role — first dedicated outbound hire, working directly with founders to build the sales motion from open-source community + inbound interest into a repeatable enterprise pipeline.",
-    "hiring_signal": "Hiring a 'Founding SDR Lead' — a senior, build-the-playbook role, not a junior IC hire. Strong signal of a well-funded (post-$5.4M) company deliberately building its first commercial motion.",
+    "sales_motion": "Founding SDR role \u2014 first dedicated outbound hire, working directly with founders to build the sales motion from open-source community + inbound interest into a repeatable enterprise pipeline.",
+    "hiring_signal": "Hiring a 'Founding SDR Lead' \u2014 a senior, build-the-playbook role, not a junior IC hire. Strong signal of a well-funded (post-$5.4M) company deliberately building its first commercial motion.",
     "observable_gtm_gaps": [
-      "Open-source-to-paid conversion motion not yet proven at scale — this hire is meant to build it",
+      "Open-source-to-paid conversion motion not yet proven at scale \u2014 this hire is meant to build it",
       "Competing against Datadog/New Relic's massive sales and marketing budgets",
       "24,000+ GitHub stars is a strong top-of-funnel but needs a real qualification/conversion process"
     ],
-    "outreach_angle": "Position as: 'SigNoz is YC-backed with $6.5M raised and 24,000+ GitHub stars — this is a Founding SDR Lead role, meaning you help build the entire outbound function from scratch, working directly with the founders. Lead with the open-source-to-Datadog-alternative pitch to engineering leaders already using the OSS product.'",
+    "outreach_angle": "Position as: 'SigNoz is YC-backed with $6.5M raised and 24,000+ GitHub stars \u2014 this is a Founding SDR Lead role, meaning you help build the entire outbound function from scratch, working directly with the founders. Lead with the open-source-to-Datadog-alternative pitch to engineering leaders already using the OSS product.'",
     "target_market": "Engineering teams at cloud-native companies wanting unified observability",
-    "hiring_urgency": "High — founding/leadership-level SDR hire post-funding",
+    "hiring_urgency": "High \u2014 founding/leadership-level SDR hire post-funding",
     "verified": true
   },
   {
@@ -516,13 +516,13 @@
     "company_name": "unmeshed, Inc.",
     "gtm_motion": "Technical, credibility-led outbound leveraging founders' Netflix Conductor pedigree; Lead SDR role suggests building a senior-led outbound function early.",
     "sales_motion": "Outbound to engineering leaders already familiar with (or frustrated by) Netflix Conductor, pitched as the modern, fully-managed alternative; open-source GitHub presence supports developer-led discovery.",
-    "hiring_signal": "Hiring a 'Lead' SDR remotely from India for a Seattle-HQ'd, 11-50 person company — signal of building an India-based outbound function early in the company's life (founded 2024).",
+    "hiring_signal": "Hiring a 'Lead' SDR remotely from India for a Seattle-HQ'd, 11-50 person company \u2014 signal of building an India-based outbound function early in the company's life (founded 2024).",
     "observable_gtm_gaps": [
-      "No disclosed funding — bootstrapped or pre-seed, meaning limited marketing budget to build awareness",
+      "No disclosed funding \u2014 bootstrapped or pre-seed, meaning limited marketing budget to build awareness",
       "Competing against well-known incumbents (Temporal, Airflow, AWS Step Functions)",
-      "Technical buyer (engineering leaders) typically resistant to traditional SDR outreach — needs technical credibility"
+      "Technical buyer (engineering leaders) typically resistant to traditional SDR outreach \u2014 needs technical credibility"
     ],
-    "outreach_angle": "Position as: 'unmeshed was founded by the original Netflix Conductor engineers — that pedigree is the outbound hook. Lead with \"built by the people who built Conductor\" to engineering leaders evaluating workflow orchestration, and back it with the up-to-90%-infra-cost-reduction claim.'",
+    "outreach_angle": "Position as: 'unmeshed was founded by the original Netflix Conductor engineers \u2014 that pedigree is the outbound hook. Lead with \"built by the people who built Conductor\" to engineering leaders evaluating workflow orchestration, and back it with the up-to-90%-infra-cost-reduction claim.'",
     "target_market": "Engineering teams building distributed systems, AI agent pipelines, or microservices architectures",
     "hiring_urgency": "Medium",
     "verified": true
@@ -532,15 +532,210 @@
     "company_name": "CloudHire",
     "gtm_motion": "Marketplace PLG (1 lakh+ active users) + outbound SDR to convert self-serve signups into paying enterprise hiring accounts.",
     "sales_motion": "Outbound SDR targeting companies/hiring teams already aware of or using talent marketplaces; sold on speed (48-hour time-to-hire) and verification quality (triple-verified candidates).",
-    "hiring_signal": "Hiring SDR remotely from Tamil Nadu for a 201-500 person, funded company — signal of a growth-stage company scaling its commercial team beyond the existing 1 lakh+ user base.",
+    "hiring_signal": "Hiring SDR remotely from Tamil Nadu for a 201-500 person, funded company \u2014 signal of a growth-stage company scaling its commercial team beyond the existing 1 lakh+ user base.",
     "observable_gtm_gaps": [
-      "Funding amount undisclosed — harder to gauge real runway and growth aggressiveness",
+      "Funding amount undisclosed \u2014 harder to gauge real runway and growth aggressiveness",
       "Crowded global talent marketplace category (Deel, Andela, Turing, Toptal) with much larger, better-funded competitors",
       "22M+ candidate database is a claim that needs concrete proof points in outreach"
     ],
-    "outreach_angle": "Position as: 'CloudHire has 1 lakh+ active users and a 22M+ candidate database — the SDR motion is about converting that existing marketplace traffic into paying enterprise accounts. Lead with the 48-hour time-to-hire and triple-verification differentiators against Deel/Toptal.'",
+    "outreach_angle": "Position as: 'CloudHire has 1 lakh+ active users and a 22M+ candidate database \u2014 the SDR motion is about converting that existing marketplace traffic into paying enterprise accounts. Lead with the 48-hour time-to-hire and triple-verification differentiators against Deel/Toptal.'",
     "target_market": "Companies and hiring teams wanting to hire and pay verified remote/global talent quickly",
     "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 55,
+    "company_name": "Adobe",
+    "gtm_motion": "Enterprise sales + PLG hybrid across Creative Cloud (self-serve/PLG) and Experience Cloud (enterprise BDR/AE motion). Bengaluru East BDR role targets Experience Cloud enterprise pipeline.",
+    "sales_motion": "Outbound BDR generating qualified enterprise opportunities for AEs; long enterprise sales cycles with RFP/procurement involvement typical of a company this size.",
+    "hiring_signal": "Hiring a BDR in Bengaluru East during a CEO transition (Narayen stepping down after 18 years) \u2014 signal that go-to-market execution continues uninterrupted despite leadership change and ~23% YTD stock decline amid AI-disruption concerns.",
+    "observable_gtm_gaps": [
+      "Leadership transition (CEO search underway) creates a window where GTM messaging may shift once a successor is named",
+      "Stock down ~23% YTD on generative-AI disruption fears \u2014 sales narrative likely needs to address 'why Adobe in the AI era' directly"
+    ],
+    "outreach_angle": "For the BDR: 'Adobe is doubling down on India enterprise coverage even through a CEO transition \u2014 rare stability signal. Want to compare notes on how you're positioning Experience Cloud against the AI-disruption narrative hitting the stock?'",
+    "target_market": "Global enterprises and marketing/creative teams (Experience Cloud, Document Cloud)",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 56,
+    "company_name": "Copado",
+    "gtm_motion": "Enterprise sales via BDR-sourced pipeline, selling AI-powered Salesforce DevOps to large orgs already running Salesforce at scale (1,750+ brands including Coca-Cola, T-Mobile).",
+    "sales_motion": "India-remote BDR building qualified pipeline for a well-established, VC/strategic-backed (Insight Partners, SoftBank, IBM, Capgemini, Salesforce Ventures) DevOps platform competing on release velocity and governance.",
+    "hiring_signal": "Hiring a remote India BDR \u2014 signal of continued India-market pipeline investment for an established Salesforce-ecosystem vendor competing against Gearset and Flosum.",
+    "observable_gtm_gaps": [
+      "Salesforce's own free DevOps Center is a low-cost alternative for smaller orgs \u2014 BDR messaging needs to justify the premium tier",
+      "Multiple well-funded direct competitors (Gearset, Flosum, AutoRABIT) in the same niche Salesforce-DevOps category"
+    ],
+    "outreach_angle": "For the BDR: 'You're selling into Salesforce shops who already know Gearset and Flosum \u2014 what's your wedge for standing out with governance/AI release orchestration as the differentiator?'",
+    "target_market": "Enterprise Salesforce teams running frequent releases",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 57,
+    "company_name": "JumpCloud",
+    "gtm_motion": "AI-native MDR role signals a shift toward using AI in the SDR/MDR workflow itself, targeting mid-market IT teams evaluating IAM consolidation vs. Okta/Entra.",
+    "sales_motion": "Remote India MDR generating marketing-qualified leads for a $2.62B-valuation, $408M-raised identity platform positioned as the price-to-capability alternative to Okta.",
+    "hiring_signal": "Hiring an 'AI Native' MDR \u2014 explicit signal JumpCloud is restructuring its outbound function around AI-augmented prospecting workflows, not just headcount growth.",
+    "observable_gtm_gaps": [
+      "Competing against much larger, better-known incumbents (Okta, Microsoft Entra ID) on brand awareness",
+      "'AI Native' framing of the role itself suggests the team is still defining what AI-augmented MDR workflows look like \u2014 early-stage process"
+    ],
+    "outreach_angle": "For the MDR: 'JumpCloud is explicitly building an AI-native outbound motion \u2014 rare to see that framing in a job title. What AI tooling are you actually being asked to use day-to-day for prospecting?'",
+    "target_market": "SMB-to-mid-market IT teams needing unified device + identity management",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 58,
+    "company_name": "Coram AI",
+    "gtm_motion": "Founder-led enterprise/mid-market sales for a $30M-funded (8VC, Battery Ventures) physical security AI platform, SDR building pipeline in Bengaluru for global accounts.",
+    "sales_motion": "On-site Bengaluru SDR generating opportunities against Verkada's vertically-integrated model \u2014 sales narrative centers on not requiring hardware replacement (20-30% deployment cost reduction per Deloitte).",
+    "hiring_signal": "Hiring an SDR in Bengaluru just months after a well-funded ($30M, 8VC/Battery Ventures) round \u2014 signal of India-market expansion investment for a US-headquartered (Sunnyvale) startup.",
+    "observable_gtm_gaps": [
+      "Verkada has significant brand recognition advantage in physical security; Coram's SDR will need a clear 'why switch from proprietary hardware' story",
+      "India SDR hire for a Sunnyvale-HQ'd startup suggests this is an early, unproven regional expansion"
+    ],
+    "outreach_angle": "For the SDR: 'Coram just raised $30M and is opening India pipeline against Verkada's hardware-locked model \u2014 what's resonating so far with prospects who already have proprietary camera installs?'",
+    "target_market": "Enterprises, school districts, warehouses, and retail modernizing physical security without full hardware replacement",
+    "hiring_urgency": "High",
+    "verified": true
+  },
+  {
+    "company_id": 59,
+    "company_name": "Lucidity",
+    "gtm_motion": "BDR-led enterprise motion for a Series A ($21M, WestBridge) cloud storage optimization SaaS, targeting DevOps/infra teams managing multi-cloud block storage at scale.",
+    "sales_motion": "Bengaluru hybrid BDR building pipeline shortly after a fresh Series A \u2014 cost-savings-led pitch (up to 70% storage cost reduction) to infrastructure/DevOps buyers.",
+    "hiring_signal": "Hiring a BDR in Bengaluru roughly 18 months post-Series A \u2014 signal of scaling the outbound function to convert fresh funding into pipeline growth.",
+    "observable_gtm_gaps": [
+      "Niche category (autonomous block storage optimization) means significant market education is needed before a BDR can qualify leads",
+      "Point-solution competitors (Zesty, Datafy) address narrower scopes \u2014 BDR messaging should emphasize Lucidity's broader multi-cloud coverage"
+    ],
+    "outreach_angle": "For the BDR: 'Lucidity raised a $21M Series A to go after multi-cloud storage optimization \u2014 how are you differentiating from narrower point solutions like Zesty when you're prospecting?'",
+    "target_market": "DevOps and cloud infrastructure teams at enterprises with large multi-cloud block storage footprints",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 60,
+    "company_name": "GoComet",
+    "gtm_motion": "On-site Bengaluru BDR for an AI freight-visibility SaaS with 500+ global brand customers, positioned as the mid-market-friendly alternative to Project44/FourKites.",
+    "sales_motion": "Outbound BDR generating pipeline against category leaders Project44 and FourKites, leaning on the port-congestion delay-forecasting differentiator and freight-audit/spend-analysis breadth.",
+    "hiring_signal": "Hiring a BDR on-site in Bengaluru \u2014 signal of continued domestic sales-team build-out for a Series A ($7M) logistics SaaS scaling toward enterprise accounts.",
+    "observable_gtm_gaps": [
+      "Project44 and FourKites both have stronger global/ocean-freight coverage \u2014 BDR needs a clear mid-market wedge",
+      "On-site (not remote) hiring suggests a more traditional, in-person sales culture that may slow geographic expansion"
+    ],
+    "outreach_angle": "For the BDR: 'GoComet is positioning against Project44 and FourKites on mid-market pricing and the port-congestion forecasting feature \u2014 is that the lead you're opening with, or is freight-audit/spend-analysis resonating more?'",
+    "target_market": "Mid-market to large manufacturing/shipping companies needing end-to-end freight visibility",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 61,
+    "company_name": "Gumlet",
+    "gtm_motion": "Senior SDR hire for a lean (11-50 employee), lightly-funded (~$2.6M) video/image infrastructure API company competing against much better-funded Cloudinary and Mux.",
+    "sales_motion": "Hybrid Bengaluru senior SDR \u2014 likely a self-serve/PLG-led motion with SDR overlay for larger accounts needing managed video delivery infrastructure.",
+    "hiring_signal": "Hiring a 'Senior' SDR (not entry-level) at a company with only ~$2.6M raised \u2014 signal of a lean team looking for an experienced operator to build the outbound motion from a small base, not headcount scaling.",
+    "observable_gtm_gaps": [
+      "Far less capital than Cloudinary (competitor Cloudinary alone valued at $2B) \u2014 GTM likely needs to win on cost/simplicity rather than outspending on marketing",
+      "Senior-level SDR hire into a small team suggests the outbound function may not yet have an established playbook"
+    ],
+    "outreach_angle": "For the Senior SDR: 'Gumlet is going up against Cloudinary and Mux with a fraction of the capital \u2014 what's the wedge you're using to win developer-first accounts away from bigger platforms?'",
+    "target_market": "Developers, media platforms, and brands needing managed video/image delivery infrastructure",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 62,
+    "company_name": "Gravitee",
+    "gtm_motion": "BDR APAC hire immediately following a $60M Series C (Sixth Street) \u2014 signal of geographic expansion funded by fresh growth capital, targeting API/platform teams including emerging agentic-AI API traffic.",
+    "sales_motion": "Hybrid Delhi-based BDR opening APAC pipeline for an event-native API management platform competing against Kong and Postman in the API gateway category.",
+    "hiring_signal": "First visible APAC-titled BDR role post-Series C \u2014 strong signal this is a new regional expansion, not a backfill.",
+    "observable_gtm_gaps": [
+      "Kong and Postman have significantly larger APAC developer mindshare \u2014 APAC BDR is likely doing category education, not just competitive displacement",
+      "New regional hire with no established APAC playbook yet"
+    ],
+    "outreach_angle": "For the BDR: 'Gravitee just closed a $60M Series C and you're the APAC BDR opening the region \u2014 what's the initial account list look like, greenfield or displacement from Kong/Postman?'",
+    "target_market": "Enterprise platform/API teams managing synchronous and event-driven (Kafka/MQTT) APIs, including agentic-AI API traffic",
+    "hiring_urgency": "High",
+    "verified": true
+  },
+  {
+    "company_id": 63,
+    "company_name": "Emsphere Technologies",
+    "gtm_motion": "Remote India SDR for a modestly-funded ($314K seed) blue-collar workforce management SaaS competing against much larger, well-funded Darwinbox and Keka.",
+    "sales_motion": "Remote SDR generating pipeline among enterprises with large, multi-location blue-collar/contract labour forces \u2014 a narrower niche than Darwinbox/Keka's broader HRMS positioning.",
+    "hiring_signal": "Hiring a remote SDR on very limited disclosed funding ($314K) \u2014 signal of a capital-efficient, founder-led growth push rather than a well-capitalized land-grab.",
+    "observable_gtm_gaps": [
+      "Darwinbox and Keka both have far more capital and broader HRMS feature sets \u2014 Emsphere's SDR needs a sharp blue-collar/contract-labour niche pitch, not a head-to-head HRMS comparison",
+      "Minimal disclosed funding for a competitive HR-tech category raises questions about GTM budget for outbound tooling/enablement"
+    ],
+    "outreach_angle": "For the SDR: 'Emsphere is niching down hard on blue-collar and contract-labour management versus the broader Darwinbox/Keka HRMS suites \u2014 is that specialization resonating with prospects, or are you still fighting the 'just use our existing HRMS' objection?'",
+    "target_market": "Enterprises with large blue-collar/contract labour forces across multiple India sites",
+    "hiring_urgency": "Low-Medium",
+    "verified": true
+  },
+  {
+    "company_id": 64,
+    "company_name": "Curately AI, Inc",
+    "gtm_motion": "Remote India-hiring Sales/BDR for a US-headquartered (Alpharetta, GA) agentic AI recruiting/TRM platform, expanding go-to-market reach via India-based outbound talent.",
+    "sales_motion": "Remote BDR/Sales hybrid role generating pipeline for a recruiting-tech platform in a crowded category (HireVue, Andela, Fetcher) \u2014 funding status itself is unclear across sources.",
+    "hiring_signal": "Hiring remotely from India for a US-HQ'd company \u2014 signal of extending outbound coverage/cost efficiency rather than opening a formal India office presence.",
+    "observable_gtm_gaps": [
+      "Funding status is ambiguous across sources (one shows ~$4.62M Series A, another shows none) \u2014 worth probing directly rather than assuming well-capitalized",
+      "Recruiting-tech is a crowded category (HireVue, Andela, Fetcher) \u2014 BDR will need a sharp wedge beyond 'AI-powered'"
+    ],
+    "outreach_angle": "For the BDR/Sales rep: 'Curately is hiring remote India talent for US-market outbound \u2014 with recruiting-tech this crowded (HireVue, Fetcher, Andela), what's the specific wedge you're leading with, the Maya voice agent or the 265M-profile sourcing database?'",
+    "target_market": "High-volume corporate recruiting and staffing teams needing direct-sourcing/TRM automation",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 65,
+    "company_name": "Tario",
+    "gtm_motion": "BDR hire for an early-stage (11-50 employee) agentic AI outbound platform that was incubated inside Zycus Infotech, now building an independent go-to-market motion targeting mid-market SaaS/tech companies.",
+    "sales_motion": "Bengaluru hybrid BDR generating opportunities against well-funded AI SDR category peers (11x.ai, Artisan, Salesforce Agentforce) \u2014 leaning on Zycus's enterprise GTM pedigree as credibility.",
+    "hiring_signal": "Hiring a BDR for a product that literally automates the BDR function \u2014 notable signal that Tario is still building human-led pipeline generation even while selling AI-driven outbound automation to others.",
+    "observable_gtm_gaps": [
+      "No disclosed external funding round \u2014 unclear how much runway/GTM budget exists versus Zycus's internal backing",
+      "Competing against well-funded, higher-profile category peers (11x.ai, Artisan) for the same 'replace your SDR team' narrative"
+    ],
+    "outreach_angle": "For the BDR: 'There's an interesting tension in a human BDR selling a product that automates BDR work \u2014 how are you positioning that with prospects, and how does the Zycus pedigree help you get in the door against Artisan/11x?'",
+    "target_market": "Enterprise sales, RevOps, and marketing teams at mid-market/enterprise SaaS and tech companies",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 66,
+    "company_name": "YNOS Venture Engine",
+    "gtm_motion": "On-site Chennai SDR for a modestly-funded ($821K) startup/VC intelligence platform, competing against much larger Tracxn and Crunchbase, amid a recent CEO transition.",
+    "sales_motion": "On-site SDR generating pipeline among VCs, angels, and startup founders needing India-focused market intelligence \u2014 likely a lower-price/India-specialization wedge versus global platforms.",
+    "hiring_signal": "Hiring an SDR just after naming a new CEO (Karthik Natarajan) \u2014 signal of a leadership-driven push to reinvigorate commercial traction.",
+    "observable_gtm_gaps": [
+      "Tracxn and Crunchbase have far larger datasets and global brand recognition \u2014 SDR needs a clear India-specialization wedge",
+      "Recent CEO change may mean GTM strategy/messaging is still being reset"
+    ],
+    "outreach_angle": "For the SDR: 'YNOS just brought in a new CEO \u2014 is the sales narrative shifting, and how are you positioning against Tracxn/Crunchbase given they have much bigger global datasets?'",
+    "target_market": "Early/growth-stage startup founders, angel investors, VCs, and incubators tracking the Indian startup ecosystem",
+    "hiring_urgency": "Medium",
+    "verified": true
+  },
+  {
+    "company_id": 67,
+    "company_name": "Scooter",
+    "gtm_motion": "Very early-stage (2-10 employees) sales hiring-assessment SaaS hiring two roles (BDR + SDR) simultaneously \u2014 signal of building the entire outbound function from scratch.",
+    "sales_motion": "On-site Bengaluru BDR/SDR pair generating pipeline among sales/RevOps and TA leaders evaluating skills-based hiring assessments over resume screening, against HireVue and Vervoe.",
+    "hiring_signal": "Two concurrent sales hiring roles (BDR + SDR) at a 2-10 employee company founded in 2024 \u2014 strong signal of a very early, first-sales-hire GTM buildout, not a mature motion.",
+    "observable_gtm_gaps": [
+      "No disclosed funding despite a real search attempt \u2014 unclear how much GTM budget/runway exists for a team this size",
+      "HireVue and Vervoe both have far more brand recognition in the assessment space; Scooter's niche is specifically sales-hiring, which needs to be the clear wedge"
+    ],
+    "outreach_angle": "For the BDR/SDR: 'You're one of the first two sales hires at a 2-10 person company \u2014 what does the outbound playbook look like today, and is the 'built specifically for sales hiring, not general assessments' angle the one landing with TA leaders?'",
+    "target_market": "Sales/RevOps and TA leaders at B2B companies hiring SDRs/AEs who want skills-based evaluation over resume screening",
+    "hiring_urgency": "High",
     "verified": true
   }
 ]
