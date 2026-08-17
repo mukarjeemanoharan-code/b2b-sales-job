@@ -753,5 +753,21 @@
     "target_market": "Architecture, engineering and construction (AEC) firms, sustainability consultants, and large real-estate/building owners in India pursuing energy compliance and green building certification.",
     "hiring_urgency": "Medium",
     "verified": true
+  },
+  {
+    "company_id": 73,
+    "company_name": "WebEngage",
+    "gtm_motion": "Enterprise + Mid-Market Sales Overlay. Well-established (2011) MarTech vendor with a strong enterprise base (Unilever, Tata Motors); now explicitly building out a dedicated India Mid-Market motion, with the AVP - Growth (India) personally recruiting a BDR to own that segment.",
+    "sales_motion": "Outbound account-based selling for Mid-Market: finding the right accounts, reaching senior decision-makers, and building pipeline from cold conversations, per the hiring post itself. Existing enterprise motion is relationship/event-led (EngageMint CX roadshows, account management for large accounts like Unilever).",
+    "hiring_signal": "AVP - Growth (India) posted directly on her own LinkedIn (not via recruiter) that she is hiring a BDR for the India Mid-Market team, posted ~2026-08-14. Signal: a deliberate segment build-out (Mid-Market, distinct from the existing enterprise book) inside an already-scaled, profitable SaaS company, not a first-time GTM experiment.",
+    "observable_gtm_gaps": [
+      "Mid-Market appears to be a newer, less-resourced motion relative to the well-established enterprise segment (Unilever-scale accounts) - the hiring post frames this as building something, not maintaining it",
+      "Recently launched BLACK (AI agents) and CDPx (composable CDP) give fresh product hooks that a new BDR could use, but these are enterprise-flagship features that may need mid-market-specific packaging/pricing story",
+      "Competing directly with CleverTap, MoEngage, and Netcore in the same India mid-market segment - all well-funded, India-origin competitors targeting the same buyer"
+    ],
+    "outreach_angle": "Position as: WebEngage just promoted its India growth lead to AVP and she's personally building out a new Mid-Market BDR function, distinct from the existing enterprise business. This is a fresh team formation, not a backfill. Reference the recent BLACK/CDPx launches (their newest, most talked-about capabilities) rather than the older feedback-widget-to-CDP company history. Keep it about the specific new team she's building.",
+    "target_market": "India's Mid-Market consumer brands (D2C, retail, FMCG) needing lifecycle marketing and retention tooling.",
+    "hiring_urgency": "Medium",
+    "verified": true
   }
 ]

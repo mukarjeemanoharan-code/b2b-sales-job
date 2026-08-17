@@ -1199,5 +1199,29 @@
     ],
     "recent_news": "Sept 2025: Appointed Christine Mullin (ex-Microsoft UK, Dext, Texthelp COO) as first external CEO in company's 31-year history, succeeding founder Dr Don McLean who moves to non-executive director. Feb 2024: Received controlling-stake investment from Apax Global Impact Fund to accelerate decarbonisation-focused growth.",
     "verified": true
+  },
+  {
+    "company_id": 73,
+    "company_name": "WebEngage",
+    "product_summary": "Full-stack marketing automation and customer engagement platform for consumer brands. Offers user journey orchestration, email/push/SMS/WhatsApp campaigns, and a composable Customer Data Platform (CDPx). Recently launched BLACK, described as the first outcome-driven AI agents in a customer engagement platform. Serves 850+ brands including Unilever, Airtel, Myntra, Groww, ACKO, and Tata Motors.",
+    "icp": "Mid-market to enterprise consumer brands (D2C, retail, FMCG, fintech, e-commerce) needing lifecycle marketing, retention, and personalization at scale. India's leading Mid-Market brands are the current BDR hiring focus, alongside existing large enterprise accounts like Unilever.",
+    "funding": {
+      "total_raised": "$32.7M across 12 rounds",
+      "last_round": "Not specified in this search (multiple rounds from 47 investors over company history)",
+      "investors": [
+        "47 investors total (not individually itemized in this search)"
+      ],
+      "stage": "Growth / Well Established (14+ years, profitable-scale SaaS)"
+    },
+    "revenue_estimate": "Not disclosed (201-500 employees; 850+ paying brand customers per company reporting)",
+    "competitors": [
+      "CleverTap",
+      "MoEngage",
+      "Netcore Cloud",
+      "Braze",
+      "Salesforce Marketing Cloud"
+    ],
+    "recent_news": "2026: Ran EngageMint CX customer roadshow across Mumbai, Bengaluru, Gurugram, and international cities (DXB, RUH, JKT, NYC), unveiling BLACK (AI agents) and CDPx (composable customer data platform). Signed Wonderchef Home Appliances as a new customer. Shivani Tiwari promoted to AVP - Growth (India), now hiring a BDR to build the India Mid-Market team.",
+    "verified": true
   }
 ]

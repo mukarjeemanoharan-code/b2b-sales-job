@@ -2399,5 +2399,40 @@
     "verified": true,
     "excluded": false,
     "exclusion_reason": null
+  },
+  {
+    "company_id": 73,
+    "company_name": "WebEngage",
+    "linkedin_slug": "webengage",
+    "linkedin_url": "https://www.linkedin.com/company/webengage",
+    "website": "http://webengage.com",
+    "industry": "Technology, Information and Internet",
+    "saas_category": "Customer Engagement / Marketing Automation / CDP (MarTech)",
+    "employee_count": "201-500",
+    "hq": "Mumbai, Maharashtra",
+    "founded": "2011",
+    "about": "Simplifying retention for Unilever, Shopper's Stop, Adani Group, SUGAR Cosmetics, and 850+ global consumer brands. Full-stack marketing automation and customer engagement platform. Rated 4.5 stars on G2.",
+    "specialties": "Customer Data Platform, User Journeys, and Email Marketing",
+    "company_stage": "Well Established Company",
+    "hiring_roles": [
+      "Business Development Representative (BDR) - India Mid-Market"
+    ],
+    "job_urls": [
+      "https://lnkd.in/dX95tGHg"
+    ],
+    "hiring_locations": [
+      "India"
+    ],
+    "hiring_mode": [
+      "Remote (India) / Office"
+    ],
+    "posting_dates": [
+      "2026-08-14"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null,
+    "source_type": "LinkedIn feed post (Agent 1B)",
+    "sourced_via_person": "Shivani Tiwari, AVP - Growth (India), WebEngage"
   }
 ]
