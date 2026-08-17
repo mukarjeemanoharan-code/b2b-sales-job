@@ -1096,5 +1096,35 @@
         "verified": true
       }
     ]
+  },
+  {
+    "company_id": 72,
+    "company_name": "IES Ltd.",
+    "leaders": [
+      {
+        "name": "Christine Mullin",
+        "title": "Chief Executive Officer",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://uk.linkedin.com/in/christine-mullin-a04652",
+        "data_source": "Web (targeted search) - appointed CEO Sept 2025, succeeding founder",
+        "verified": true
+      },
+      {
+        "name": "Dr Don McLean",
+        "title": "Founder, Non-Executive Director",
+        "role_category": "founder_ceo",
+        "linkedin_url": "https://uk.linkedin.com/in/don-mclean-49a900",
+        "data_source": "Web (targeted search)",
+        "verified": true
+      },
+      {
+        "name": "Craig Wheatley",
+        "title": "Chief Commercial Officer",
+        "role_category": "vp_sales",
+        "linkedin_url": "https://uk.linkedin.com/in/dr-craig-wheatley",
+        "data_source": "Web (targeted search)",
+        "verified": true
+      }
+    ]
   }
 ]

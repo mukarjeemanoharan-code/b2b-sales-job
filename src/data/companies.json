@@ -2366,5 +2366,38 @@
     "verified": true,
     "excluded": true,
     "exclusion_reason": "Branding/web-design/digital marketing agency (LinkedIn industry: Marketing Services) serving client SMEs \u2014 not a SaaS product company."
+  },
+  {
+    "company_id": 72,
+    "company_name": "IES Ltd.",
+    "linkedin_slug": "ies-ltd-",
+    "linkedin_url": "https://www.linkedin.com/company/ies-ltd-",
+    "website": "http://www.iesve.com",
+    "industry": "Technology, Information and Internet",
+    "saas_category": "Building Performance Simulation Software (Sustainability/AEC)",
+    "employee_count": "201-500",
+    "hq": "Glasgow, UK",
+    "founded": null,
+    "about": "IES is an innovative company at the forefront of the development and application of powerful software simulation tools and consulting services for architects, engineers and others involved in the design, development and management of truly sustainable buildings.",
+    "specialties": null,
+    "company_stage": "Well Established Company",
+    "hiring_roles": [
+      "Sales Development Representative"
+    ],
+    "job_urls": [
+      "https://www.linkedin.com/jobs/view/4454543929/"
+    ],
+    "hiring_locations": [
+      "India"
+    ],
+    "hiring_mode": [
+      "Remote (India)"
+    ],
+    "posting_dates": [
+      "2026-08-15"
+    ],
+    "verified": true,
+    "excluded": false,
+    "exclusion_reason": null
   }
 ]

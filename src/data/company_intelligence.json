@@ -1174,5 +1174,30 @@
     ],
     "recent_news": "Not identified in available sources.",
     "verified": true
+  },
+  {
+    "company_id": 72,
+    "company_name": "IES Ltd.",
+    "product_summary": "IESVE (Virtual Environment) is a building performance simulation software suite used by architects, engineers and consultants to model energy performance, thermal comfort, daylighting and environmental impact of buildings. Built on the APACHE simulation engine; used across schematic design through post-occupancy for 75,000+ projects/year on iconic buildings (Heathrow T5, Dubai Opera House, MGM Las Vegas).",
+    "icp": "Architecture, engineering and construction (AEC) firms, sustainability consultants, and building owners/operators pursuing energy compliance, net-zero and green building certifications (LEED, BREEAM); mid-to-large enterprises and government bodies with large real-estate portfolios.",
+    "funding": {
+      "total_raised": "Not disclosed (amount undisclosed)",
+      "last_round": "Majority/controlling stake investment from Apax Global Impact Fund, announced Feb 2024",
+      "investors": [
+        "Apax Global Impact Fund (Apax Partners)"
+      ],
+      "stage": "Private Equity - Growth"
+    },
+    "revenue_estimate": "Not disclosed (201-500 employees; 18,000+ software users globally per company reporting)",
+    "competitors": [
+      "DesignBuilder",
+      "EnergyPlus (DOE)",
+      "TRNSYS",
+      "eQuest",
+      "Trane TRACE 3D Plus",
+      "Autodesk Building Performance Analysis"
+    ],
+    "recent_news": "Sept 2025: Appointed Christine Mullin (ex-Microsoft UK, Dext, Texthelp COO) as first external CEO in company's 31-year history, succeeding founder Dr Don McLean who moves to non-executive director. Feb 2024: Received controlling-stake investment from Apax Global Impact Fund to accelerate decarbonisation-focused growth.",
+    "verified": true
   }
 ]

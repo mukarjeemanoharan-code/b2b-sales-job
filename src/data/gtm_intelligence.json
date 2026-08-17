@@ -737,5 +737,21 @@
     "target_market": "Sales/RevOps and TA leaders at B2B companies hiring SDRs/AEs who want skills-based evaluation over resume screening",
     "hiring_urgency": "High",
     "verified": true
+  },
+  {
+    "company_id": 72,
+    "company_name": "IES Ltd.",
+    "gtm_motion": "Enterprise/consultative sales motion for AEC building-performance software, historically sold through regional VP-led teams in North America and Europe. First SDR hire in India signals a new-market entry into APAC/South Asia, timed with a fresh PE-backed growth mandate.",
+    "sales_motion": "Project-based enterprise sales to architecture/engineering firms and building owners; long consideration cycles tied to construction/design project timelines. Remote India SDR role suggests early-stage, single-hire territory build rather than an established local sales team.",
+    "hiring_signal": "Hiring first Sales Development Representative for India (remote), posted ~2026-08-15. Signal: new market entry into India/APAC following Sept 2025 appointment of Christine Mullin as first external CEO with an explicit \"next stage of international growth\" mandate, backed by Apax Global Impact Fund's Feb 2024 controlling-stake investment.",
+    "observable_gtm_gaps": [
+      "No existing India-based sales presence found (VP Sales structure currently only covers North America and Europe) \u2014 this SDR would be the first local commercial hire in the region",
+      "India's AEC/green-building market (BEE codes, GRIHA/LEED-India adoption) is comparatively nascent \u2014 brand awareness for IESVE likely low versus incumbent CAD/BIM-adjacent tools",
+      "New CEO (5 months into tenure) still building out go-to-market leadership team \u2014 India SDR may lack a dedicated regional sales manager initially"
+    ],
+    "outreach_angle": "Position as: \"IES just brought in its first external CEO with a mandate to scale internationally, backed by Apax's climate-focused investment \u2014 and you're opening India with a single SDR hire. Want to compare notes on how sustainability-software companies are building out APAC go-to-market from scratch?\" Lead with the PE-backed growth timing and the greenfield India build, not generic SDR-tooling pitches.",
+    "target_market": "Architecture, engineering and construction (AEC) firms, sustainability consultants, and large real-estate/building owners in India pursuing energy compliance and green building certification.",
+    "hiring_urgency": "Medium",
+    "verified": true
   }
 ]
